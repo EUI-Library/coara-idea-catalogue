@@ -1,19 +1,24 @@
 ---
 title: "About"
-image: profile.jpg
+image: images/coara.png
 about:
-  template: jolla
+  template: marquee
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: github
       text: Github
       href: https://github.com
 
 ---
 
-This is the idea catalogue
+The **CaARA Experimental Idea Catalogue** is designed to be a resource for those developing and/or implementing assessment processes at a variety of different levels, including:
+
+- hiring and promotion
+- project funding
+- research programme funding
+- institutional evaluations 
+- national research system evaluations. 
+
+A collection of different experimental ideas are represented here, that can be used as inspiration for designing experiments that innovate on current assessment practices.
+
+As the main output of the **CoARA Working Group “Experiments in Assessment”**, we aim to foster experimental ideas that advance research assessment towards a more holistic and inclusive definition of quality and excellence. This idea catalogue should help enable those responsible for assessment to experiment and innovate, driving bold and ambitious change to improve the quality of research across institutions and countries. 
+

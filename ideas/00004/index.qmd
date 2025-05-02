@@ -4,13 +4,7 @@ author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Broaden recognition, Diversifying recognition, Funding inclusiveness, Competitive evaluation of people or projects, Funders, Research performing organisations]
 description: "This experimental idea aims to change the template for CVs submitted with applications from an itemised format to a structured narrative style. Narrative CVs enable applicants to go beyond closed categories and to express outputs, impacts, activities and skills that would normally be difficult to place in a CV format. Narrative CVs can be implemented for individuals or for teams."
-listing:
-  contents: ideas
-  sort: "date desc"
-  type: grid
-  categories: true
-  sort-ui: false
-  filter-ui: false
+image: false
 ---
 ::: {.callout-warning icon=false}
 
