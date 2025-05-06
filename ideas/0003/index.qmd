@@ -1,9 +1,8 @@
 ---
-title: "This is the title of the experimental idea 000003"
-author: "Experiments WG"
+title: "Assessment Lotteries"
+author: "Experiments in Assessment WG"
 date: "2025-02-18"
 categories: [news, code, analysis]
-image: "image.jpg"
 description: "This is a sample abstract description of an idea, to appear also in the listing page. This is a sample abstract description of an idea, to appear also in the listing page."
 ---
 

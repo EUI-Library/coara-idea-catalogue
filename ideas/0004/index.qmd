@@ -1,0 +1,87 @@
+---
+title: "Critical Friends - Pick your own Reviewers"
+author: "Experiments WG"
+date: "2025-02-18"
+categories: [Broaden recognition, Diversifying recognition, Funding inclusiveness, Competitive evaluation of people or projects, Funders, Research performing organisations]
+description: "This is a sample abstract description of an idea, to appear also in the listing page. This is a sample abstract description of an idea, to appear also in the listing page."
+---
+
+::: {.callout-warning icon=false}
+
+## Objectives
+
+- Empower the researcher and research institutes to take ownership of their own assessment 
+- Foster transparency of the evaluation process
+- Add potential benefits to the review process (e.g. building collaborative links between evaluators and applicants)
+
+:::
+
+## Introduction
+
+ABSTRACT - LATER
+
+### Related CoARA commitments
+
+2. Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+
+
+## Research domains
+
+This idea applies to all research domains.
+
+## What are potential variables  
+
+- Who picks the reviewers
+- Level of assessment (individual, project, research group, institution)
+- Criteria for picking the reviewers (e.g. geographic, gender, etc..)
+
+## Implementation suggestions 
+<!--COMMENT: Also include costs here*-->
+
+- Decide assessment process logistics before start (virtual vs. in person, timings, etc)
+- Depending on scope of assessment, determine timing and intermediate steps (e.g. feedback to applicants, etc.)
+- Determine if there are veto rights by certain stakeholders on who is chosen as an evaluator
+- Doesn’t actually save resources for administration, efforts are shifted to different parts of the process than searching for evaluators
+
+## Challenges and mitigations
+
+### Challenges
+
+- Maximizing diversity in reviewer choice - not always picking the same people
+- Potential Conflicts of Interest - need to be very sure
+- Reviewers are sometimes confused at this process change, need onboarding
+- Biases due to known/unknown relationships (personal, professional, reputational)
+
+### Mitigation strategies
+
+- Guidelines for how to pick reviewers could increase diversity/reduce bias
+- Clear communication for the experiment for all stakeholders
+- Need to double check anyways for conflict of interest
+- Clear instructions for the evaluators (e.g. bias awareness training)
+
+
+## Evaluating success
+
+- Diversity of the evaluator pool (geographic, gender, new vs old partners, etc.)
+- Self-assessment feedback from applicants (including off-target effects - does this create a real benefit for the applicants?)
+- 
+
+
+# Relevant resources/literature 
+## Templates from funders and institutions 
+- **TITLE HERE** - UK - [URL here](link)
+- 
+
+
+## Case examples and literature studying narrative CVs
+- 
+
+
+
+
+## Other resources
+**PEP-CV**: The Peer Exchange Platform for Narrative-style CVs (PEP-CV) is a resource for the research and innovation community developed by a partnership between funding agencies and researchers. https://pep-cv.mariecuriealumni.eu
+
+
+# Comments/lived examples 
+***TBD***
