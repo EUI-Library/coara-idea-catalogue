@@ -1,0 +1,239 @@
+---
+title: "Narrative CV"
+author: "Experiments in Assessment WG"
+date: "2025-03-03"
+categories: [Broaden recognition, Diversifying recognition, Funding inclusiveness, Competitive evaluation of people or projects, Funders, Research performing organisations]
+description: "This experimental idea aims to change the template for Curriculum Vitaes (CVs) submitted with applications from an itemised format to a structured narrative style. Narrative CVs were created to enable applicants to go beyond closed categories and to express outputs, impacts, activities and skills that would normally be difficult to place in a CV format. Narrative CVs can be implemented for individuals or for teams."
+image: false
+---
+
+<!--
+GENERAL GUIDELINES:
+- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
+- Tags (apply as relevant):
+Level_5 - Experiment tested with evidence on different levels/in different scopes and settings - tested on another institutions (reproducible and comparable)
+Challenge_Process: create an assessment process based upon what the different players in research value
+Challenge_Inclusivity: make research more inclusive and equitable through assessment
+Challenge_Bias_Mitigation: mitigate the negative effects of bias on assessment
+Challenge_Process_Culture: recognize process and culture through assessment
+Challenge_Diversity: foster diversity through assessment
+Challenge_DifferentQuestions: ask assessment questions differently
+CoARA_Commitment_1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA_Commitment_2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA_Commitment_3 - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
+Actor_Funders: Funders and regional authorities
+Actor_Institutes: Research institutions
+Actor_Academies: Academies and learned societies
+Actor_Groups: Research groups
+Actor_Meta-Researchers: Meta-researchers
+-->
+
+::: {.callout-warning icon=false}
+
+## Objectives and potential outcome
+<!--
+PROMPTS:
+- What happens if this is successful? What changes if this works? 
+- What improvements are we aiming for?
+- These can be related to the main questions
+- If there are multiple experiments fitting, put them here
+-->
+
+- Objective 1: Diversify what is recognized or used in assessment
+- Objective 2: Create space for diverse career paths, outputs, competences, and achievements
+- Objective 3: Provide room for the assessed to express what really matters to them
+- Objective 4: Provide room for unquantifiable achievements and impacts
+- Objective 5: Discourage quantification and focus on productivity
+
+:::
+
+## Research domains
+<!--
+PROMPTS:
+- Which domain(s) can this experiment be applied in? 
+-->
+
+Narrative CVs can be applied to any domains or disciplines. They can be used for individual assessment as well as for team-level assessment. 
+
+## Context and considerations
+<!--
+PROMPTS:
+- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
+- What type of assessment does this work on (Team/individual/project/institutional);
+- What is the objective of evaluation exercise linked to the type of assessment
+- What are the things that change in the experiment?
+- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
+-->
+
+Experimenting with Narrative CVs can be relevant for a broad array of stakeholders. Documented examples and implementation of Narrative CVs have taken place in research funding organisations, research institutions, and research academies, but they Narrative CVs could realistically be implemented anywhere a traditional CV is used. Narrative CVs are most often used at an individual level, but they are also starting to be used at a team level for grant funding schemes (e.g., R4RI).
+
+Narrative CVs have often been implemented before experimentation, yet research funding organisations and research institutions are also experimenting on Narrative CVs to understand how they impact assessment processes, how they shape assessment decisions, and how they shape the experience of applicants and reviewers. Examples of experiments include:
+- Surveys with applicants to understand their perspective, use, and experience with Narrative CVs
+- Surveys with assessors to understand their perspective, use, and experience with Narrative CVs
+- Surveys with review panel members to understand their perspective, use, and experience of Narrative CVs
+- Interviews, focus groups, and workshops with experts to understand their perspective, worries, and hopes about Narrative CVs
+- Secondary data analyses of the characteristics of projects and individuals funded before and after the implementation of Narrative CVs
+- Content analyses of Narrative CVs to understand the type of informations included in the CV and the tone with which it is presented (e.g., sentiment analyses)
+- Literature review (including grey literature) to bring together evidence around Narrative CVs
+
+These experiments most often aim to capture perspectives and experiences with Narrative CVs, but some also aim to capture how the implementation of Narrative CVs shapes assessment processes and decisions. These latter points of investigation are especially important for understanding the potential implications of Narrative CVs, their impact on research success, research cultures, and research practices, as well as their unintended consequences. Other elements that could be studied are the impact of training or mentoring applicants and reviewers on the Narrative CV experience, the impact of diverse templates, length, and question formulation of narrative CVs on the information included in the application, the impact of complementary material used alongside the Narrative CV, or the impact of large language models on Narrative CVs.
+
+Most experiments study the effects and impacts of Narrative CVs as they are implemented, rather than in a controlled trial manner. This is often a needed limitation to ensure that assessment processes remain fair and equal for all applicants. This is not a limitation per se, given that most current assessment methods were implemented without being tried-and-tested, but it opens an opportunity for metaresearch projects experimenting on Narrative CVs outside the a hiring and promotion or funding contingencies to address this gap.
+
+
+## Challenges and mitigations
+<!--
+PROMPTS:
+- Each challenge and mitigation grouped together
+- If there isn’t mitigation, say so
+- Tips and tricks for preparing and running the experiment
+-->
+
+As mentioned above, one of the biggest challenge in experimenting with Narrative CVs is their 
+
+Some challenges in implementing and experimenting with Narrative CVs have been documented in the literature. These include perceived challenges from (potential) users as well as reported challenges from those implementing or piloting with Narrative CVs.
+
+Exemples of challenges include:
+
+*Chalenge - Disciplinary buy-in*:
+While some disciplines may already be comfortable using qualitative information in an evaluative manner, other disciplines may feel more comfortable with quantitative information, and may show a resistence in prioritising qualitative elements described in the narrative CV over other forms of metrics.
+*Mitigation*:
+Providing a space for everyone in the community to discuss and be heard is essential to enable a shared understanding and a shared perspective among different disciplines. Creating a platform for exchange could be a way to promote such dialogues, or enabling everyone involved in the institution to be involved in discussing the implementation of narrative CVs and in shaping their implementation can play a cricial role on future buy-in. In addition, building a more thorough metrics literacy can help individuals understand the limitations and illusion of objectivity that certain metrics provide, and equip users to identify how such metrics can be used responsibly to complement qualitative information. Thorough training for assessors and reviewers may also help in this regard.
+
+*Challenge - Perceived loss of objectivity:*
+Narrative CVs are sometimes criticised for reducing the objectivity of applications processes, especially when compared to numerical metrics.
+*Mitigation*:
+Building a more thorough metrics literacy can help individuals understand the limitations and illusion of objectivity that certain metrics provide, and equip users to identify how such metrics can be used responsibly to complement qualitative information. Thorough training for assessors and reviewers may also help in this regard.
+
+Challenge - Labor
+Narrative CVs often raise a concern among applicants and reviewers because they may take more time and effort to complete and review. While the time and effort needed to complete or review narrative CVs compared to tabular CVs is debated ([see FNR reports on implementation and feedback reports](https://www.fnr.lu/narrative-cv/)), introducing a new method will always take a moment of adaptation and require time and efforts by the applicants and assessors. In addition, narrative CVs are often (although not always) described as more adaptable, enabling applicants to target specific elements of the application better. Consequently, for applicants, narrative CVs may need to be taylored for each specific application, duplicating burdens and time needed for each application.
+Mitigation: A simple mitigation for the added labor that may be introduced by narrative CV is to reduce burden in other aspects of the process and to avoid duplication of information required - a problem that is often recurrent in any application processes. In addition, applicants may be encouraged to save and reuse their narrative CV and provided with the technical possibility of reimporting an editable version of their narrative CV in multiple applications on the same application system. Training to both assessors and applicants may also support, over time, a reduction of burdens associated with the exercise. Along the same lines, providing more time between assessments and reducing the assessment frequency (e.g., longer contracts, longer funding terms) could help secure time for better, more thorough applications.
+
+*Challenge: Internal alignment at the organisation/change management*:
+Ensuring that the entire organisation is aligned on the purpose for implementation can be challenging.
+*Mitigation*: Aligning the narrative CV with the objectives and purpose of the institution/hiring team/funding scheme can help support stronger alignment between the objective of narrative CV implementation and the purpose within the organisation. 
+
+*Challenge - Scalability of the process*:
+Implementing narrative CVs may be daunting especially in small institutions or in very large programmes.
+*Mitigation*: Several organisation start implementing narrative CVs on smaller programmes (e.g., early career collaboration funds, travel funds) to pilot their implementation and all the procedures and technical and human efforts needed to embed the change. This can provide an overview of the resources needed, and enable a pave the way to larger-scale implementation. 
+
+## Evaluating success
+<!--
+PROMPTS:
+- Evaluation criteria for the experiment 
+- How do you know it worked or didn’t?
+-->
+
+The successes of implementing narrative CVs should target the reasons for implementation. Were narrative CVs implemented to foster a diversity of successful candidates, to foster a diversity of research achievements, to align with DORA and CoARA? These motives should be explicit and the success of the implementation should be based on such motives. 
+
+## Related CoARA commitments
+<!--
+PROMPTS:
+Directly reference as many of the 10 CoARA commitments as are fitting
+-->
+
+# Relevant resources and literature 
+
+This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+Rocky, S. (2014, November 26). Implementing the Modified NIH Biosketch Format. NIH Extramural Nexus. https://nexus.od.nih.gov/all/2014/11/26/implementing-the-modified-nih-biosketch-format/
+- First pilot results on helpfulness and suitability of the NIH Biosketch implementation in the USA. These results as briefly summarised in a blog post from 2014, making it one of the first documented implementation of Narrative CV.
+
+Health Research Board Ireland. (2023). Round 1 Narrative CV Survey 2021—2022. https://www.hrb.ie/wp-content/uploads/2025/02/HRB-Narrative-style-CV-Round1.pdf
+- Results of 2021-2022 survey with Narrative CV users at the Health Research Board, Ireland. These include an Evaluation of the experience of those using the narrative-style CV by surveying research applicants, mentors (where applicable), and reviewers in different career schemes. These surveys target the acceptance and usability of the CV; effectiveness of the guidance provided; and how this approach is affecting the way research is assessed and funding is awarded. 
+
+Health Research Board Ireland. (2025, February 21). Round 2 Narrative CV Survey 2023—2024. https://www.hrb.ie/wp-content/uploads/2025/02/HRB-Narrative-style-CV-Round2.pdf
+- Results of 2023-2024 survey with Narrative CV users at the Health Research Board, Ireland. These include an evaluation of the experience of those using the narrative-style CV by surveying research applicants, mentors (where applicable), and reviewers in different career schemes. These surveys target the acceptance and usability of the CV; effectiveness of the guidance provided; and how this approach is affecting the way research is assessed and funding is awarded. 
+
+Strinzel, M., Kaltenbrunner, W., van der Weijden, I., von Arx, M., & Hill, M. (2022). SciCV, the Swiss National Science Foundation’s new CV format. bioRxiv, 2022.03.16.484596. https://doi.org/10.1101/2022.03.16.484596
+- 2020-2022 project on the new CV format for SNSF, which analysed the SciCV using (i) surveys and semi-structured interviews with applicants and reviewers, (ii) text analysis of the narrative elements of SciCV, and (iii) participant observation in ten evaluation panel meetings.
+
+Kaufeld, G., & Jerke, J. (2024, November 28). Our new CV format: How is it used by researchers? SNSF Data Portal. https://data.snf.ch/stories/new-cv-format-worktypes-en.html
+- Summary of findings from the 2024 project on the new CV format for SNSF. This one studies the use of the standardised CV from an analysis of 12,655 CVs submitted to the SNSF’s main funding schemes from October 2022 to July 2024. The project associated data and code on the use of the standardised CV are available at Kaufeld, G., & Jerke, J. (2024, November). SNSF Datastory—Our new CV format: How is it used by researchers? SNSF. https://doi.org/10.46446/datastory.new-cv-format-worktypes
+
+CultureBase, Different Angles, & SIRIS Academic. (2024, December). Evaluation of the Unified Evaluation Procedure and standardised CV format. https://www.snf.ch/media/en/432AqxIEkx6tKCtP/Evaluation-of-the-Unified-Evaluation-Procedure-and-standardised-CV-format.pdf
+- Results from a 2024-2025 external analysis of the SNSF evaluation procedures from CultureBase, SIRIS Academic and Different Angles. The evaluation explores the usability, transparency and effectiveness of the reforms by triangulating three evidence sources – (i) a survey with 8,099 Applicants, 757 Evaluation Panel Members, and 5,889 External Reviewers; (ii) interviews with 13 Applicants, 11 Evaluation Panel Members (3 Research Councillors and 8 other Panel Members) and 3 External Reviewers; and (iii) a secondary data analysis of Evaluation Panel Member scores, funding decision and Applicant characteristics from 3,137 proposals submitted to SNSF since 2022, alongside text analysis of 6,756 standardised CVs.
+
+Adams, E., Casci, T., Padgett, M., & Alfred, J. (2023). Narrative CVs: Supporting applicants and review panels to value the range of contributions to research. OSF Preprints. https://doi.org/10.31219/osf.io/4fmj7
+- Preprint sharing the results from a three-month project at the University of Glasgow to review the effectiveness of the current narrative CV format (résumé for researchers) from the point of view of the CV writer and the review panel. 
+
+Luxembourg National Research Fund. (2022). Narrative CV Implementation and Feedback Results. https://fnrlu.sharepoint.com/sites/Website/General%20Guidelines%20%20Policies/Forms/AllItems.aspx?id=%2Fsites%2FWebsite%2FGeneral%20Guidelines%20%20Policies%2FNARRATIVE%20CV%2FFeedback%20%26%20Implementation%20Reports%2FNarrative%20CV%20Feedback%20%2D%202021%20report%5Fwcover%2Epdf&parent=%2Fsites%2FWebsite%2FGeneral%20Guidelines%20%20Policies%2FNARRATIVE%20CV%2FFeedback%20%26%20Implementation%20Reports&p=true&ga=1
+- Analysis of the feedback on implementation of narrative CVs at FNR Luxembourg captured from applicants and reviewers through a survey in 2021/22.
+
+Luxembourg National Research Fund. (2023). Narrative CV Implementation and Feedback Results. https://fnrlu.sharepoint.com/sites/Website/General%20Guidelines%20%20Policies/Forms/AllItems.aspx?id=%2Fsites%2FWebsite%2FGeneral%20Guidelines%20%20Policies%2FNARRATIVE%20CV%2FFeedback%20%26%20Implementation%20Reports%2FNarrative%20CV%202023%20Report%5FFINAL%5Fwithcover%2Epdf&parent=%2Fsites%2FWebsite%2FGeneral%20Guidelines%20%20Policies%2FNARRATIVE%20CV%2FFeedback%20%26%20Implementation%20Reports&p=true&ga=1	
+- Analysis of the feedback on implementation of narrative CVs at FNR Luxembourg captured from applicants and reviewers in 2023.
+
+Luxembourg National Research Fund. (2024). Narrative CV Implementation and Feedback Results. https://www.fnr.lu/narrative-cv-2024-report-on-implementation-feedback-results/
+- Analysis of the feedback on implementation of narrative CVs at FNR Luxembourg captured from applicants and reviewers in 2024.
+
+Meadmore, K., Recio-Saucedo, A., Blatch-Jones, A., Church, H., Cross, A., Fackrell, K., Thomas, S., & Tremain, E. (2022a). Exploring the use of narrative CVs in the NIHR: a mixed method qualitative study. NIHR Open Res, 2, 38. https://doi.org/10.3310/nihropenres.1115193.1	
+- Mixed method qualitative study that explored the use of narrative CVs in the National Institute for Health and Care Research (NIHR). It included secondary analysis of fifteen documents, including data from nine workshops, three consultations or reviews and three reports generated by the Royal Society, as well as (ii) online focus groups and interviews to gather views and perspectives of six NIHR stakeholder groups on the use of a narrative CV in the NIHR.
+
+Meadmore, K., Recio-Saucedo, A., Blatch-Jones, A., Church, H., Cross, A., Fackrell, K., Thomas, S., & Tremain, E. (2022b). Thematic framework for exploring the use of a narrative CV, initial findings from secondary analysis of Royal Society data. NIHR Open Res, 2, 15. https://doi.org/10.3310/nihropenres.1115179.1
+- Document analysis of data collected by the Royal Society from their work on research culture and the subsequent development of the Résumé for Researchers. These data were shared with the NIHR to inform discussions about the potential for use of a narrative CV within the NIHR. 
+
+Cancer Research UK (2023). Analysis of using narrative CV for CRUK funding https://assets.ctfassets.net/u7vsjnoopqo5/4SSiJ4nAennBcTQAXlANFq/75b2092e5fb4d335dc2531812319bd40/cruk_website_analysis_of_using_the_narrative_cv_v1-22072024.pdf
+- Analysis of NCV user survey data at Cancer Research UK.
+
+New Zealand Ministry of Business, I. & E. (2023a). Endeavour Fund Narrative CV Webinar for Researchers—Slide deck. New Zealand Ministry of Business, Innovation & Employment. https://www.mbie.govt.nz/dmsdocument/26222-endeavour-fund-narrative-cv-webinar-for-researchers-slide-deck
+- Slides presenting the introduction of the NCV in the Endeavour Fund in greater details, with some findings of initial surveys
+
+Ioppolo, B., Hampton, J., Abel, L., Etheridge, M., Tal-Perry, N., Barnett, A., Dawson, K. M., Matthews, Z., Murray, K., Osborn, S., Simmonds, L., & Wooding, S. (2024). Exploring the use of Resume for Research and Innovation Narrative CVs in live postdoc recruitments. MetaArXiv. https://doi.org/10.31222/osf.io/rvfwn
+- Controlled Trial using the R4RI format to investigate the effects of using narrative CVs in postdoc recruitment submitted for the STI2024 conference, reporting findings from a pilot within a larger RCT testing the effect of NCV.  The results in this preprint report findings from semi-structured interviews with twelve candidates and twelve panel members on the impact of the R4RI NCV template relative to the Standard CV format in live recruitments of postdoctoral positions at the University of Cambridge. 
+
+Etheridge, M., Murray, K., & Dawson, K. (2024). Disrupting Academia’s Care-Free Narrative. Exchanges: The Interdisciplinary Research Journal, 11(3), 175–192. https://doi.org/10.31273/eirj.v11i3.1547
+- This paper looks at the types of ‘care obfuscations’ and confessions supported by the CV in both its traditional and narrative form.
+
+Tal-Perry, N., Abel, L., Etheridge, M., Hampton, J., Ioppolo, B., Barnett, A., Johnson, T. R. , Wooding, S. (2025). https://www.arrc.group.cam.ac.uk/sites/default/files/Tal-Perry_et_al_2025_STI_v2.pdf
+- STI slide deck on 'Development of a Bayesian Thurstonian Model for Analysing Ranking Data From Live Postdoc Recruitment'	Use of data collected in row 59 to develop to construct a generative model to generate simulation experiments - simulation data were modelled to test how changes in parameters affects dispersion of model estimates
+
+Ciampi, L., Ioppolo, B., Tal-Perry, N., Abel, L., Etheridge, M., Barnett, A., Johnson, T. R., Birkett, D., Wooding, S. (2025). IRCC poster on 'Narrative CVs may be limited in shifting dimensions of research culture in postdoctoral recruitment'. https://www.arrc.group.cam.ac.uk/sites/default/files/NCV%20poster%20final%20v2.pdf
+- Controlled Trial using the R4RI format to investigate the effects of using narrative CVs in postdoc recruitment submitted for the STI2024 conference, reporting findings from a pilot within a larger RCT testing the effect of NCV.  The results in this preprint report findings from semi-structured interviews with twelve candidates and twelve panel members on the impact of the R4RI NCV template relative to the Standard CV format in live recruitments of postdoctoral positions at the University of Cambridge.
+
+Research on Research Institute (RoRI), Kaltenbrunner, W., Woods, H. B., & Varga, J. (2024). Taming complexity: Narrative CVs in grant funding evaluations (RoRI Working Paper No. 14). https://doi.org/10.6084/m9.figshare.27291537.v4
+- Report that draws "on observations and interviews with reviewers in two subsequent funding rounds of a grant program of the Dutch Research Council NWO" and "propose a way to conceptualize how narrative CVs alter evaluative practices in peer review". 
+
+Research on Research Institute (RoRI), Varga, J., & Kaltenbrunner, W. (2025). RoRI Insights: Implementing Narrative CVs—Five recommendations for Funders. https://doi.org/10.6084/m9.figshare.28524755
+- Final report which contains recommendations based on "observations at peer review panels and interviews with reviewers across three different funding programs, for which assessment took place between June 2023 and November 2024." The report contains direct quotes and thus is a good source of qualitative data.
+
+Varga, J. & Kaltenbrunner, W. (2025). Narrative CVs: Remaking Scientific Selves. TBA.
+- Final report of a two-year study that analyzed how the introduction of narrative CVs has affected the evaluative practices of reviewers in grant programs of three funders: NWO, SNSF, VW Foundation. The empirical work focuses on two consecutive years and both SSH and STEM disciplines in all three case studies.
+
+Fasoli, F., Frith, H. L., Hutton, S., Noel N. E. D. (2025). WRITING AND EVALUATING NARRATIVE CVs - Breaking Barriers in Research Funding Applications. https://openresearch.surrey.ac.uk/esploro/outputs/report/99777566402346
+- This report presents a study that analyses the language used by researchers in narrative CVs and examines how specific linguistic features influence reviewers' evaluations.
+
+Government of Canada. (2021, September 6). Codesigning the TGMS. https://science.gc.ca/site/science/en/interagency-research-funding/tri-agency-grants-management-solution-tgms/codesigning-tgms#cv-mgmt-journey-maps
+- Background workshops that led to the development of the Tri-agency CV. "In fall 2019 and winter 2020, individuals from the research community (primary users of the agencies’ systems) participated in workshops to identify key needs, tasks, and pain points within the current tri-agency grants management systems.
+
+ 
+## Templates from funders and institutions 
+<!--
+PROMPTS:
+- Add templates from funders and institutions if existing
+-->
+
+R4RI CV Template and guidance: https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/
+
+Royal Society Résumé for Researchers: https://royalsociety.org/news-resources/projects/research-culture/tools-for-support/resume-for-researchers/ 
+
+
+
+<## Case examples and literature
+<!--
+PROMPTS:
+Any organisation names, links, authors that may be relevant to look into
+-->
+
+## Other resources
+<!--
+PROMPTS:
+Include any other resource here
+-->
+
+
+# Comments/lived examples
+<!--
+PROMPTS:
+Section to be kept blank, for input within the idea catalogue
+-->
+>

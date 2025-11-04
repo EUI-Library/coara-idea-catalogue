@@ -1,0 +1,132 @@
+﻿---
+title: "Academic support training"
+author: "Experiments in Assessment WG"
+date: "2025-03-03"
+categories: [Level 0, Institutes]
+description: "Academic support training equips staff to guide researchers through assessment processes by providing information, training, and tools to monitor evaluation of their work, units, and careers. This fosters transparency, empowers researchers, and drives culture change towards fairer, more responsible research assessment practices."
+image: false
+---
+
+<!--
+GENERAL GUIDELINES:
+- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
+- Tags (apply as relevant):
+Level of completeness: 0
+Level of completeness: 1
+Level of completeness: 2
+Level of completeness: 3
+Level of completeness: 4
+Level of completeness: 5
+Challenge: create an assessment process based upon what the different players in research value
+Challenge: make research more inclusive and equitable through assessment
+Challenge: mitigate the negative effects of bias on assessment
+Challenge: recognize process and culture through assessment
+Challenge: foster diversity through assessment
+Challenge: foster collaboration through assessment
+Challenge: ask assessment questions differently
+Commitment: 1. Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+Commitment: 2. Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+Commitment: 3. Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
+Commitment: 4. Avoid the use of rankings of research organisations in research assessment
+Commitment: 5. Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
+Commitment: 6. Review and develop research assessment criteria, tools and processes
+Commitment: 7. Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
+Commitment: 8. Exchange practices and experiences to enable mutual learning within and beyond the Coalition
+Commitment: 9. Communicate progress made on adherence to the Principles and implementation of the Commitments
+Commitment: 10. Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
+Actor: Funders and regional authorities
+Actor: Research institutions
+Actor: Academies and learned societies
+Actor: Research groups
+Actor: Meta-researchers
+-->
+
+::: {.callout-warning icon=false}
+
+## Objectives and potential outcome
+<!--
+PROMPTS:
+- What happens if this is successful? What changes if this works? 
+- What improvements are we aiming for?
+- These can be related to the main questions
+- If there are multiple experiments fitting, put them here
+-->
+
+- Objective 1
+- Objective 2
+
+:::
+
+## Research domains
+<!--
+PROMPTS:
+- Which domain(s) can this experiment be applied in? 
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Context and considerations
+<!--
+PROMPTS:
+- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
+- What type of assessment does this work on (Team/individual/project/institutional);
+- What is the objective of evaluation exercise linked to the type of assessment
+- What are the things that change in the experiment?
+- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Challenges and mitigations
+<!--
+PROMPTS:
+- Each challenge and mitigation grouped together
+- If there isn’t mitigation, say so
+- Tips and tricks for preparing and running the experiment
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Evaluating success
+<!--
+PROMPTS:
+- Evaluation criteria for the experiment 
+- How do you know it worked or didn’t?
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Related CoARA commitments
+<!--
+PROMPTS:
+Directly reference as many of the 10 CoARA commitments as are fitting
+-->
+
+# Relevant resources and literature 
+
+This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+## Templates from funders and institutions 
+<!--
+PROMPTS:
+- Add templates from funders and institutions if existing
+-->
+
+## Case examples and literature
+<!--
+PROMPTS:
+Any organisation names, links, authors that may be relevant to look into
+-->
+
+## Other resources
+<!--
+PROMPTS:
+Include any other resource here
+-->
+
+
+# Comments/lived examples
+<!--
+PROMPTS:
+Section to be kept blank, for input within the idea catalogue
+-->

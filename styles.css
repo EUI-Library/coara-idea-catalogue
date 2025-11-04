@@ -1,1 +1,25 @@
 /* css styles */
+@import url("https://use.typekit.net/voe8gtb.css");
+
+body {
+  font-family: "poppins", sans-serif;
+}
+
+.quarto-title-banner {
+  background: #004494;
+  background-image: linear-gradient(0deg, #004494 0%, rgb(30, 156, 241) 100%);
+}
+
+.navbar-logo {
+  width: 100%;
+  height: 40px;
+  max-height: 40px;
+}
+
+.footer {
+  font-size: 0.9rem;
+}
+
+.quarto-title .quarto-categories .quarto-category {
+    opacity: .8;
+}

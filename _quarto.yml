@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "CoARA Assessment Idea Catalogue"
+  title: "Assessment Idea Catalogue"
   search: 
     location: navbar
     type: textbox
@@ -11,13 +11,15 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-    logo: images/coara.png
+        href: https://github.com/EUI-Library/coara-idea-catalogue
+    logo: images/logo-CoARA-menu-white.svg
   page-footer:
     center: "Unless otherwise specified, content is licenced as [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)"
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - coara.scss
     css: styles.css
 
 
