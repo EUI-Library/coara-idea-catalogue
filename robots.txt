@@ -1,0 +1,1 @@
+Sitemap: https://EUI-Library.github.io/coara-idea-catalogue/sitemap.xml
