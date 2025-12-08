@@ -1,8 +1,8 @@
 ﻿---
 title: "Wildcard in the review panel"
-author: "Experiments in Assessment WG"
+author: "Thomas Feliciani, Experiments in Assessment WG"
 date: "2025-03-03"
-categories: [Level 0, Funders, Institutes, Academies,  Meta-Researchers]
+categories: [Level 3, CoARA Commitment 1, CoARA Commitment 6, CHALLENGE Inclusivity, USER Funders, USER Institutes, USER Academies,  USER Meta-Researchers]
 description: "Reviewers can use their wildcard or golden ticket (one per call) to directly fund a proposal they consider exceptionally promising but fear may be overlooked—often because it is risky, innovative, or niche. This mechanism promotes diversity and supports underrepresented researchers, interdisciplinary projects, and high-risk, high-reward ideas often disadvantaged in traditional review processes."
 image: false
 ---
@@ -54,6 +54,22 @@ PROMPTS:
 
 Wildcards, or golden tickets, are the option given to reviewers, once per call, to unilaterally choose a proposal of their liking for direct funding. The idea is that a reviewer would spend their golden ticket on a proposal that they think is particularly promising, but that the reviewer suspects – or knows – may not be reviewed as positively by the rest of the panel, e.g., because of its risky, innovative, or niche nature. Therefore, wildcards can be considered a possible intervention to promote researchers, research topics and research ideas that are traditionally biased against by reviewers, including applicants from disadvantaged demographic groups, interdisciplinary projects, and high-risk high-reward project ideas.
 
+**What happens if this is successful? What changes if this works?**
+The adoption of a wildcard rule will be successful if it has a positive, observable impact on funding decisions. Success criteria may include:
+- Reviewers use their wildcards. Not meeting this goal means that no project is deemed worthy of a wildcard, and/or that reviewers do not want to take reputational risks in the review panel by unilaterally proposing a specific project.
+- Wildcard are spent on projects that would not be funded otherwise. Not meeting this goal means that wildcards have no impact whatsoever on funding decisions.
+- Proposals funded via wildcard have a distinct profile of desirable attributes – e.g., they are from traditionally disadvantaged groups of applicants, or are about traditionally disadvantaged topics.
+- Reviewers on the panel – both those that spent their wildcard and those who did not – see value in the wildcard option. 
+
+**What improvements are we aiming for?**
+The introduction of the wildcard rule aims to mitigate the impact of negative biases by individual reviewers and by the discussion dynamics of peer review panels.
+
+*If there are multiple experiments fitting, put them here**
+There are two different flavors of wildcard rules that may have distinct advantages and disadvantages. These were never discussed in the literature – as far as I know – so I'm taking the liberty of giving them new labels:
+- “Postal” wildcards. This is when reviewers may use their wildcard in the postal review stage, i.e., prior to knowing what other reviewers think of the proposal. Supposed advantage: reviewers would be even less biased in their choice of project by not being exposed to the opinions of others. Disadvantage: wildcards may be more likely to be spent on projects that would be funded regardless, meaning that the wildcard would be ‘wasted’.
+- “Panel” wildcards. This is when reviewers may use their wildcard during or after the panel discussion, i.e., after having learned what the other panel members think of the proposal. Supposed advantage: the reviewer can use their wildcard more strategically, and not waste it on proposals that would be funded anyway. Disadvantage: reviewer's choice of using the wildcard would be skewed by the information they'd have collected during the panel meeting. For example, a reviewer may shy away from using a wildcard on an excellent, high-risk high-gain project, after learning that all of the other panel members strongly dislike that project.
+
+
 :::
 
 ## Research domains
@@ -61,6 +77,8 @@ Wildcards, or golden tickets, are the option given to reviewers, once per call, 
 PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
+
+Wildcards can be introduced in any funding call where it is the funder's priority to mitigate bias against some traditionally disadvantaged groups of applicants or proposal characteristics that are not blind to the reviewers.
 
 
 ## Context and considerations
@@ -81,6 +99,8 @@ PROMPTS:
 - If there isn’t mitigation, say so
 - Tips and tricks for preparing and running the experiment
 -->
+
+A strong challenge to the evaluation of the impact of wildcards is numerosity. Few projects will be funded via wildcards that would not be funded otherwise. This means that it will take many years to accumulate sufficient observations to quantitatively evaluate the impact of wildcards. I cannot envision ways of mitigating this challenge.
 
 
 ## Evaluating success
@@ -115,6 +135,9 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
+The funders **Villum Fonded** and **Volkswagen Stiftung** currently implement wildcards in at least some of their calls. The U.S. NSF (see [here](https://doi.org/10.1038/d41586-023-03933-3) ) has also been working towards their implementation, although to date (October 2025) there are no publicly available reports on how this implementation is proceeding.
+
+
 ## Other resources
 <!--
 PROMPTS:
@@ -127,4 +150,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
