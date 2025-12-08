@@ -3,7 +3,7 @@ title: "Wildcard in the review panel"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0, Funders, Institutes, Academies,  Meta-Researchers]
-description: "Wildcards, or golden tickets, are the option given to reviewers, once per call, to unilaterally choose a proposal of their liking for direct funding. The idea is that a reviewer would spend their golden ticket on a proposal that they think is particularly promising, but that the reviewer suspects – or knows – may not be reviewed as positively by the rest of the panel, e.g., because of its risky, innovative, or niche nature. Therefore, wildcards can be considered a possible intervention to promote researchers, research topics and research ideas that are traditionally biased against by reviewers, including applicants from disadvantaged demographic groups, interdisciplinary projects, and high-risk high-reward project ideas."
+description: "Reviewers can use their wildcard or golden ticket (one per call) to directly fund a proposal they consider exceptionally promising but fear may be overlooked—often because it is risky, innovative, or niche. This mechanism promotes diversity and supports underrepresented researchers, interdisciplinary projects, and high-risk, high-reward ideas often disadvantaged in traditional review processes."
 image: false
 ---
 
@@ -52,9 +52,7 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
-- Objective 3
+Wildcards, or golden tickets, are the option given to reviewers, once per call, to unilaterally choose a proposal of their liking for direct funding. The idea is that a reviewer would spend their golden ticket on a proposal that they think is particularly promising, but that the reviewer suspects – or knows – may not be reviewed as positively by the rest of the panel, e.g., because of its risky, innovative, or niche nature. Therefore, wildcards can be considered a possible intervention to promote researchers, research topics and research ideas that are traditionally biased against by reviewers, including applicants from disadvantaged demographic groups, interdisciplinary projects, and high-risk high-reward project ideas.
 
 :::
 
@@ -64,7 +62,6 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Context and considerations
 <!--
@@ -76,7 +73,6 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +82,6 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Evaluating success
 <!--
@@ -95,7 +90,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
@@ -106,6 +100,8 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+Thomas Feliciani, Junwen Luo, Kalpana Shankar, Funding lotteries for research grant allocation: An extended taxonomy and evaluation of their fairness, Research Evaluation, Volume 33, 2024, rvae025, <https://doi.org/10.1093/reseval/rvae025> describes a wildcard model – also called a bypass model – where favoured proposals bypass a lottery system. The article describes wildcards as "the opportunity given by the funder to individual reviewers to arbitrarily choose one or a few proposals to be funded, even though the rest of the review panel would disagree."
 
 ## Templates from funders and institutions 
 <!--
@@ -131,3 +127,4 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
