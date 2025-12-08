@@ -2,7 +2,7 @@
 title: "Neutral observer in the review panel"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
-categories: [Level 0, Funders, Institutes, Challenge Bias Mitigation, Challenge Process Culture]
+categories: [Level 0, CoARA Commitment 2, CoARA Commitment 6, CoARA Commitment 7, CoARA Commitment 10, Funders, Institutes, Challenge Bias Mitigation, Challenge Process Culture]
 description: "The role of a neutral observer in research assessment panels is to monitor fairness, transparency, and adherence to procedures. This role enhances trust, mitigates bias, and promotes integrity without influencing assessment outcomes."
 image: false
 ---
@@ -52,7 +52,11 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-Introducing a neutral observer role in research assessment panels to monitor fairness, transparency, and adherence to procedures. Enhances trust, mitigates bias, and promotes integrity without influencing assessment outcomes.
+- Strengthen transparency and accountability in peer review and research assessment processes.  
+- Mitigate potential bias and conflict of interest by introducing an external, non-voting observer.  
+- Increase stakeholder trust in the integrity and fairness of assessment outcomes.  
+- Provide structured feedback to improve procedures and evaluators’ awareness of implicit bias.  
+
 
 :::
 
@@ -61,6 +65,8 @@ Introducing a neutral observer role in research assessment panels to monitor fai
 PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
+
+Applicable across all research domains and assessment contexts (funding agencies, institutional evaluations, recruitment and promotion panels). Particularly relevant for competitive contexts such as grant reviews, academic recruitment, and excellence assessments where perception of fairness is critical.
 
 
 ## Context and considerations
@@ -73,6 +79,12 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
+The experiment targets **funding bodies and research institutions** conducting peer-review or evaluation exercises at team, individual, or institutional level.  
+The *neutral observer* (sometimes called *independent observer*) is an external expert with no conflict of interest, appointed to **monitor** rather than participate in decision-making.  
+The observer attends meetings of evaluation panels to ensure compliance with declared procedures, equal treatment of candidates, and impartial handling of conflicts of interest.  
+Observers produce an anonymised report summarising adherence to rules, presence of bias or procedural inconsistencies, and recommendations for improvement.  
+Such roles exist in several frameworks (e.g. **ERC Independent Observers**, **UKRI/MRC Panel Observers**, **CPRIT Independent Third-Party Observers**).
+
 
 ## Challenges and mitigations
 <!--
@@ -82,6 +94,18 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
+**Challenge 1: Maintaining neutrality and confidentiality**  
+- *Mitigation:* Observers sign confidentiality agreements and receive brief training on impartiality and ethics. Reports are anonymised and reviewed only by process oversight committees.
+
+**Challenge 2: Limited understanding of observer’s role by panel members**  
+- *Mitigation:* Provide short briefing materials clarifying that the observer is non-evaluative and ensures procedural fairness rather than content judgment.
+
+**Challenge 3: Resistance or perception of “control”**  
+- *Mitigation:* Emphasise the observer’s supportive role in improving quality and transparency of the process, not auditing individuals.
+
+**Challenge 4: Resource allocation**  
+- *Mitigation:* Pilot in selected panels; rotate observers among institutions; share training resources and templates as open materials (OER).
+
 
 ## Evaluating success
 <!--
@@ -89,6 +113,12 @@ PROMPTS:
 - Evaluation criteria for the experiment 
 - How do you know it worked or didn’t?
 -->
+
+Success could manifest through:
+- Increased confidence among applicants and reviewers regarding fairness of evaluation procedures (survey-based metrics).  
+- Reduction in formal complaints or conflict-of-interest incidents.  
+- Evidence of procedural improvements following observer recommendations.  
+- Adoption of observer reports in institutional quality assurance and CoARA-related assessment reforms.
 
 
 ## Related CoARA commitments
@@ -101,7 +131,12 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
 
-The Quality Assurance Agency for Higher Education (QAA) recommend the use of neutral observers – called independent chairs – in their research degree evaluation see [Link](https://www.qaa.ac.uk/docs/qaa/reports/institute-of-education-ia-09.pdf?sfvrsn=f6fcfa81_6). They explain further that "An independent Chair, who will not contribute to the assessment judgement, may be appointed to the examination panel.[...] The use of an independent Chair encourages consistency in examination processes and provides an additional viewpoint if the conduct of the viva should become the subject of a research student appeal. Where an independent Chair is not appointed, providers should find alternative ways of assuring fairness and consistency that are acceptable to the candidate and enable him/her to know that the viva is being conducted appropriately."
+- **European Research Council (ERC)** – *Guidelines for Independent Observers* (2023): observers monitor peer review sessions and report on procedural fairness. See [here](https://erc.europa.eu/apply-grant/independent-observers)
+- **UK Research and Innovation (UKRI)** – *Panel and Peer Review Guidelines* (2024): includes the “neutral observer test” for conflict-of-interest and pilot observer roles in assessment panels.  
+https://www.ukri.org/wp-content/uploads/2024/05/NERC-31052024-Guidance-for-panel-members-of-discovery-science-large-grants.pdf?
+- **CPRIT (Texas Cancer Prevention and Research Institute)** – *Administrative Code §703.6*: allows “independent third-party observers” during peer review meetings. See more information [here](https://www.cprit.texas.gov/media/1961/proposed_rule_text_february2019.pdf)
+- MRC (Medical Research Council) – *Panel Observers Scheme* for early-career researchers and process integrity (2023). See details [here](https://www.ukri.org/what-we-do/developing-people-and-skills/mrc/board-observers/)
+- **Quality Assurance Agency** – The Quality Assurance Agency for Higher Education (QAA) recommend the use of neutral observers – called independent chairs – in their research degree evaluation see [here](https://www.qaa.ac.uk/docs/qaa/reports/institute-of-education-ia-09.pdf?sfvrsn=f6fcfa81_6). They explain further that "An independent Chair, who will not contribute to the assessment judgement, may be appointed to the examination panel.[...] The use of an independent Chair encourages consistency in examination processes and provides an additional viewpoint if the conduct of the viva should become the subject of a research student appeal. Where an independent Chair is not appointed, providers should find alternative ways of assuring fairness and consistency that are acceptable to the candidate and enable him/her to know that the viva is being conducted appropriately."
 
 ## Templates from funders and institutions 
 <!--
@@ -127,4 +162,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
