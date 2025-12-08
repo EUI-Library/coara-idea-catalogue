@@ -81,6 +81,11 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
+**Challenge: Jargon from the proposal may limit contributions
+Mitigation:** Ensure researchers know the composition of the panel and support them in making efficient communication (RI could be used as a case on this)
+
+**Challenge: Will evaluate impact, but possibly not the quality of the scientific method
+Mitigation:** assign different elements of the assessment to different assessors so they feel confident in those elements (but this can create different levels of scoring needed)
 
 ## Evaluating success
 <!--
@@ -124,4 +129,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
