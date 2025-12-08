@@ -54,6 +54,7 @@ PROMPTS:
 
 - Objective 1
 - Objective 2
+- Objective 3
 
 :::
 
@@ -130,3 +131,4 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
