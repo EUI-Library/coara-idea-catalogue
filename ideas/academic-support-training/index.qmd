@@ -51,7 +51,8 @@ PROMPTS:
 - These can be related to the main questions
 - If there are multiple experiments fitting, put them here
 -->
-Academic support training equips staff to guide researchers through assessment processes by providing information, training, and tools to monitor evaluation of their work, units, and careers. This fosters transparency, empowers researchers, and drives culture change towards fairer, more responsible research assessment practices.
+
+If successful, academic support training will increase researchers’ understanding and engagement in assessment processes, enhancing transparency and trust. It will empower researchers to actively manage their evaluation, improve the fairness and accuracy of assessments, and promote a culture shift toward responsible, inclusive, and trajectory-based research evaluation.
 
 :::
 
@@ -61,6 +62,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
+This academic support training can be applied across all research domains, as the need to understand and navigate evaluation processes is universal. It is particularly valuable in interdisciplinary fields, where assessment criteria may vary, and for early-career researchers who require guidance to align their work with institutional and funder expectations.
 
 ## Context and considerations
 <!--
@@ -72,6 +74,26 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
+Nature of the Evaluating Organization:
+- Academic institutions (universities, research centers) vs. funding agencies vs. governmental bodies.
+- Organizational culture and readiness for change affect training adoption and impact.
+
+Type of Evaluation:
+- Individual researcher assessment (e.g., tenure, promotion).
+- Team or project-level evaluation (collaborative grants, group performance).
+- Institutional evaluation (university rankings, strategic reviews).
+
+Objectives of the Evaluation Exercise:
+- Career progression and talent development.
+- Resource allocation and funding decisions.
+- Compliance with open science, equity, or diversity mandates.
+- Quality assurance and accountability.
+
+Implications for Training Design:
+- Content must align with evaluation type and organizational goals.
+- Delivery methods may vary (online modules, workshops, mentoring).
+- Tools for transparency and self-monitoring should be customized accordingly.
+
 
 ## Challenges and mitigations
 <!--
@@ -81,6 +103,37 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
+**Challenge: Resistance to culture change among staff and researchers
+Mitigation:** 
+- Implement phased, trajectory-based training to gradually build acceptance.
+- Use champions or early adopters to promote benefits and share success stories.
+- Provide incentives and recognize participation.
+
+
+**Challenge: Diverse baseline knowledge and engagement levels across staff roles (HR, researchers, administrators)
+ Mitigation:**
+- Customize training content by role and career stage.
+- Use modular and flexible formats (self-paced online, live sessions). 
+If no mitigation: Assess user needs prior to design.
+
+
+**Challenge: Lack of time and resources for staff to participate fully
+Mitigation:**
+- Integrate training into existing professional development frameworks.
+- Provide microlearning options to reduce time burden.
+If no mitigation: Seek management support for protected training time.
+
+**Challenge: Measuring effectiveness and impact of culture change interventions
+Mitigation:**
+- Define clear KPIs and collect pre/post-training feedback.
+- Use longitudinal tracking of behavior and assessment outcomes.
+If no mitigation: Use qualitative feedback and case studies as alternative metrics.
+
+**Challenge: Ensuring sustained engagement throughout the research lifecycle
+Mitigation:**
+- Design ongoing support and refresher training sessions.
+- Implement mentoring and peer support networks.
+
 
 ## Evaluating success
 <!--
@@ -88,6 +141,41 @@ PROMPTS:
 - Evaluation criteria for the experiment 
 - How do you know it worked or didn’t?
 -->
+
+**Evaluation Criteria**
+
+- **Training Uptake and Completion Rates**
+  - Percentage of staff (researchers, HR, others) completing training modules.
+  - Active participation in live sessions or webinars.
+
+
+- **Knowledge Gain and Skill Development**
+  - Pre- and post-training assessments to measure knowledge improvement on evaluation processes.
+  - Self-assessments on acquired skills related to evaluation tools and policies.
+
+- **Changes in Behavior and Practice**
+  - Actual use of support tools provided (e.g., evaluation dashboards).
+  - Changes in evaluation management practices by staff and researchers.
+
+- **Perceived Support and Satisfaction**
+  - Qualitative and quantitative feedback through satisfaction surveys and interviews.
+  - Level of perceived support and usefulness of training.
+
+
+- **Impact on Organizational Culture**
+  - Indicators of cultural change (e.g., increased transparency, awareness, collaboration).
+  - Adoption of policies and behaviors aligned with responsible evaluation culture.
+
+- **Effects on Evaluation Outcomes**
+  - Improvement in quality and accuracy of evaluations conducted.
+  - Reduction in complaints or disputes related to evaluation processes.
+
+**How to Recognize Success**
+- Significant and sustained increase in training participation.
+- Clear evidence of improved knowledge and evaluation practices.
+- Positive feedback and testimonials from engaged and more aware users.
+- Tangible changes in evaluation procedures and greater transparency.
+- Reduction of issues in evaluation management.
 
 
 ## Related CoARA commitments
@@ -99,6 +187,25 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+**Initiatives: Vitae (UK)**
+Offers comprehensive training, mentoring, and 'Train the Trainer' support across the Researcher Development Framework. They also design Development Needs Analysis to underpin programs and enhance evaluation to evidence impact. <https://vitae.ac.uk/policy/our-projects/>
+
+**University of Oxford (UK)**
+Program: "Leading in Academic Research Environments" – A pilot program co-designed by Oxford academics and leadership experts, aimed at fostering positive, effective, and collaborative research environments. [Website](https://researchsupport.admin.ox.ac.uk/leading-in-academic-research-environments)
+
+**University of Stirling (UK)**
+Recognition: Received the HR Excellence in Research Award, recognizing the university's commitment to supporting researchers' careers, improving research quality and impact, and encouraging internal culture change. [Website](https://www.stir.ac.uk/research/research-culture/)
+
+**Sapienza University of Rome (Italy)**
+Program: Organizes a cross-disciplinary training program on soft skills aimed at enhancing the training path of Early-Stage Researchers, focusing on future non-academic careers. [Website](https://www.uniroma1.it/en/pagina/sapienza-training-offer-soft-skills-early-stage-researchers)
+
+**National Institute for Health and Care Research (NIHR, UK)**
+Support: Provides schemes and courses to help researchers conduct research in health and care settings, including training in research leadership skills and career development opportunities. [Website](https://www.nihr.ac.uk/about-us/what-we-do/training-researchers)
+
+**Politecnico di Milano (Italy) and Politecnico di Torino**
+Initiative: Participates in the HR Excellence in Research (HREiR) Award, aligning its HR policies with the principles set out in the European Charter for Researchers to create a favorable academic environment. Websites [here](https://www.polimi.it/en/research/how-we-do-research-at-politecnico/hr-excellence-in-research) and [here](https://www.polito.it/ateneo/lavora-e-collabora-con-noi/percorsi-e-carriere-di-ricerca/hr-excellence-in-research)
+
 
 ## Templates from funders and institutions 
 <!--
@@ -124,4 +231,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
