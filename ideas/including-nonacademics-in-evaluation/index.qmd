@@ -2,8 +2,8 @@
 title: "Including non-academics in evaluation"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
-categories: [Level 0]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: [Level 0, CHALLENGE Process, CHALLENGE Inclusivity, CHALLENGE Different Questions, CoARA Commitment 1, CoARA Commitment 2, USER Funder, USER Meta-Researchers]
+description: "Including non-academics in evaluation broadens perspectives by integrating stakeholders from industry, policy, and society. It enhances relevance, transparency, and societal impact, mitigates disciplinary bias, and supports responsible research assessment aligned with real-world needs and principles of openness, inclusiveness, and accountability."
 image: false
 ---
 
@@ -52,9 +52,6 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
-
 :::
 
 ## Research domains
@@ -63,7 +60,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This is especially relevant for funding evaluation, especially when assessing impacts, but it could also be relevant in a variety of domains and settings. 
 
 ## Context and considerations
 <!--
@@ -75,7 +72,6 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Challenges and mitigations
 <!--
@@ -85,7 +81,6 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Evaluating success
 <!--
@@ -94,7 +89,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
@@ -105,6 +99,14 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+Junwen Luo, Lai Ma, Kalpana Shankar, Does the inclusion of non-academic reviewers make any difference for grant impact panels?, Science and Public Policy, Volume 48, Issue 6, December 2021, Pages 763–775, <https://doi.org/10.1093/scipol/scab046>.
+
+Junwen Luo (2021, 25 August), What role should non-academics have in evaluating the potential impact of new research projects? LSE Impact Blog, Available [here](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/25/what-role-should-non-academics-have-in-evaluating-the-potential-impact-of-new-research-projects/).
+
+Baxter S, Clowes M, Muir D, Baird W, Broadway-Parkinson A, Bennett C. (2016) Supporting public involvement in interview and other panels: a systematic review. Health Expect, 20(5). p. 807-817. <https://doi.org/10.1111/hex.12491>.
+
+A blog post that describes the experience as a public member of a research funding panel: Adam Forristal Golberg (2025, 25 February), A peek inside a research funding panel, *Cash for Questions: Research funding, policy and development*, <https://socialscienceresearchfunding.co.uk/?p=1455>.
 
 ## Templates from funders and institutions 
 <!--
@@ -118,6 +120,8 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
+Several funders involve members of the public in their review panels, see for example [NIHR](https://www.nihr.ac.uk/get-involved/read-and-review-documentation/public-reviewers) and [Health Research Board Ireland](https://www.hrb.ie/funding/responsible-research-assessment/public-and-patient-involvement-in-research/ppi-information-for-the-public/).
+
 ## Other resources
 <!--
 PROMPTS:
@@ -130,3 +134,4 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
