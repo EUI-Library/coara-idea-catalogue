@@ -21,6 +21,7 @@ format:
       - cosmo
       - coara.scss
     css: styles.css
-
+execute:
+  freeze: auto
 
 
