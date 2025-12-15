@@ -2,7 +2,7 @@
 title: "Distributed Peer-Review"
 author: "Experiments in Assessment WG"
 date: "2025-04-24"
-categories: [Level 4, Challenge - inclusivity, Challenge - Process Culture, Challenge - Collaboration, CoARA Commitment 2, CoARA Commitment 6, CoARA Commitment 10, User - Funders, User - Institutes, User - Meta-Researchers]
+categories: [Level 4, Challenge - Inclusivity, Challenge - Process Culture, Challenge - Collaboration, CoARA Commitment 2, CoARA Commitment 6, CoARA Commitment 10, User - Funders, User - Institutes, User - Meta-Researchers]
 description: "Distributed peer review is a method in which applicants evaluate each other’s proposals. It promotes equity, transparency, and inclusion, reduces the burden on traditional reviewers, and values the expertise of participants by making them active contributors to the assessment process."
 image: false
 ---
@@ -257,3 +257,4 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
