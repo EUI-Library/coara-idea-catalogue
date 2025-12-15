@@ -3,7 +3,7 @@ title: "Valuing unfunded applications"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+description: "Valuing unfunded applications acknowledges the intellectual merit and innovative potential of research proposals regardless of funding outcome."
 image: false
 ---
 
@@ -53,8 +53,7 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
+Valuing unfunded applications acknowledges learning from review feedback, recognizes preparatory work as a valuable research output, and supports fairer, more transparent assessment ecosystems by reducing wasted effort and encouraging proposal re-use and improvement.
 
 :::
 
@@ -64,7 +63,6 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Context and considerations
 <!--
@@ -76,7 +74,9 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Certain elements may be precursors to valuing unfinded application, for example open funding applications which are shared regardless of funding results.
+
+Applications processes or CV sections can also directly ask applicants about unfunded applications and the knowledge, connections, and skills that resulted from submitting these applications. 
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +86,6 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Evaluating success
 <!--
@@ -95,7 +94,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
@@ -105,7 +103,9 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 
 # Relevant resources and literature 
 
-This section includes resources, literature, and reports relevant to this specific experimental idea.
+<https://www.unfundedlist.com/>
+
+Wellcome open proposals project brings visibility and openness towards applications regardless of the funding decision. <https://wellcome.org/research-funding/open-research-fund-project-proposals-submitted-wellcome?>
 
 ## Templates from funders and institutions 
 <!--
@@ -131,4 +131,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
