@@ -153,23 +153,23 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-**1. Potential reviewer bias**
+**Potential reviewer bias**
 **Challenge:** Reviewers may consciously or unconsciously favor or penalize proposals.
 **Mitigation:** Implement a double-blind review process where both reviewer and applicant identities are anonymized. Provide bias-awareness training as part of the review onboarding.
 
-**2. Conflicts of interest in small domains**
+**Conflicts of interest in small domains**
 **Challenge:** In niche fields, applicants may know each other, creating risks of favoritism or retaliation.
 **Mitigation:** Require conflict of interest declarations, and use automated tools to help detect potential overlaps. Enable applicants to flag conflicts during the assignment process.
 
-**3. Transparency of competition**
+**Transparency of competition**
 **Challenge:** Ensuring that the review process remains fair and trustworthy.
 **Mitigation:** Provide clear evaluation criteria, publish aggregated review statistics (e.g., number of reviews per proposal, average scores), and offer post-review debriefings when possible.
 
-**4. Fostering motivation for high-quality reviews**
+**Fostering motivation for high-quality reviews**
 **Challenge:** Applicants may see the task as a burden or strategic opportunity, leading to superficial reviews.
 **Mitigation:** Introduce incentives, such as recognition, certificates, or bonus points for quality reviews. Consider meta-reviews or calibration scores to assess and reward reviewer effort and reliability.
 
-**5. Quality control of the peer review**
+**Quality control of the peer review**
 **Challenge:**Ensuring consistency and fairness across multiple reviewers.
 **Mitigation:** Introduce a review moderation system or involve meta-reviewers who assess the quality of peer reviews. Use rubrics and training materials to standardize expectations.
 
@@ -257,5 +257,6 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
