@@ -3,7 +3,7 @@ title: "Discussion before scoring"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+description: "Having interviews as first stage of the assessment process, rather than as a last stage. This could shift the elements that are valued in the assessment process and promote greater diversity."
 image: false
 ---
 
@@ -131,4 +131,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
