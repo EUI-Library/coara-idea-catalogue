@@ -2,7 +2,7 @@
 title: "Assessment lotteries"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
-categories: [Level 0, CoARA Commitment 1, CoARA Commitment 3, User - Funder]
+categories: [Level 0, Challenge - Bias Mitigation,  Challenge - Inclusivity, Challenge - Diversity, Challenge - Collaboration, CoARA Commitment 1, CoARA Commitment 3, User - Funder]
 description: "In Assessment lotteries, applications that meet basic criteria (eligibility criteria, quality criteria, ot other) are not further evaluated, ranked etc. by evaluators, but a lottery is organised and the ‘winning’ lots get the funding."
 image: false
 ---
@@ -52,9 +52,12 @@ PROMPTS:
 - These can be related to the main questions
 - If there are multiple experiments fitting, put them here
 -->
+Some objectives of assessment lotteries include:  
 
-- Objective 1
-- Objective 2
+- **Addressing reviewer fatigue and frustration:** Reviewers put a lot of time and effort in reviewing proposals, even in situations where they are not able to distinguish between proposals and come to the conclusion that all proposals are equally fit for funding. When this (final) stage in the review process is replaced by a lottery, reviewers can spend their time on doing what they are good at (distinguishing proposals that deserve funding from the ones that are not worthy to get funding).
+- **Create an equal playing field for certain types of research/researchers:** Lotteries can help address more subtle biases that impact researchers (e.g., underrepresented groups) or certain types of research (e.g., high risk research) since lotteries don’t discriminate (Read the challenges, one needs to be aware of how lotteries work!).  
+- **Increase efficiency of evaluation processes, and reduce costs/resources:** Less time and effort is needed for the final part in the decision making process. The time investment by peer reviewers does not necessarily decrease. The role of the evaluators ends once they have grouped the proposals into three categories: should not / could / should be funded. They do not need to further rank the proposals in the ‘could’ group; these are entered into the lottery.
+
 
 :::
 
@@ -64,7 +67,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Assessment lotteries may apply to all domains, but their use is generally limited to the evaluation of research proposals (funding); they are not used for evaluating researcher career advancement (e.g., hiring, promotion,...) since this area implies much more complex elements and challenges. 
 
 ## Context and considerations
 <!--
@@ -76,7 +79,20 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+**Assessment lotteries can take different shapes:**
+- Applications that meet basic criteria (eligibility criteria, quality standards, etc.) are not further evaluated, ranked etc. by evaluators, but a lottery is organised and the ‘winning’ lots get the funding.  
+- A modified lottery can also be organised: In a first round the proposals are evaluated by peer reviewers, and only the proposals worthy of funding enter the lottery phase.
+- Partial randomization can also take place: Have larger groups (e.g. Must be funded, should be funded, should not be funded), and then randomize where the limiting factor (budget) is applied - i.e. fund all of the “musts”, and randomly select the “shoulds”.  
+- There is another kind of lottery, where randomization is used to select who is eligible to submit a funding proposal (see [Luebber et al., 2023](https://doi.org/10.1038/s41562-023-01649-y)). The main advantage of “pre-lotteries” relative to the other forms of lotteries is that they reduce the workload on applicants: applicants who do not win the lottery do not have to waste resources in writing their grant application.
+
+**Costs to consider for institutions for implementing the experiment (framed as questions for the user):**
+- How accepting is your community (applicants and evaluators) for trialing randomization/lotteries?
+
+**Suggestions on how to implement (including research culture aspects)**
+- Start small: small funding calls (limited total budget), small projects (small amount of money per project).  
+- Foster and grow the buy-in and trust from the applicants and from the evaluators.  
+- Communicate and be transparent about the lottery, how it works etc.  
+- Publish the randomization process/algorithm (to build trust in the process).  
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +102,17 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+**Challenges:**
+- Lotteries are not a quick fix to solve issues related to bias or equity, because they do not fix problems at the beginning of the pipeline: some people simply don’t apply, thus making the pool of applicants less diverse  
+- In a (small) experiment the end result might be a less inclusive, equitable etc. outcome… - some basic knowledge of statistics is necessary to fully understand the pros and cons of lotteries  
+- Applicants and evaluators might be sceptical about a lottery, but they accept it as a valid method to distribute research funding if the method is well explained to them. In addition, evaluators might find a lottery difficult because for them it is hard to acknowledge that they are not able to identify ‘the best’ proposals (feels like failing). This needs to be taken into consideration in the communication with the evaluators.  
+- Research culture needs to be ready for this kind of experiment, e.g., a degree of openness is required (with evaluators being open about what they can achieve and what not).
+
+**Mitigation discussion: (Questions to address or discuss to enable resolution on the possible challenges identified)**
+- Open communication about why a lottery is being implemented, about what it will achieve and what not, about the statistics behind the model (due to the lottery for instance all money could go to one discipline, to only groups with a male PI etc.), about the outcomes (and the monitoring) of the lottery  
+- Open communication about disadvantages of peer review procedures (e.g., the role of chance in peer review)  
+- Start small, with smaller calls, budgets etc. so that all stakeholders can get used to the idea of a lottery  
+- Align with larger goals, i.e. “increasing diversity of what is funded”, “eliminating panel/evaluator bias for difficult comparisons”  
 
 ## Evaluating success
 <!--
@@ -94,8 +120,6 @@ PROMPTS:
 - Evaluation criteria for the experiment 
 - How do you know it worked or didn’t?
 -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
@@ -131,4 +155,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
