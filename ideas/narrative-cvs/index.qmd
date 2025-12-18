@@ -200,10 +200,8 @@ PROMPTS:
 - Add templates from funders and institutions if existing
 -->
 
-R4RI CV Template and guidance: [https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/)
-
-Royal Society Résumé for Researchers: [https://royalsociety.org/news-resources/projects/research-culture/tools-for-support/resume-for-researchers/](https://royalsociety.org/news-resources/projects/research-culture/tools-for-support/resume-for-researchers/) 
-
+R4RI CV Template and guidance: <https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/>
+Royal Society Résumé for Researchers: <https://royalsociety.org/news-resources/projects/research-culture/tools-for-support/resume-for-researchers/>
 
 
 ## Case examples and literature
@@ -225,6 +223,7 @@ PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
 >
+
 
 
 
