@@ -1,6 +1,6 @@
 ﻿---
 title: "Reducing frequency of assessment"
-contributor: "Experiments in Assessment WG"
+author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0, Challenge - Process, Challenge - Process Culture, Challenge - Different Questions, CoARA Commitment 2, CoARA Commitment 6, User - Funder, User - Institutes]
 description: "Reducing how frequently researchers are assessed, for example by requiring fewer assessment during their career or by increasing the funding periods."
@@ -133,6 +133,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
