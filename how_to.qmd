@@ -27,16 +27,16 @@ You can find ideas using the following categories:
 
 
 ### CoARA Commitments aligned with the idea
-- CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-- CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-- CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
-- CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
-- CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
-- CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-- CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
-- CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
-- CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
-- CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
+- **CoARA Commitment 1** = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+- **CoARA Commitment 2** = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+- **CoARA Commitment 3** = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
+- **CoARA Commitment 4** = Avoid the use of rankings of research organisations in research assessment
+- **CoARA Commitment 5** = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
+- **CoARA Commitment 6** = Review and develop research assessment criteria, tools and processes
+- **CoARA Commitment 7** = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
+- **CoARA Commitment 8** = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
+- **CoARA Commitment 9** = Communicate progress made on adherence to the Principles and implementation of the Commitments
+- **CoARA Commitment 10** = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
 
 
 ### Which target group should implement the idea
@@ -81,7 +81,7 @@ TO BE ADDED
 ## How to develop or add an idea
 If you have an idea that would fit the idea catalogue, we would be happy to hear from you. Please fill out the following template so that we can add the idea in the same format as others on the platform. 
 
-*Download link to the template file*
+<a href="idea_catalogue_TEMPLATE.txt">Click here to download the idea template file</a>
 
 The template can be used as a set of questions that frame discussions on experimental ideas - if you have a concept for an idea, the questions help to develop that idea towards more structured potential experiments that can be implemented and evaluated. 
 
