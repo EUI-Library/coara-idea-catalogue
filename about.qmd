@@ -45,7 +45,8 @@ Before starting any other activities, the Working Group developed a set of share
 
 These principles are shared here, not as a prescriptive “this is the right way forward”, but rather to highlight our process and how we implemented the Working Group’s activities. Everything written in this document informed our work, and we are proud of both what we have done as well as how we have done it. 
 
-**UPLOAD PRINCIPLES DOCUMENT (as PDF) AND LINK IT HERE!**
+<a href="EiA_WG_Principles.pdf">Click here to see the "Principles of the EiA Working Group"</a>
+
 
 
 ## Development of the platform \- Where did these ideas come from?
