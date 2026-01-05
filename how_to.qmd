@@ -21,7 +21,7 @@ The search bar can be used to look for keywords. This will search through both t
 
 The tags on the right side can be used for filtering ideas by different categories. If a tag is clicked, the main page will only show the ideas that are related to that category. Only one tag can be picked at a time. To show all of the ideas again, either click on the “all” tag at the top of the list or refresh the page. 
 
-*Show picture of the category section* 
+![Caption](/images/Categories_Bar.jpg)
 
 You can find ideas using the following categories:
 
