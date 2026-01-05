@@ -9,6 +9,7 @@ website:
     type: textbox
   navbar:
     right:
+      - how_to.qmd
       - about.qmd
       - icon: github
         href: https://github.com/EUI-Library/coara-idea-catalogue
