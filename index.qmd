@@ -21,3 +21,4 @@ The **CaARA Assessment Idea Catalogue** is designed to be a resource for those d
 
 A collection of different experimental ideas are represented here, that can be used as inspiration for designing experiments that innovate on current assessment practices.
 
+For information on how to use this catalogue, please look at the [Idea Catalogue How-To Guide](/how_to.qmd)
