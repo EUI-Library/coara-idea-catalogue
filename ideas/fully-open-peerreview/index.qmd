@@ -1,6 +1,6 @@
 ﻿---
 title: "Fully open peer-review"
-contributor: "Experiments in Assessment WG"
+author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
 description: "Peer review in which revieewers and applicants know each other's identities. This can extend to public sharing of peer review reports."
@@ -135,6 +135,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
