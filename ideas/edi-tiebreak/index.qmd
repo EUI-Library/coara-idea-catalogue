@@ -1,6 +1,6 @@
 ﻿---
 title: "EDI tiebreak"
-author: "Experiments in Assessment WG"
+contributor: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
 description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
@@ -131,4 +131,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
