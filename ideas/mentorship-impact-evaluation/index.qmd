@@ -1,6 +1,6 @@
 ﻿---
 title: "Mentorship impact evaluation"
-author: "Experiments in Assessment WG"
+contributor: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
 description: "Adding mentee evaluations to the assessment for assessing mentorship and talent development."
@@ -131,4 +131,5 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
