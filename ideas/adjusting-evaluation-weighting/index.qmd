@@ -1,6 +1,6 @@
 ﻿---
 title: "Adjusting evaluation weighting"
-author: "Experiments in Assessment WG"
+contributor: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
 description: "Adapting the weighting of evaluation criteria in an assessment to better reflect the goals of what should be supported and the priorities of the evaluating body."
@@ -131,5 +131,6 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
