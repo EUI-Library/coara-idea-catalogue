@@ -1,6 +1,6 @@
 ﻿---
 title: "Acknowledging bias, making it transparent"
-author: "Experiments in Assessment WG"
+contributor: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0, Challenge - Process, Challenge - Bias Mitigation, Challenge - Different Questions, CoARA Commitment 2, CoARA Commitment 6, User - Funder, User - Institutes, User - Academies, User - Research Groups, User - Meta-Researchers, User - Scientific editors and publishers]
 description: "Allowing evaluators to declare potential biases to the panel makes bias visible and fosters a fairer evaluation process. It encourages open, transparent discussion, even though unconscious bias is hard to identify. Making bias explicit is essential for trust and integrity in research assessment."
@@ -126,5 +126,6 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
