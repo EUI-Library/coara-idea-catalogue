@@ -1,6 +1,6 @@
 ﻿---
 title: "Assessment lotteries"
-contributor: "Experiments in Assessment WG"
+author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0, Challenge - Bias Mitigation,  Challenge - Inclusivity, Challenge - Diversity, Challenge - Collaboration, CoARA Commitment 1, CoARA Commitment 3, User - Funder]
 description: "In Assessment lotteries, applications that meet basic criteria (eligibility criteria, quality criteria, ot other) are not further evaluated, ranked etc. by evaluators, but a lottery is organised and the ‘winning’ lots get the funding."
@@ -214,6 +214,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
