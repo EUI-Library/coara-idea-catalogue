@@ -40,35 +40,33 @@ You can find ideas using the following categories:
 
 
 ### Which target group should implement the idea
-- User - Funder = User could involve Funders and regional authorities
-- User - Institutes = User could involve Research institutions
-- User - Academies = User could involve Academies and learned societies
-- User - Research Groups = User could involve Research groups
-- User - Meta-Researchers = User could involve Meta-researchers
-- User - Scientific editors and publishers = User could involve Scientific editors and publishers
+- **User - Funder** = User could involve Funders and regional authorities
+- **User - Institutes** = User could involve Research institutions
+- **User - Academies** = User could involve Academies and learned societies
+- **User - Research Groups** = User could involve Research groups
+- **User - Meta-Researchers** = User could involve Meta-researchers
+- **User - Scientific editors and publishers** = User could involve Scientific editors and publishers
 
 
 ### Specific challenges in research assessment reform
-- Challenge - Process -  How can we create an assessment process based upon what the different players in research value?
-- Challenge - Inclusivity - How can we make research more inclusive and equitable through assessment?
-- Challenge - Bias_Mitigation - How can we mitigate the negative effects of bias on assessment?
-- Challenge - Process_Culture - How can we recognize process and culture through assessment?
-- Challenge - Diversity - How can we foster diversity through assessment?
-- Challenge - Collaboration - How can we foster collaboration through assessment?
-- Challenge - DifferentQuestions - How can we ask assessment questions differently?
+- **Challenge - Process** =  How can we create an assessment process based upon what the different players in research value?
+- **Challenge - Inclusivity** = How can we make research more inclusive and equitable through assessment?
+- **Challenge - Bias_Mitigation** = How can we mitigate the negative effects of bias on assessment?
+- **Challenge - Process_Culture** = How can we recognize process and culture through assessment?
+- **Challenge - Diversity** = How can we foster diversity through assessment?
+- **Challenge - Collaboration** = How can we foster collaboration through assessment?
+- **Challenge - DifferentQuestions** = How can we ask assessment questions differently?
 
 
 ### Completeness of the idea and status of experimentation
-- Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-- Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
-- Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
-- Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
-- Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist.
-- Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons.
-
+- **Level 0** = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
+- **Level 1** = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
+- **Level 2** = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
+- **Level 3** = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
+- **Level 4** = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist.
+- **Level 5** = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons.
 
 When you would like to go back to the main page, just click on the title “Assessment Idea Catalogue” to return. 
-
 
 ## How to implement an idea
 Once you have chosen an idea to implement or test, you are free to apply it in your context as you see fit. Each idea has as much detail as possible about potential outcomes, how to evaluate success, possible challenges (and mitigations to those challenges), and other contextual detail that should help you prepare your experiment. 
@@ -76,12 +74,12 @@ Once you have chosen an idea to implement or test, you are free to apply it in y
 As you proceed with the implementation, please feel free to return to the idea catalogue and add your learnings and evidence to the idea’s page, so that others can learn from your experience, and the catalogue becomes more complete. 
 
 ## How to comment on an idea or add evidence
-TO BE ADDED
+**TO BE ADDED**
 
 ## How to develop or add an idea
 If you have an idea that would fit the idea catalogue, we would be happy to hear from you. Please fill out the following template so that we can add the idea in the same format as others on the platform. 
 
-<a href="idea_catalogue_TEMPLATE.txt">Click here to download the idea template file</a>
+<a href="idea_catalogue_TEMPLATE.txt" download target="_blank">Click here to download the idea template file</a>
 
 The template can be used as a set of questions that frame discussions on experimental ideas - if you have a concept for an idea, the questions help to develop that idea towards more structured potential experiments that can be implemented and evaluated. 
 
