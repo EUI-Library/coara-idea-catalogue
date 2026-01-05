@@ -1,6 +1,6 @@
 ﻿---
 title: "Evaluation of EDI action plan"
-author: "Experiments in Assessment WG"
+contributor: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
 description: "In this idea, an EDI action plan must be submitted with an application, and this action plan is then evaluated as part of the process. This aims to ensure that EDI aspects are an integral part of what is supported in research."
@@ -125,5 +125,6 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
