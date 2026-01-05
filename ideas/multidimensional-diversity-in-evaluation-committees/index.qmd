@@ -1,6 +1,6 @@
 ﻿---
 title: "Multidimensional “diversity” in evaluation committees"
-contributor: "Experiments in Assessment WG"
+author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0, Challenge - Inclusivity, Challenge - Bias Mitigation, Challenge - Diversity, CoARA Commitment 1, CoARA Commitment 2, CoARA Commitment 6, User - Funder, User - Academies, User - Scientific editors and publishers]
 description: "Based on the objective and scope of evaluation, define as many diversity dimensions as possible to be considered and include them as far as possible in the reviewers team / jury / hearing committee: e.g. representatives of different stakeholder groups, organizational units, career stages, countries or regions, roles, sectors."
@@ -126,6 +126,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
