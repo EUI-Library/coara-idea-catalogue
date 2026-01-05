@@ -1,0 +1,133 @@
+﻿---
+title: "Title of the idea"
+author: "Experiments in Assessment WG"
+date: "2025-03-03"
+categories: [Tag 1, tag 2, tag 3]
+description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+image: false
+---
+
+<!--
+GENERAL GUIDELINES:
+- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
+- Tags (apply as relevant):
+Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
+Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
+Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
+Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
+Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist. 
+Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons. 
+Challenge - Process = Create an assessment process based upon what the different players in research value
+Challenge - Inclusivity = Make research more inclusive and equitable through assessment
+Challenge - Bias Mitigation = Mitigate the negative effects of bias on assessment
+Challenge - Process Culture = Recognize process and culture through assessment
+Challenge - Diversity = Foster diversity through assessment
+Challenge - Collaboration = Foster collaboration through assessment
+Challenge - Different Questions = Ask assessment questions differently
+CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
+CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
+CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
+CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
+CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
+CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
+CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
+CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
+User - Funder = User could involve Funders and regional authorities
+User - Institutes = User could involve Research institutions
+User - Academies = User could involve Academies and learned societies
+User - Research Groups = User could involve Research groups
+User - Meta-Researchers = User could involve Meta-researchers
+User - Scientific editors and publishers = User could involve Scientific editors and publishers
+-->
+
+::: {.callout-warning icon=false}
+
+## Objectives and potential outcome
+<!--
+PROMPTS:
+- What happens if this is successful? What changes if this works? 
+- What improvements are we aiming for?
+- These can be related to the main questions
+- If there are multiple experiments fitting, put them here
+-->
+
+- Objective 1
+- Objective 2
+
+:::
+
+## Research domains
+<!--
+PROMPTS:
+- Which domain(s) can this experiment be applied in? 
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Context and considerations
+<!--
+PROMPTS:
+- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
+- What type of assessment does this work on (Team/individual/project/institutional);
+- What is the objective of evaluation exercise linked to the type of assessment
+- What are the things that change in the experiment?
+- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Challenges and mitigations
+<!--
+PROMPTS:
+- Each challenge and mitigation grouped together
+- If there isn’t mitigation, say so
+- Tips and tricks for preparing and running the experiment
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Evaluating success
+<!--
+PROMPTS:
+- Evaluation criteria for the experiment 
+- How do you know it worked or didn’t?
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
+## Related CoARA commitments
+<!--
+PROMPTS:
+Directly reference as many of the 10 CoARA commitments as are fitting
+-->
+
+# Relevant resources and literature 
+
+This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+## Templates from funders and institutions 
+<!--
+PROMPTS:
+- Add templates from funders and institutions if existing
+-->
+
+## Case examples and literature
+<!--
+PROMPTS:
+Any organisation names, links, authors that may be relevant to look into
+-->
+
+## Other resources
+<!--
+PROMPTS:
+Include any other resource here
+-->
+
+
+# Comments/lived examples
+<!--
+PROMPTS:
+Section to be kept blank, for input within the idea catalogue
+-->
