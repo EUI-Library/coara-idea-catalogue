@@ -1,6 +1,6 @@
 ﻿---
 title: "Hiring as a site of experimentation"
-author: "Experiments in Assessment WG"
+contributor: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
 description: "Using the institutional hiring process to diversify staff profiles and expertise in line with the goals and needs of the institution."
@@ -125,5 +125,6 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
