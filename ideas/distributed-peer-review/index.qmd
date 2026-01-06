@@ -106,14 +106,14 @@ PROMPTS:
 
 This experiment can fit any target group where assessment includes several similar applications and where applicants have a minimal expertise of each other's domains. This includes:
 
-**Funders**: looking for innovative, scalable evaluation models to reduce review fatigue and improve equity.
-**Institutions**: especially those conducting internal or competitive funding calls, or managing doctoral/postdoctoral fellowships.
-**Thematic consortia or networks**: where members share disciplinary language and goals, easing implementation.
+**Funders**: looking for innovative, scalable evaluation models to reduce review fatigue and improve equity.  
+**Institutions**: especially those conducting internal or competitive funding calls, or managing doctoral/postdoctoral fellowships.  
+**Thematic consortia or networks**: where members share disciplinary language and goals, easing implementation.  
 
 Potential variables that may have an influence on the distributed peer review process and may thus be valuable elements to experiment on include the **identity of reviewers** (e.g., anonymity vs. known identities), the **size and diversity of the reviewer pool**, and the **language used in proposals and reviews**, which may affect accessibility, clarity, and fairness across different linguistic or cultural backgrounds.
-
   
-###Suggestions on how to implement
+  
+**Suggestions on how to implement**
 
 **Pilot in Small-Scale Calls**:  
 Start with **small funding schemes** or **thematic calls** (e.g. internal grants, early-career researcher awards), where the administrative complexity and risks are lower. This allows for iterative refinement.
@@ -127,9 +127,8 @@ Before full implementation, run **parallel (shadow) experiments** alongside trad
 **Integrate Peer Review Training**:  
 Provide **training modules** to help applicants understand the evaluation criteria and write constructive feedback. This is particularly useful for **Early Career Researchers**, improving both their evaluative skills and grant writing.
   
-
   
-###Implementing distributed peer review requires careful planning and resourcing:  
+**Implementing distributed peer review requires careful planning and resourcing:**  
   
 * **HR and Coordination Costs**:  
   + *Project Manager*: to coordinate implementation, timeline, logistics.  
@@ -188,22 +187,23 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-**How to assess effects/outcomes – Data to collect**
+**How to assess effects/outcomes – Data to collect**  
+  
 * **Results of Shadow Experiments**  
   + Compare outcomes of distributed peer review with traditional review within the same call.  
   + Analyze **agreement rates** between the two methods (e.g., overlap in selected proposals).  
-
+  
 * **Review Quality Metrics**  
   + Use meta-evaluation forms to assess reviews for accuracy, thoroughness, and constructiveness.  
   + Involve expert reviewers or independent panels for spot quality checks.  
-
+  
 * **User Feedback and Surveys**  
   + Collect post-call surveys on:  
     - Experience as both reviewers and applicants  
     - Perceptions of **fairness and transparency**  
     - Perceived **workload**  
     - Understanding of evaluation criteria  
-
+  
 * **Evaluation Timelines**  
   + Track overall process speed: average time from submission to notification.  
   + Compare with timelines of similar calls evaluated by traditional methods.  
@@ -268,6 +268,7 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
 
