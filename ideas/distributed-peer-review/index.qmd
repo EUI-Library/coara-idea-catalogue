@@ -130,8 +130,8 @@ Provide **training modules** to help applicants understand the evaluation criter
   
 **Implementing distributed peer review requires careful planning and resourcing**:  
 - *HR and Coordination Costs*:  
-  - *Project Manager*: to coordinate implementation, timeline, logistics.  
-  - *Administrative Support*: for applicant communication, managing review assignments.  
+  + *Project Manager*: to coordinate implementation, timeline, logistics.  
+  + *Administrative Support*: for applicant communication, managing review assignments.  
 - *Legal and Ethical Considerations*:  
   - *Legal Advisers*: to ensure GDPR compliance, particularly around anonymization and data handling.  
   - Develop **terms of participation** and conflict of interest policies.  
@@ -258,6 +258,7 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
 
