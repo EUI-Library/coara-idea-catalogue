@@ -59,26 +59,26 @@ This experiment addresses key challenges in research assessment by promoting inc
 **Goals (what are we trying to change)**
 
 - **Improve inclusivity and transparency**
- - Make the review process more accessible and participatory, reducing reliance on closed senior reviewer networks.
+    Make the review process more accessible and participatory, reducing reliance on closed senior reviewer networks.
 
 - **Address reviewer scarcity**
- - Involving applicants as reviewers overcomes recruitment challenges and distributes workload more evenly.
+    Involving applicants as reviewers overcomes recruitment challenges and distributes workload more evenly.
 
 - **Enhance fairness in interdisciplinary contexts**
- - In multi-domain calls, the diversity of the review pool increases, enabling broader, multidimensional evaluations.
+    In multi-domain calls, the diversity of the review pool increases, enabling broader, multidimensional evaluations.
 
 - **Foster better understanding of the review process**
- - Applicants who review become more familiar with criteria, improving their proposal writing and self-assessment skills over time.
+    Applicants who review become more familiar with criteria, improving their proposal writing and self-assessment skills over time.
 
 - **Reduce reviewer fatigue**
- - Sharing review responsibilities among all participants prevents overburdening a small group of traditional reviewers.
+    Sharing review responsibilities among all participants prevents overburdening a small group of traditional reviewers.
 
 
 - **Ensure domain expertise**
- - In focused calls, the applicant pool is knowledgeable, providing relevant expertise for peer review.
+    In focused calls, the applicant pool is knowledgeable, providing relevant expertise for peer review.
 
 - **Accelerate the review process**
- - Since all participants have a stake and understand the criteria, the process can be completed more rapidly.
+    Since all participants have a stake and understand the criteria, the process can be completed more rapidly.
 
 
 How does an experiment with distributed peer review work? 
@@ -112,37 +112,38 @@ This experiment can fit any target group where assessment includes several simil
 
 Potential variables that may have an influence on the distributed peer review process and may thus be valuable elements to experiment on include the **identity of reviewers** (e.g., anonymity vs. known identities), the **size and diversity of the reviewer pool**, and the **language used in proposals and reviews**, which may affect accessibility, clarity, and fairness across different linguistic or cultural backgrounds.
 
+  
 **Suggestions on how to implement**
 
-**Pilot in Small-Scale Calls**:
+**Pilot in Small-Scale Calls**:  
 Start with **small funding schemes** or **thematic calls** (e.g. internal grants, early-career researcher awards), where the administrative complexity and risks are lower. This allows for iterative refinement.
 
-**Focus on Single-Domain or Thematic Areas**:
+**Focus on Single-Domain or Thematic Areas**:  
 Use **single-discipline** or **well-defined thematic areas** to ensure a more homogeneous applicant pool with shared evaluation norms and language, reducing ambiguity and potential bias.
 
-**Run Shadow Experiments**:
+**Run Shadow Experiments**:  
 Before full implementation, run **parallel (shadow) experiments** alongside traditional reviews. Compare results to evaluate feasibility, reliability, and stakeholder satisfaction.
 
-**Integrate Peer Review Training**:
+**Integrate Peer Review Training**:  
 Provide **training modules** to help applicants understand the evaluation criteria and write constructive feedback. This is particularly useful for **Early Career Researchers**, improving both their evaluative skills and grant writing.
-
-
-**Implementing distributed peer review requires careful planning and resourcing**:
-* **HR and Coordination Costs**:
-+ **Project Manager**: to coordinate implementation, timeline, logistics.
-+ **Administrative Support**: for applicant communication, managing review assignments.
-* **Legal and Ethical Considerations**:
-+ **Legal Advisers**: to ensure GDPR compliance, particularly around anonymization and data handling.
-+ Develop **terms of participation** and conflict of interest policies.
-* **Technical Infrastructure**:
-+ **Platform or Tool**: for proposal submission, anonymized review distribution, and scoring.
-+ Ensure **User Experience (UX)** is intuitive and accessible.
-* **Training and Support**:
-+ Develop or license **training materials** for applicants as reviewers.
-+ Consider **helpdesk support** during the review period.
-* **Communication and Engagement**:
-+ Clearly explain the purpose, process, and benefits to participants.
-+ Highlight how reviews are used and how quality is monitored to foster trust.
+  
+  
+**Implementing distributed peer review requires careful planning and resourcing**:  
+* **HR and Coordination Costs**:  
++ **Project Manager**: to coordinate implementation, timeline, logistics.  
++ **Administrative Support**: for applicant communication, managing review assignments.  
+* **Legal and Ethical Considerations**:  
++ **Legal Advisers**: to ensure GDPR compliance, particularly around anonymization and data handling.  
++ Develop **terms of participation** and conflict of interest policies.  
+* **Technical Infrastructure**:  
++ **Platform or Tool**: for proposal submission, anonymized review distribution, and scoring.  
++ Ensure **User Experience (UX)** is intuitive and accessible.  
+* **Training and Support**:  
++ Develop or license **training materials** for applicants as reviewers.  
++ Consider **helpdesk support** during the review period.  
+* **Communication and Engagement**:  
++ Clearly explain the purpose, process, and benefits to participants.  
++ Highlight how reviews are used and how quality is monitored to foster trust.  
 
 
 ## Challenges and mitigations
@@ -182,24 +183,24 @@ PROMPTS:
 -->
 
 **How to assess effects/outcomes – Data to collect**
-* **Results of Shadow Experiments**
-+ Compare outcomes of distributed peer review with traditional review within the same call.
-+ Analyze **agreement rates** between the two methods (e.g., overlap in selected proposals).
+* **Results of Shadow Experiments**  
+  + Compare outcomes of distributed peer review with traditional review within the same call.  
+  + Analyze **agreement rates** between the two methods (e.g., overlap in selected proposals).  
 
-* **Review Quality Metrics**
-+ Use meta-evaluation forms to assess reviews for accuracy, thoroughness, and constructiveness.
-+ Involve expert reviewers or independent panels for spot quality checks.
+* **Review Quality Metrics**  
+  + Use meta-evaluation forms to assess reviews for accuracy, thoroughness, and constructiveness.  
+  + Involve expert reviewers or independent panels for spot quality checks.  
 
-* **User Feedback and Surveys**
-+ Collect post-call surveys on:
-    - Experience as both reviewers and applicants
-    - Perceptions of **fairness and transparency**
-    - Perceived **workload**
-    - Understanding of evaluation criteria
+* **User Feedback and Surveys**  
+  + Collect post-call surveys on:  
+    - Experience as both reviewers and applicants  
+    - Perceptions of **fairness and transparency**  
+    - Perceived **workload**  
+    - Understanding of evaluation criteria  
 
-* **Evaluation Timelines**
-+ Track overall process speed: average time from submission to notification.
-+ Compare with timelines of similar calls evaluated by traditional methods.
+* **Evaluation Timelines**  
+  + Track overall process speed: average time from submission to notification.  
+  + Compare with timelines of similar calls evaluated by traditional methods.  
 
 
 ## Related CoARA commitments
@@ -210,9 +211,9 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 
 # Relevant resources and literature 
   
-(RoRI), Research on Research Institute; Stafford, Tom; Pinfield, Stephen; Butters, Anna; Benson Marshall, Melanie (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review. Research on Research Institute. Report. [https://doi.org/10.6084/m9.figshare.29270534.v1](https://doi.org/10.6084/m9.figshare.29270534.v1) 
-Pearson. How to speed up peer review: make applicants mark one another. Nature. 2025 Jul;643(8071):313-314. doi: 10.1038/d41586-025-02090-z
-[https://assets.publishing.service.gov.uk/media/685a83af72588f418862071d/a-year-in-metascience-2025.pdf](https://assets.publishing.service.gov.uk/media/685a83af72588f418862071d/a-year-in-metascience-2025.pdf)
+(RoRI), Research on Research Institute; Stafford, Tom; Pinfield, Stephen; Butters, Anna; Benson Marshall, Melanie (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review.   Research on Research Institute. Report. [https://doi.org/10.6084/m9.figshare.29270534.v1](https://doi.org/10.6084/m9.figshare.29270534.v1)  
+Pearson. How to speed up peer review: make applicants mark one another. Nature. 2025 Jul;643(8071):313-314. doi: 10.1038/d41586-025-02090-z  
+[https://assets.publishing.service.gov.uk/media/685a83af72588f418862071d/a-year-in-metascience-2025.pdf](https://assets.publishing.service.gov.uk/media/685a83af72588f418862071d/a-year-in-metascience-2025.pdf)  
 
 
 ## Templates from funders and institutions 
@@ -257,6 +258,7 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
 
