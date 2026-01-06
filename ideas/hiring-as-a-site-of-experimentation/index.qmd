@@ -2,7 +2,7 @@
 title: "Hiring as a site of experimentation"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
-categories: [Level 0]
+categories: [Level 1, Challenge - Process, Challenge - Inclusivity, Challenge - Process Culture, Challenge - Diversity, Challenge - Different Questions, CoARA Commitment 1, CoARA Commitment 5, CoARA Commitment 6, CoARA Commitment 8, CoARA Commitment 10, User - Institutes, User - Meta-Researchers]
 description: "Using the institutional hiring process to diversify staff profiles and expertise in line with the goals and needs of the institution."
 image: false
 ---
@@ -53,6 +53,11 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
+- Brings more diversity and plurality in the academic ecosystem and career models
+- Promotes more collaboration between academic and other sectors
+- Makes Universities/institutions “actors of change” through developing people as “actors of change”
+- Makes the academic sector more approachable/attractive for everyone (esp. People that don’t know it)
+
 
 :::
 
@@ -73,6 +78,26 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
+This idea is especially relevant for **institutional hiring**, and **career development for existing staff/researcher**. Experimentation in this regard is more likely to take place in individual assessments run by assessment committees.  
+
+Preparation and guidance is key, as well as a clear/transparent process. This is crucial given the implication of hiring decisions on individuals' lives. 
+
+Regulations must be adhered to, but also potentially modified to fit. Yet, fairness needs to remain a crucial element for consideration in any processes, and experimental changes should probably be avoided within a single call to ensure consistent evaluation of candidates within a call.  
+  
+**Hiring as a site for experimentation could be used in many different ways. For example, this could take the form of:**  
+
+* Developing people more broadly, or mainly evaluating people for a more broad profile  
+* Tandem professorship (exists in Germany) - How to ensure that people aren’t only covering the typical aspects of research (and education to a lesser extent)   
+* Bringing people with different career paths into academia (e.g. industry, public sector, practitioners)  
+* Can also be potentially two people with different expertises collaborating  
+* Intersectoral mobility between academia and other domains
+* Look at the overall strategy/needs of the unit rather than at individual level - don’t think individually, more systematically
+  + First step: teams/groups need to learn how to think about their development as a group - “what do we need in the system/unit?”
+* Expanding career models  
+  + Start with Junior professorship (academic path) - acquire experience in the next years - either academic or joint between academic/industry - building a more broad set of skills
+* Rethinking the hiring requirements  
+  + e.g., Teaching and research are equally important - but education is “forgotten” in hiring - Narrative CV developed to abolish distinction between teaching/research - all professors (even those focusing on research) must teach as part of hiring procedure  
+
 
 ## Challenges and mitigations
 <!--
@@ -82,6 +107,44 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
+Entry into an academic career - person hired stays a really long time!
+Career development requirements and incentives - mandatory staying up-to-date
+Careful with quality assurance and career model fitting
+
+
+* **Challenge:** Regulations around are quite strict, hard to experiment
+* **Mitigation:**
+  + Easier to evaluate “what everyone knows” - people want to be careful  
+
+* **Challenge:** Hiring committee needs to be targeted for guidance/process change
+* **Mitigation:**
+  + Building good guidance and process for assessment should be standard practice even without experimentation. 
+
+* **Challenge:** Hiring committee is very diverse - rules about who is represented are strict
+* **Mitigation:** 
+  + The composition can be modified - e.g. person focusing on EDI, etc.. 
+  + More training for hiring committees - e.g. assessment reform  
+
+* **How to get more diverse people in the hiring committees?**
+* **Mitigation:**
+  + Depends on institutional regulations - these can potentially be modified. 
+  + Need to have enough diverse people in the institution to make it work (look at the issues getting gender diversity on committees with few women having to do everything)  
+  
+* **Challenge:** How to reach more diverse people and make them apply?
+* **Mitigation:** 
+  + Using network with other sectors (e.g. industry) - people are usually interested in working part time, or trying an academic career again
+  + Fostering intersectoral mobility
+
+* **Challenge:** Important to be fair and transparent - Lots of rules here
+* **Mitigation:**
+  + Experimental changes should probably be avoided within a single call to ensure consistent evaluation of candidates within a call
+
+* **Additional challenges:**
+  + There’s a fallback to just “replace what was lost” when professors leave
+  + Shouldn’t hire diverse people just for that sake, it should be towards a bigger strategic target
+  + Competitive to get a professorship - Lots of really good people who don’t fit the more diversity target - it’s tough enough to be a good researcher
+  + System level view - always need people who cover the research part to ensure the experimental elements and conclusions are sound and evidence-based
+
 
 ## Evaluating success
 <!--
@@ -90,6 +153,18 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
+While success will depend on the objective for the experimentation, certain questions may help situate whether the experimental assessment is successful or not.
+
+* Which areas are important to highlight/develop for the institution (e.g. research, teaching, and practice - maybe others) and has the experimental assessment pursued these areas?
+* Are the diverse dimensions assessed and developed in individuals or in the breadth of profiles existing in an institution?
+* Do individuals (and their skills) meet the needs coverage for the unit?
+  + Profile plan/resources plan for teams/institutes/departments/
+  + Reflective evaluation on the plan (after a few years) and how the people in the unit are covering everything, and if the goals have been reached, and how the people contributed to this 
+* Do the experimental assessment promote intersectoral mobility and collaboration? (i.e., if promotion of diversity of skills and sector is valued for the assessment)
+* Are diversity distributions improved quantitatively?
+  + (e.g. how many people came from other institutions/sectors, what areas/focuses do they cover, experience level mix). 
+  + Note that it is diffcule to have “what is good”/benchmarking - if you see a few areas with high coverage and others with low, then you see the weak spots.
+
 
 ## Related CoARA commitments
 <!--
@@ -97,9 +172,15 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
+**CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+**CoARA Commitment 5** – Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
+**CoARA Commitment 6** – Review and develop research assessment criteria, tools and processes
+**CoARA Commitment 8** – Exchange practices and experiences to enable mutual learning within and beyond the Coalition
+**CoARA Commitment 10** – Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
+
 # Relevant resources and literature 
 
-This section includes resources, literature, and reports relevant to this specific experimental idea.
+This section includes resources, literature, and reports relevant to this specific experimental idea (where available).
 
 ## Templates from funders and institutions 
 <!--
@@ -125,6 +206,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
