@@ -218,7 +218,8 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 # Relevant resources and literature 
   
 Research on Research Institute (RORI), Stafford, T., Pinfield, S., Butters, A., Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review. *Research on Research Institute.* Report. [https://doi.org/10.6084/m9.figshare.29270534.v1](https://doi.org/10.6084/m9.figshare.29270534.v1)  
-Pearson. H. (2025). How to speed up peer review: make applicants mark one another. *Nature.* 2025 Jul;643(8071):313-314. doi: 10.1038/d41586-025-02090-z  
+  
+Pearson. H. (2025). How to speed up peer review: make applicants mark one another. *Nature.* 2025 Jul;643(8071):313-314. doi: 10.1038/d41586-025-02090-z
 [https:doi.org/10.1038/d41586-025-02090-z](https:doi.org/10.1038/d41586-025-02090-z)  
 
 
@@ -268,6 +269,7 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
 
