@@ -106,9 +106,9 @@ PROMPTS:
 
 This experiment can fit any target group where assessment includes several similar applications and where applicants have a minimal expertise of each other's domains. This includes:
 
-**Funders**: looking for innovative, scalable evaluation models to reduce review fatigue and improve equity.  
-**Institutions**: especially those conducting internal or competitive funding calls, or managing doctoral/postdoctoral fellowships.  
-**Thematic consortia or networks**: where members share disciplinary language and goals, easing implementation.  
+- **Funders**: looking for innovative, scalable evaluation models to reduce review fatigue and improve equity.  
+- **Institutions**: especially those conducting internal or competitive funding calls, or managing doctoral/postdoctoral fellowships.  
+- **Thematic consortia or networks**: where members share disciplinary language and goals, easing implementation.  
 
 Potential variables that may have an influence on the distributed peer review process and may thus be valuable elements to experiment on include the **identity of reviewers** (e.g., anonymity vs. known identities), the **size and diversity of the reviewer pool**, and the **language used in proposals and reviews**, which may affect accessibility, clarity, and fairness across different linguistic or cultural backgrounds.
   
@@ -269,6 +269,7 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
 
