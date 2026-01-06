@@ -113,7 +113,7 @@ This experiment can fit any target group where assessment includes several simil
 Potential variables that may have an influence on the distributed peer review process and may thus be valuable elements to experiment on include the **identity of reviewers** (e.g., anonymity vs. known identities), the **size and diversity of the reviewer pool**, and the **language used in proposals and reviews**, which may affect accessibility, clarity, and fairness across different linguistic or cultural backgrounds.
 
   
-**Suggestions on how to implement**
+###Suggestions on how to implement
 
 **Pilot in Small-Scale Calls**:  
 Start with **small funding schemes** or **thematic calls** (e.g. internal grants, early-career researcher awards), where the administrative complexity and risks are lower. This allows for iterative refinement.
@@ -127,26 +127,27 @@ Before full implementation, run **parallel (shadow) experiments** alongside trad
 **Integrate Peer Review Training**:  
 Provide **training modules** to help applicants understand the evaluation criteria and write constructive feedback. This is particularly useful for **Early Career Researchers**, improving both their evaluative skills and grant writing.
   
+
   
-**Implementing distributed peer review requires careful planning and resourcing**:  
+###Implementing distributed peer review requires careful planning and resourcing:  
   
 * **HR and Coordination Costs**:  
   + *Project Manager*: to coordinate implementation, timeline, logistics.  
   + *Administrative Support*: for applicant communication, managing review assignments.  
   
-- *Legal and Ethical Considerations*:  
+- **Legal and Ethical Considerations**:  
   - *Legal Advisers*: to ensure GDPR compliance, particularly around anonymization and data handling.  
-  - Develop **terms of participation** and conflict of interest policies.  
+  - Develop *terms of participation* and conflict of interest policies.  
   
-- *Technical Infrastructure*:  
+- **Technical Infrastructure**:  
   - *Platform or Tool*: for proposal submission, anonymized review distribution, and scoring.  
   - Ensure *User Experience (UX)* is intuitive and accessible.  
   
-- *Training and Support*:  
+- **Training and Support**:  
   - Develop or license *training materials* for applicants as reviewers.  
   - Consider *helpdesk support* during the review period.  
   
-- *Communication and Engagement*:  
+- **Communication and Engagement**:  
   - Clearly explain the purpose, process, and benefits to participants.  
   - Highlight how reviews are used and how quality is monitored to foster trust.  
 
@@ -221,8 +222,10 @@ Pearson. How to speed up peer review: make applicants mark one another. Nature. 
 [https://assets.publishing.service.gov.uk/media/685a83af72588f418862071d/a-year-in-metascience-2025.pdf](https://assets.publishing.service.gov.uk/media/685a83af72588f418862071d/a-year-in-metascience-2025.pdf)  
 
 
-## Templates from funders and institutions 
+
 <!--
+## Templates from funders and institutions 
+
 PROMPTS:
 - Add templates from funders and institutions if existing
 -->
@@ -247,8 +250,10 @@ More experiments about distributed peer review, aplicants for funding review eac
 [https://researchonresearch.org/volkswagen-distributed-peer-review/](https://researchonresearch.org/volkswagen-distributed-peer-review/) 
 
 
-## Other resources
+
 <!--
+## Other resources
+
 PROMPTS:
 Include any other resource here
 -->
@@ -263,6 +268,7 @@ Section to be kept blank, for input within the idea catalogue
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
+
 
 
 
