@@ -106,25 +106,30 @@ PROMPTS:
 
 Some challenges in implementing and experimenting with Narrative CVs have been documented in the literature. These include perceived challenges from (potential) users as well as reported challenges from those implementing or piloting with Narrative CVs.
 
-**Challenge - Disciplinary buy-in:**  
-While some disciplines may already be comfortable using qualitative information in an evaluative manner, other disciplines may feel more comfortable with quantitative information, and may show a resistence in prioritising qualitative elements described in the narrative CV over other forms of metrics.  
-**Mitigation:** Providing a space for everyone in the community to discuss and be heard is essential to enable a shared understanding and a shared perspective among different disciplines. Creating a platform for exchange could be a way to promote such dialogues, or enabling everyone involved in the institution to be involved in discussing the implementation of narrative CVs and in shaping their implementation can play a cricial role on future buy-in. In addition, building a more thorough metrics literacy can help individuals understand the limitations and illusion of objectivity that certain metrics provide, and equip users to identify how such metrics can be used responsibly to complement qualitative information. Thorough training for assessors and reviewers may also help in this regard.
+* **Challenge - Disciplinary buy-in:**  
+  + While some disciplines may already be comfortable using qualitative information in an evaluative manner, other disciplines may feel more comfortable with quantitative information, and may show a resistence in prioritising qualitative elements described in the narrative CV over other forms of metrics.  
+* **Mitigation:** 
+  + Providing a space for everyone in the community to discuss and be heard is essential to enable a shared understanding and a shared perspective among different disciplines. Creating a platform for exchange could be a way to promote such dialogues, or enabling everyone involved in the institution to be involved in discussing the implementation of narrative CVs and in shaping their implementation can play a cricial role on future buy-in. In addition, building a more thorough metrics literacy can help individuals understand the limitations and illusion of objectivity that certain metrics provide, and equip users to identify how such metrics can be used responsibly to complement qualitative information. Thorough training for assessors and reviewers may also help in this regard.
 
-**Challenge - Perceived loss of objectivity:**
-Narrative CVs are sometimes criticised for reducing the objectivity of applications processes, especially when compared to numerical metrics.
-**Mitigation:** Building a more thorough metrics literacy can help individuals understand the limitations and illusion of objectivity that certain metrics provide, and equip users to identify how such metrics can be used responsibly to complement qualitative information. Thorough training for assessors and reviewers may also help in this regard.
+* **Challenge - Perceived loss of objectivity:**  
+  + Narrative CVs are sometimes criticised for reducing the objectivity of applications processes, especially when compared to numerical metrics.
+* **Mitigation:**
+  + Building a more thorough metrics literacy can help individuals understand the limitations and illusion of objectivity that certain metrics provide, and equip users to identify how such metrics can be used responsibly to complement qualitative information. Thorough training for assessors and reviewers may also help in this regard.
 
-**Challenge - Labor**
-Narrative CVs often raise a concern among applicants and reviewers because they may take more time and effort to complete and review. While the time and effort needed to complete or review narrative CVs compared to tabular CVs is debated ([see FNR reports on implementation and feedback reports](https://www.fnr.lu/narrative-cv/)), introducing a new method will always take a moment of adaptation and require time and efforts by the applicants and assessors. In addition, narrative CVs are often (although not always) described as more adaptable, enabling applicants to target specific elements of the application better. Consequently, for applicants, narrative CVs may need to be taylored for each specific application, duplicating burdens and time needed for each application.
-**Mitigation:** A simple mitigation for the added labor that may be introduced by narrative CV is to reduce burden in other aspects of the process and to avoid duplication of information required - a problem that is often recurrent in any application processes. In addition, applicants may be encouraged to save and reuse their narrative CV and provided with the technical possibility of reimporting an editable version of their narrative CV in multiple applications on the same application system. Training to both assessors and applicants may also support, over time, a reduction of burdens associated with the exercise. Along the same lines, providing more time between assessments and reducing the assessment frequency (e.g., longer contracts, longer funding terms) could help secure time for better, more thorough applications.
+* **Challenge - Labor**  
+  + Narrative CVs often raise a concern among applicants and reviewers because they may take more time and effort to complete and review. While the time and effort needed to complete or review narrative CVs compared to tabular CVs is debated ([see FNR reports on implementation and feedback reports](https://www.fnr.lu/narrative-cv/)), introducing a new method will always take a moment of adaptation and require time and efforts by the applicants and assessors. In addition, narrative CVs are often (although not always) described as more adaptable, enabling applicants to target specific elements of the application better. Consequently, for applicants, narrative CVs may need to be taylored for each specific application, duplicating burdens and time needed for each application.
+* **Mitigation:**  
+  + A simple mitigation for the added labor that may be introduced by narrative CV is to reduce burden in other aspects of the process and to avoid duplication of information required - a problem that is often recurrent in any application processes. In addition, applicants may be encouraged to save and reuse their narrative CV and provided with the technical possibility of reimporting an editable version of their narrative CV in multiple applications on the same application system. Training to both assessors and applicants may also support, over time, a reduction of burdens associated with the exercise. Along the same lines, providing more time between assessments and reducing the assessment frequency (e.g., longer contracts, longer funding terms) could help secure time for better, more thorough applications.
 
-**Challenge: Internal alignment at the organisation/change management:**
-Ensuring that the entire organisation is aligned on the purpose for implementation can be challenging.
-**Mitigation:** Aligning the narrative CV with the objectives and purpose of the institution/hiring team/funding scheme can help support stronger alignment between the objective of narrative CV implementation and the purpose within the organisation. 
+* **Challenge: Internal alignment at the organisation/change management:**  
+  + Ensuring that the entire organisation is aligned on the purpose for implementation can be challenging.
+* **Mitigation:** 
+  + Aligning the narrative CV with the objectives and purpose of the institution/hiring team/funding scheme can help support stronger alignment between the objective of narrative CV implementation and the purpose within the organisation. 
 
-**Challenge - Scalability of the process:**
-Implementing narrative CVs may be daunting especially in small institutions or in very large programmes.
-**Mitigation:** Several organisation start implementing narrative CVs on smaller programmes (e.g., early career collaboration funds, travel funds) to pilot their implementation and all the procedures and technical and human efforts needed to embed the change. This can provide an overview of the resources needed, and enable a pave the way to larger-scale implementation. 
+* **Challenge - Scalability of the process:**  
+  + Implementing narrative CVs may be daunting especially in small institutions or in very large programmes.
+* **Mitigation:**
+  + Several organisation start implementing narrative CVs on smaller programmes (e.g., early career collaboration funds, travel funds) to pilot their implementation and all the procedures and technical and human efforts needed to embed the change. This can provide an overview of the resources needed, and enable a pave the way to larger-scale implementation. 
 
 ## Evaluating success
 <!--
@@ -140,6 +145,10 @@ The successes of implementing narrative CVs should target the reasons for implem
 PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
+
+**CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+**CoARA Commitment 2** – Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+**CoARA Commitment 3** – Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
 
 # Relevant resources and literature 
 
@@ -204,7 +213,7 @@ R4RI CV Template and guidance: <https://www.ukri.org/apply-for-funding/develop-y
 Royal Society Résumé for Researchers: <https://royalsociety.org/news-resources/projects/research-culture/tools-for-support/resume-for-researchers/>
 
 
-## Case examples and literature
+<!-- ## Case examples and literature
 <!--
 PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
@@ -222,7 +231,9 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+-->
 >
+
 
 
 
