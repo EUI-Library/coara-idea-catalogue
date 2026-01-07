@@ -3,7 +3,7 @@ title: "EDI tiebreak"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+description: "An EDI 'tiebreak' is a secondary criteria used in the case of identically ranked or scored proposals/applications, for which an EDI element is used as a tie-breaking measure."
 image: false
 ---
 
@@ -53,8 +53,7 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
+
 
 :::
 
@@ -64,7 +63,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+
 
 ## Context and considerations
 <!--
@@ -76,7 +75,6 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +84,6 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Evaluating success
 <!--
@@ -95,7 +92,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
@@ -105,7 +101,7 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 
 # Relevant resources and literature 
 
-This section includes resources, literature, and reports relevant to this specific experimental idea.
+This section includes resources, literature, and reports relevant to this specific experimental idea (where available).
 
 ## Templates from funders and institutions 
 <!--
@@ -119,6 +115,8 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
+**Research Ireland** implements a gender tie-breaker criterion in *Frontiers for the Future* (FFP) to prioritise applicants who identify as women when scores/rankings are identical.    Recently published dashboard supports the positive impact of gender initiatives introduced into programmes such e (FFP), and the *Research Ireland Pathway programmes*, on improving the overall representation of women applicants and grant holders in these programmes. An objective under the organisations EDI Strategy is to establish the strength of an EDI plan as a tie-breaker with applications submitted under competitive funding programmes awarding grants of  scale.
+
 ## Other resources
 <!--
 PROMPTS:
@@ -131,6 +129,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
