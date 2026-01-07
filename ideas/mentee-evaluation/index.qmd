@@ -132,9 +132,9 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
-**CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-**CoARA Commitment 2** – Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-**CoARA Commitment 6** – Review and develop research assessment criteria, tools and processes
+**CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+**CoARA Commitment 2** – Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+**CoARA Commitment 6** – Review and develop research assessment criteria, tools and processes  
 
 # Relevant resources and literature 
 
@@ -171,6 +171,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
