@@ -2,8 +2,8 @@
 title: "Mentee evaluation"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
-categories: [Level 0, User - Institutes, User - Academies, User - Research Groups, User - Meta-Researchers]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: [Level 0, CoARA Commitment 1, CoARA Commitment 2, CoARA Commitment 6, User - Institutes, User - Academies, User - Research Groups, User - Meta-Researchers]
+description: "Evaluating mentorship and making mentorship a part of the assessment. This is especially relevant for PIs, and aims to look at the mentorship and culture created with the applicants."
 image: false
 ---
 
@@ -53,8 +53,13 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
+Embedding mentee evaluation in assessment may lead:
+
+- Evaluative and supportive impact on leaders in academia
+- Increase leadership competences and skills - e.g. better leaders in research
+- Better transparency in leadership expectations - knowing what is needed to become a leader/manager
+- Make it easier for people to transition into leadership positions - helping people in the transition
+- More diversity in academic leadership (e.g. 1st generation researchers, gender diversity, etc.)
 
 :::
 
@@ -76,7 +81,16 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This idea can lend itself to any context where it can be targeted towards leaders. It is expected that this is especially applicable to research institutions, but it could also apply to funders in relation to grants that support leadership and group management. 
+
+Experiments on mentee evaluation can take different forms and target numerous elements of the leadership cycle, including:
+
+- Mentee evaluations for hiring, promotion, and tenure assessment
+- Top down evaluation on leadership
+- 360 degree evaluations for leaders (i.e., where evaluation takes input from individuals in supervising, equal, and supervised roles - above, middle, below)
+- Training/coaching for leaders as parts of grants/institutional positions/etc. 
+- Competence/skills frameworks and evaluations in grants/hiring/promotion
+- Funds in grants/team budgets for leadership training and development
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +100,21 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Several challenges may impact this idea:
+
+**Challenge: Resistance from leaders** – Research leaders think they are already great leaders, and this isn’t relevant. 
+**Mitigation:** Make it mandatory for new leaders  
+  
+**Challenge: Creating evaluations for all staff (even if it doesn’t exist)**
+**Mitigation:** Embrace a reduced frequency of assessment (See related [idea](https://eui-library.github.io/coara-idea-catalogue/ideas/reducing-frequency-of-assessment/index.html))
+
+**Challenge: Mitigation:** Monitoring improvement and how effective this is
+**Mitigation:** Increased importance of HR staff - bring them into the process  
+  
+**Challenge: Selection bias** – Mentors select people they know will be positive
+**Mitigation:** Make the template clear enough to allow to 'read between the lines'
+**Mitigation:** Assessor training (i.e., Qualitative evaluation in Pep-CV could be relevant to this, but not open in itself)  
+  
 
 ## Evaluating success
 <!--
@@ -95,7 +123,10 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Employment satisfaction surveys will show improvement
+Reduction in people leaving teams/research groups due to poor leadership
+Leaders feel more comfortable in the role
+Evaluations will have more leadership components to them when applicable (e.g. hiring leaders, promotion to leadership, grants around leading groups)
 
 ## Related CoARA commitments
 <!--
@@ -103,9 +134,17 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
+**CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+**CoARA Commitment 2** – Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+**CoARA Commitment 6** – Review and develop research assessment criteria, tools and processes
+
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+Vitae Reseacher Development Framework - competence framework for researchers
+Competence frameworks for research managers - (https://research-and-innovation.ec.europa.eu/jobs-research/rm-comp-european-competence-framework-research-managers_en#other-eu-competence-frameworks)[https://research-and-innovation.ec.europa.eu/jobs-research/rm-comp-european-competence-framework-research-managers_en#other-eu-competence-frameworks]
+
 
 ## Templates from funders and institutions 
 <!--
@@ -119,6 +158,9 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
+FNR Mentee evaluation provides gender balanced list of former mentees, FNR decides on two, sends them an evaluation template to them - (https://www.researchluxembourg.org/en/research-landscape/research-culture/mentorship-charter/)[https://www.researchluxembourg.org/en/research-landscape/research-culture/mentorship-charter/]
+
+
 ## Other resources
 <!--
 PROMPTS:
@@ -131,6 +173,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
