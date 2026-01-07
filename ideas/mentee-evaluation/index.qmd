@@ -100,17 +100,17 @@ PROMPTS:
 
 Several challenges may impact this idea:
 
-**Challenge: Resistance from leaders** – Research leaders think they are already great leaders, and this isn’t relevant. 
+**Challenge: Resistance from leaders** – Research leaders think they are already great leaders, and this isn’t relevant.   
 **Mitigation:** Make it mandatory for new leaders  
   
-**Challenge: Creating evaluations for all staff (even if it doesn’t exist)**
+**Challenge: Creating evaluations for all staff (even if it doesn’t exist)**  
 **Mitigation:** Embrace a reduced frequency of assessment (See related [idea](https://eui-library.github.io/coara-idea-catalogue/ideas/reducing-frequency-of-assessment/index.html))
 
-**Challenge: Mitigation:** Monitoring improvement and how effective this is
+**Challenge: Mitigation:** Monitoring improvement and how effective this is  
 **Mitigation:** Increased importance of HR staff - bring them into the process  
   
-**Challenge: Selection bias** – Mentors select people they know will be positive
-**Mitigation:** Make the template clear enough to allow to 'read between the lines'
+**Challenge: Selection bias** – Mentors select people they know will be positive  
+**Mitigation:** Make the template clear enough to allow to 'read between the lines'  
 **Mitigation:** Assessor training (i.e., Qualitative evaluation in Pep-CV could be relevant to this, but not open in itself)  
   
 
@@ -171,6 +171,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
