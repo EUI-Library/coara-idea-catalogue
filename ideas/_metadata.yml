@@ -9,4 +9,4 @@ title-block-banner: true
 
 # Rename metadata labels
 language: 
-  author: "Contributor"
+  title-block-author-single: "Contributor"
