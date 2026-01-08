@@ -8,9 +8,9 @@ freeze: true
 title-block-banner: true
 
 # Add date modified
-date: last-modified
+date-modified: last-modified
 
 # Rename metadata labels
 language: 
   title-block-author-single: "Contributor"
-  title-block-date: "Last updated"
+  title-block-date-modfied: "Last updated"
