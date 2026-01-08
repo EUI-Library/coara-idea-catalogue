@@ -10,4 +10,4 @@ title-block-banner: true
 # Rename metadata labels
 language: 
   title-block-author-single: "Contributor"
-  title-block-date: "Last updated"
+  title-block-published: "Last updated"
