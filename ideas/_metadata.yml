@@ -7,6 +7,10 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: true
 
+# Add date modified
+date: last-modified
+
 # Rename metadata labels
 language: 
   title-block-author-single: "Contributor"
+  title-block-date: "Last updated"
