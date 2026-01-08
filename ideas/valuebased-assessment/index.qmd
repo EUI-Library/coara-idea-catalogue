@@ -3,7 +3,7 @@ title: "Value-based assessment"
 author: "Experiments in Assessment WG"
 date: "2025-03-03"
 categories: [Level 0]
-description: "Identifying fundamental values for a research funding orhiring programme, and centering the assessment on those values (e.g. as evaluation criteria)."
+description: "Identifying fundamental values for a research funding or hiring programme, and centering the assessment on those values (e.g. as evaluation criteria)."
 image: false
 ---
 
@@ -131,5 +131,6 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
