@@ -6,3 +6,7 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# Rename metadata labels
+language: 
+  author: "Contributor"
