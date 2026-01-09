@@ -1,7 +1,7 @@
 ﻿---
 title: "Hiring as a site of experimentation"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 1, Challenge - Process, Challenge - Inclusivity, Challenge - Process Culture, Challenge - Diversity, Challenge - Different Questions, CoARA Commitment 1, CoARA Commitment 5, CoARA Commitment 6, CoARA Commitment 8, CoARA Commitment 10, User - Institutes, User - Meta-Researchers]
 description: "Using the institutional hiring process to diversify staff profiles and expertise in line with the goals and needs of the institution."
 image: false

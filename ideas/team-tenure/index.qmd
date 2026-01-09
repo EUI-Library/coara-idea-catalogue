@@ -1,7 +1,7 @@
 ﻿---
 title: "Team Tenure"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 1, Challenge - Process, Challenge - Inclusivity, Challenge - Process Culture, Challenge - Diversity, Challenge - Collaboration, Challenge - Different Questions, CoARA Commitment 1, CoARA Commitment 6, User - Institutes, User - Research Groups, User - Meta-Researchers]
 description: "Team tenure is a way to provide stability of funding (i.e., through tenure as a permanent funding streams) for a research group rather than for individual researchers, enabling a broader division of tasks and skills specialisation within the group. This idea is linked to the concept of Team Assessment."
 image: false

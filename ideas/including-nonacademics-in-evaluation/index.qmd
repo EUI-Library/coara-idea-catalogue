@@ -1,7 +1,7 @@
 ﻿---
 title: "Including non-academics in evaluation"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0, Challenge - Process, Challenge - Inclusivity, Challenge - Different Questions, CoARA Commitment 1, CoARA Commitment 2, User - Funder, User - Meta-Researchers]
 description: "Including non-academics in evaluation broadens perspectives by integrating stakeholders from industry, policy, and society. It enhances relevance, transparency, and societal impact, mitigates disciplinary bias, and supports responsible research assessment aligned with real-world needs and principles of openness, inclusiveness, and accountability."
 image: false

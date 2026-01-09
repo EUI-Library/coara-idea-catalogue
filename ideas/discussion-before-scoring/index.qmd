@@ -1,7 +1,7 @@
 ﻿---
 title: "Discussion before scoring"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Having interviews as first stage of the assessment process, rather than as a last stage. This could shift the elements that are valued in the assessment process and promote greater diversity."
 image: false

@@ -1,7 +1,7 @@
 ﻿---
 title: "Non-expert panels"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Replacing or supplementing existing panels with non-researchers, to evaluate aspects of the proposal (or whatever is evaluated) that are not directly research related."
 image: false

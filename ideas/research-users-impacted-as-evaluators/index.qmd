@@ -1,7 +1,7 @@
 ﻿---
 title: "Research users impacted as evaluators"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0, Challenge - Inclusivity, Challenge - Bias Mitigation, Challenge - Process Culture, Challenge - Diversity, Challenge - Different Questions, CoARA Commitment 1, CoARA Commitment 2, CoARA Commitment 6, User - Funder, User - Academies]
 description: "Individuals or their representatives directly impacted by the research activities can be involved as reviewers, as one specific category of stakeholders. Depending on the group represented, their role in the research assessment process and their requirements in terms of communication have to be carefully considered in the process design."
 image: false

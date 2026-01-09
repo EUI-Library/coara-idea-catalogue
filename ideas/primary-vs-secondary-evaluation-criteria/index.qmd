@@ -1,7 +1,7 @@
 ﻿---
 title: "Primary vs. Secondary evaluation criteria"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "A secondary set of evaluation criteria that would be used in the event of proposals (or whatever is evaluated) that are of the same quality. Potential tiebreakers could be used to promote aspects of research culture, diversity, or other things that are important to the evaluating body."
 image: false

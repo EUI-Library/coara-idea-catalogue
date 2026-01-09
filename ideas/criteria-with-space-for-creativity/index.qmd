@@ -1,7 +1,7 @@
 ﻿---
 title: "Criteria with space for creativity"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Adding an evaluation criteria that is focused on creativity, or adjusting multiple existing criteria to include aspects of creativity in research."
 image: false

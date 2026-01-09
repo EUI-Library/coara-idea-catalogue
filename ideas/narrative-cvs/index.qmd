@@ -1,7 +1,7 @@
 ---
 title: "Narrative CV"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 4, Challenge - Inclusivity, Challenge - Process Culture, Challenge - Diversity, Challenge - Different Questions, CoARA Commitment 1, CoARA Commitment 2, CoARA Commitment 3, User - Funders, User - Institutes, User - Academies, User - Research Groups, User - Meta-Researchers]
 description: "Narrative CVs change the format of Curriculum Vitaes (CVs) submitted alongside funding or employment applications from an itemised format to a structured narrative style which allows a greater diversity of experiences to be expressed."
 image: false

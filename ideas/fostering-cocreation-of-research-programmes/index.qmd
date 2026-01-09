@@ -1,7 +1,7 @@
 ﻿---
 title: "Fostering co-creation of research programmes"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Engage with community while designing funding programmes to ensure the programmes designed are as diverse and includsive as possible and are relevant and speaking to the challenges faced by underserved communities."
 image: false

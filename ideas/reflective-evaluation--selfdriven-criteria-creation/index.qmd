@@ -1,7 +1,7 @@
 ﻿---
 title: "Reflective evaluation – self-driven criteria creation"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Allow the person/group being evaluated to set criteria for their own evaluation, and give a self-reflection on their progress towards those criteria. This can be used in both reporting/progress evaluation as well as in pre-decision evaluation."
 image: false

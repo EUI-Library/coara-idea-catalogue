@@ -1,7 +1,7 @@
 ﻿---
 title: "Fully open peer-review"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Peer review in which revieewers and applicants know each other's identities. This can extend to public sharing of peer review reports."
 image: false

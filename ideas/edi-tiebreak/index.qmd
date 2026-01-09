@@ -1,7 +1,7 @@
 ﻿---
 title: "EDI tiebreak"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "An EDI 'tiebreak' is a secondary criteria used in the case of identically ranked or scored proposals/applications, for which an EDI element is used as a tie-breaking measure."
 image: false

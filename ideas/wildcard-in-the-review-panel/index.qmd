@@ -1,7 +1,7 @@
 ﻿---
 title: "Wildcard in the review panel"
 author: "Thomas Feliciani, Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 3, CoARA Commitment 1, CoARA Commitment 6, CHALLENGE Inclusivity, User - Funders, User - Institutes, User - Academies,  User - Meta-Researchers]
 description: "Reviewers can use their wildcard or golden ticket (one per call) to directly fund a proposal they consider exceptionally promising but fear may be overlooked—often because it is risky, innovative, or niche. This mechanism promotes diversity and supports underrepresented researchers, interdisciplinary projects, and high-risk, high-reward ideas often disadvantaged in traditional review processes."
 image: false

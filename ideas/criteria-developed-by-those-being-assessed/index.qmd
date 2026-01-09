@@ -1,7 +1,7 @@
 ﻿---
 title: "Criteria developed by those being assessed"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "Involving the applicant pool in developing the evaluation criteria for an assessment process. This can be done potentially in a phase before the call is launched, and serves to allow the applicant community to choose how they are assessed, but the evaluating body must take final responsibility for the criteria chosen."
 image: false

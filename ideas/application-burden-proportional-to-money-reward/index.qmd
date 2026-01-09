@@ -1,7 +1,7 @@
 ﻿---
 title: "Application burden proportional to money/reward"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 0]
 description: "The length and complexity of the application process should be modified based on the award/result of the process. For larger grants/more senior positions there should be a more intense application process, and vice versa. This will reduce the burden for applicants, evaluators, and the institutions."
 image: false

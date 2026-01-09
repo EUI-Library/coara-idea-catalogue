@@ -1,7 +1,7 @@
 ﻿---
 title: "Evaluating negative and null results"
 author: "Experiments in Assessment WG"
-date: "2025-03-03"
+date: last-modified
 categories: [Level 2, CoARA Commitment 1, CoARA Commitment 3, CoARA Commitment 6, Challenge - Process, Challenge - Bias Mitigation, Challenge - Process Culture, Challenge - Diversity, User - Funder, User - Institutes, User - Meta-Researchers, User - Scientific editors and publishers]
 description: "Evaluating negative and null results is a way to give visibility to the important learnings that come with experiments that did not yiels the expected findings. Allowing researchers to share null and negative results shifts the focus from outcomes to the research process, promoting learning, rigor, and integrity. It highlights skills, collaboration, and data transparency—even with inconclusive findings."
 image: false
