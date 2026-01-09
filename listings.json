@@ -2,11 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/ideas/neutral-observer-in-the-review-panel/index.html",
-      "/ideas/academic-support-training/index.html",
-      "/ideas/distributed-peer-review/index.html",
       "/ideas/evaluating-the-idea-only/index.html",
       "/ideas/evaluating-negativenull-results/index.html",
+      "/ideas/neutral-observer-in-the-review-panel/index.html",
       "/ideas/nonexpert-panels/index.html",
       "/ideas/pick-your-own-reviewers/index.html",
       "/ideas/constructive-feedback/index.html",
@@ -23,7 +21,6 @@
       "/ideas/ignore-cv-publication-list/index.html",
       "/ideas/removing-assessment-in-general/index.html",
       "/ideas/team-tenure/index.html",
-      "/ideas/mentorship-impact-evaluation/index.html",
       "/ideas/broadening-the-meaning-of-the-academic/index.html",
       "/ideas/community-impact-evaluation/index.html",
       "/ideas/experimental-teaching/index.html",
@@ -37,6 +34,7 @@
       "/ideas/scope-framework/index.html",
       "/ideas/double-blind-peerreview/index.html",
       "/ideas/valuebased-assessment/index.html",
+      "/ideas/academic-support-training/index.html",
       "/ideas/criteria-with-space-for-creativity/index.html",
       "/ideas/narrative-cvs/index.html",
       "/ideas/valuing-unfunded-applications/index.html",
@@ -48,6 +46,7 @@
       "/ideas/processbased-assessment/index.html",
       "/ideas/discussion-before-scoring/index.html",
       "/ideas/mentee-evaluation/index.html",
+      "/ideas/distributed-peer-review/index.html",
       "/ideas/criteria-developed-by-those-being-assessed/index.html",
       "/ideas/including-nonacademics-in-evaluation/index.html",
       "/ideas/edi-tiebreak/index.html"
