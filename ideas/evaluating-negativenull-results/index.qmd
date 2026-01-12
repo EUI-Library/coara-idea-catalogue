@@ -134,8 +134,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
-
 ## Related CoARA commitments
 <!--
 PROMPTS:
@@ -174,6 +172,7 @@ Include any other resource here
 PROMPTS:
 Section to be kept blank, for input within the idea catalogue
 -->
+
 
 
 
