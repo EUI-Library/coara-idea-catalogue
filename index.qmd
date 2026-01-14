@@ -23,4 +23,6 @@ A collection of different experimental ideas are represented here, that can be u
 
 For information on how to use this catalogue, please look at the [Idea Catalogue How-To Guide](/how_to.qmd)
 
-We welcome all feedback on the platform! To send us any feedback or ideas, please use the [Idea Catalogue Feedback Form](https://forms.gle/NkiTKMdTfpgzpwki7). If you would like to **submit a new idea** to be added to the catalogue, please use [this form](https://forms.gle/6F4mPmHYa8dP9eVg9){target="_blank"}
+We welcome all feedback on the platform! To send us any feedback or ideas, please use the [Idea Catalogue Feedback Form](https://forms.gle/NkiTKMdTfpgzpwki7).  
+  
+If you would like to **submit a new idea** to the catalogue, please use [this form](https://forms.gle/6F4mPmHYa8dP9eVg9).{target="_blank"}
