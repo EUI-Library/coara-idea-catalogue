@@ -11,3 +11,8 @@ title-block-banner: true
 language: 
   title-block-author-single: "Contributor"
   title-block-published: "Last updated"
+  toc-title-website: "Table of Contents"
+
+  # Table of content settings
+toc: true
+toc-depth: 3

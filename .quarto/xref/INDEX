@@ -43,5 +43,155 @@
   },
   "ideas/0001/index.qmd": {
     "index.html": "99a0c64e"
+  },
+  "ideas/narrative-cvs/index.qmd": {
+    "index.html": "e429a8f3"
+  },
+  "about_old.qmd": {
+    "about_old.html": "e1422b7e"
+  },
+  "ideas/wildcard-in-the-review-panel/index.qmd": {
+    "index.html": "4699e404"
+  },
+  "ideas/constructive-feedback/index.qmd": {
+    "index.html": "a76d51ff"
+  },
+  "ideas/reducing-frequency-of-assessment/index.qmd": {
+    "index.html": "8adc89c4"
+  },
+  "ideas/valuing-unfunded-applications/index.qmd": {
+    "index.html": "7a9681b5"
+  },
+  "ideas/criteria-with-space-for-creativity/index.qmd": {
+    "index.html": "5caa6b7b"
+  },
+  "ideas/skills-based-assessment-development/index.qmd": {
+    "index.html": "31e412c6"
+  },
+  "ideas/fostering-cocreation-of-research-programmes/index.qmd": {
+    "index.html": "08f810be"
+  },
+  "ideas/ignore-cv-publication-list/index.qmd": {
+    "index.html": "28bb6c68"
+  },
+  "ideas/research-users-impacted-as-evaluators/index.qmd": {
+    "index.html": "c1585b66"
+  },
+  "ideas/making-all-science-anonymous/index.qmd": {
+    "index.html": "f0229ecd"
+  },
+  "ideas/broadening-the-meaning-of-the-academic/index.qmd": {
+    "index.html": "7982796e"
+  },
+  "ideas/recognition-of-peer-review/index.qmd": {
+    "index.html": "564cdfda"
+  },
+  "ideas/experimental-teaching/index.qmd": {
+    "index.html": "9399d599"
+  },
+  "ideas/evaluating-the-idea-only/index.qmd": {
+    "index.html": "4f89e659"
+  },
+  "ideas/academic-support-training/index.qmd": {
+    "index.html": "a7a2baf6"
+  },
+  "ideas/mentee-evaluation/index.qmd": {
+    "index.html": "81376e64"
+  },
+  "ideas/qualitative-assessor-training/index.qmd": {
+    "index.html": "a8ab36d0"
+  },
+  "ideas/pick-your-own-reviewers/index.qmd": {
+    "index.html": "e62b3684"
+  },
+  "ideas/hiring-as-a-site-of-experimentation/index.qmd": {
+    "index.html": "fcb125e9"
+  },
+  "ideas/scope-framework/index.qmd": {
+    "index.html": "16dab349"
+  },
+  "ideas/multidimensional-diversity-in-evaluation-committees/index.qmd": {
+    "index.html": "1bade9ab"
+  },
+  "ideas/primary-vs-secondary-evaluation-criteria/index.qmd": {
+    "index.html": "3a38e068"
+  },
+  "ideas/team-tenure/index.qmd": {
+    "index.html": "7a517114"
+  },
+  "ideas/evaluating-negativenull-results/index.qmd": {
+    "index.html": "26af63da"
+  },
+  "ideas/criteria-developed-by-those-being-assessed/index.qmd": {
+    "index.html": "78f3c040"
+  },
+  "ideas/assessment-lotteries/index.qmd": {
+    "index.html": "8f79b45f"
+  },
+  "ideas/forward-looking-assessment/index.qmd": {
+    "index.html": "e6e246e5"
+  },
+  "ideas/valuebased-assessment/index.qmd": {
+    "index.html": "68fe8d40"
+  },
+  "ideas/processbased-assessment/index.qmd": {
+    "index.html": "d95a7338"
+  },
+  "ideas/edi-tiebreak/index.qmd": {
+    "index.html": "5b897d86"
+  },
+  "ideas/application-burden-proportional-to-money-reward/index.qmd": {
+    "index.html": "7e30ca1f"
+  },
+  "ideas/removing-assessment-in-general/index.qmd": {
+    "index.html": "39d83901"
+  },
+  "ideas/distributed-peer-review/index.qmd": {
+    "index.html": "96bbdeed"
+  },
+  "ideas/discussion-before-scoring/index.qmd": {
+    "index.html": "a56eda91"
+  },
+  "ideas/team-assessment/index.qmd": {
+    "index.html": "c119e72e"
+  },
+  "ideas/community-impact-evaluation/index.qmd": {
+    "index.html": "3f45f522"
+  },
+  "ideas/fully-open-peerreview/index.qmd": {
+    "index.html": "147c2189"
+  },
+  "ideas/adjusting-evaluation-weighting/index.qmd": {
+    "index.html": "8fc9e8a8"
+  },
+  "ideas/purposedriven-assessment/index.qmd": {
+    "index.html": "2ddc2bdb"
+  },
+  "ideas/double-blind-peerreview/index.qmd": {
+    "index.html": "ef45e86a"
+  },
+  "ideas/neutral-observer-in-the-review-panel/index.qmd": {
+    "index.html": "506045c9"
+  },
+  "ideas/evaluation-of-edi-action-plan/index.qmd": {
+    "index.html": "a812c11d"
+  },
+  "ideas/nonexpert-panels/index.qmd": {
+    "index.html": "c57bae14"
+  },
+  "ideas/acknowledging-bias-making-it-transparent/index.qmd": {
+    "index.html": "4fa43d77"
+  },
+  "ideas/codesign-of-programmes-with-specific-communities/index.qmd": {
+    "index.html": "fead5dd8"
+  },
+  "ideas/including-nonacademics-in-evaluation/index.qmd": {
+    "index.html": "fbfe1061"
+  },
+  "ideas/reflective-evaluation--selfdriven-criteria-creation/index.qmd": {
+    "index.html": "c95b878e"
+  },
+  "how_to.qmd": {
+    "how_to.html": "2c84e814"
   }
 }

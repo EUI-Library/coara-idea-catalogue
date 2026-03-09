@@ -23,3 +23,7 @@ body {
 .quarto-title .quarto-categories .quarto-category {
     opacity: .8;
 }
+
+#quarto-margin-sidebar .quarto-listing-category {
+font-size: .875rem;
+}
