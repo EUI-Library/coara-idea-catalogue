@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Value-based assessment"
 author: "Experiments in Assessment WG"
 date: last-modified

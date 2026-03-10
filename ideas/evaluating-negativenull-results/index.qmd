@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Evaluating negative and null results"
 author: "Experiments in Assessment WG"
 date: last-modified

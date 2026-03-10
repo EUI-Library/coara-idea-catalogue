@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Criteria developed by those being assessed"
 author: "Experiments in Assessment WG"
 date: last-modified

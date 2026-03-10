@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Making all science anonymous"
 author: "Experiments in Assessment WG"
 date: last-modified

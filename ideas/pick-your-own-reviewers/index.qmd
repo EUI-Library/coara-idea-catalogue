@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pick your own reviewers"
 author: "Experiments in Assessment WG"
 date: last-modified

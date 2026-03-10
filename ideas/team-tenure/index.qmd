@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Team Tenure"
 author: "Experiments in Assessment WG"
 date: last-modified

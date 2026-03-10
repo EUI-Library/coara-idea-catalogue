@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Removing assessment in general"
 author: "Experiments in Assessment WG"
 date: last-modified

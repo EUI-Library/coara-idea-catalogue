@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Application burden proportional to money/reward"
 author: "Experiments in Assessment WG"
 date: last-modified

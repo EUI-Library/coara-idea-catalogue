@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Acknowledging bias, making it transparent"
 author: "Experiments in Assessment WG"
 date: last-modified

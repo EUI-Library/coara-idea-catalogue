@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Experimental teaching"
 author: "Experiments in Assessment WG"
 date: last-modified

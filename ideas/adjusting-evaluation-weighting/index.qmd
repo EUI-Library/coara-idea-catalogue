@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adjusting evaluation weighting"
 author: "Experiments in Assessment WG"
 date: last-modified

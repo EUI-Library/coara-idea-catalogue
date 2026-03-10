@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Discussion before scoring"
 author: "Experiments in Assessment WG"
 date: last-modified

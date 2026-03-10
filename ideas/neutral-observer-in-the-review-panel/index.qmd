@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Neutral observer in the review panel"
 author: "Experiments in Assessment WG"
 date: last-modified

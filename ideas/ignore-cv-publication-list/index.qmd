@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ignore CV/publication list"
 author: "Experiments in Assessment WG"
 date: last-modified

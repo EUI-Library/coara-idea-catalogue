@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Purpose-driven assessment"
 author: "Experiments in Assessment WG"
 date: last-modified

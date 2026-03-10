@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Wildcard in the review panel"
 author: "Thomas Feliciani, Experiments in Assessment WG"
 date: last-modified

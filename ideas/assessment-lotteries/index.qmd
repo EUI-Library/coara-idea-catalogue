@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Assessment lotteries"
 author: "Experiments in Assessment WG"
 date: last-modified

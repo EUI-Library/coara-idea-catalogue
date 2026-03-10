@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Reflective evaluation – self-driven criteria creation"
 author: "Experiments in Assessment WG"
 date: last-modified

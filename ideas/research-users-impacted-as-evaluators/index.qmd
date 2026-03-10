@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Research users impacted as evaluators"
 author: "Experiments in Assessment WG"
 date: last-modified
