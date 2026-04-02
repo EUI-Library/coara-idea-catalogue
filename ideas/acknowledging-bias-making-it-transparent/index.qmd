@@ -62,7 +62,7 @@ Providing space in an evaluation for evaluators or panel members to declare any 
 PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
-
+This could apply to funders, institutions, or even output assessment. 
 
 ## Context and considerations
 <!--
@@ -73,7 +73,11 @@ PROMPTS:
 - What are the things that change in the experiment?
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
+Biases can take different forms in research assessment. The most commonly known form of bias is that of conflicting interests. Most research funders have a Declarations of Interest which are mandatory for reviewers to complete. These declarations ask reviewers to declare any potential interests they may have towards specific applications so that reviewers do not review  applications for which they may have conflicting interests. The concept is less frequently applied in institutions (e.g., hiring and promotion), but it is just as relevant in these areas. 
 
+Conflict of interests declarations also apply to scientific publications, both for authors to declare any vested interest that could have biased their findings, and from peer-reviewers, whose collaborations could have an impact on their assessment of submitted manuscripts. The International Committee of Medical Journal Editors (ICMJE) [Disclosure of Interest form](https://www.icmje.org/disclosure-of-interest/) and [associated documentation](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/author-responsibilities--conflicts-of-interest.html) is used by many medical and generalist journals as a standard to define what constitutes a conflicting interest.
+
+Yet, conflicts of interests are generally linked to financial and observable interests such as collaborations, partnership, and personal relationships. Biases can go far beyond these observable elements. Having a process to make biases visible and transparent and to discuss frequent biases in assessment practices could help bring the review process to a deeper, more reflective level. 
 
 ## Challenges and mitigations
 <!--
@@ -83,9 +87,11 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
+**Challenge:** While some biases may be easy to bring visibility towards (e.g., procedures or methodological preferences, disciplinary biases, theorethical assumption biases, etc.) hidden and unconscious biases are difficult to bring to the surface and they could be challenging to discuss in a review committee. 
+**Mitigation:** Individual work for review committees to identify their biases, for example by doing unconscious biases exercises or by following a short training on biases could help raise awareness without bringing the discomfort and fear of being exposed. Pairing individual exercises with an option for the review committee members to discuss their impressions of these exercises with other reviewers could enable a better understanding and a safe approach to making biases more visible, transparent, and surmountable.  
 
-## Evaluating success
-<!--
+<!-- ## Evaluating success
+
 PROMPTS:
 - Evaluation criteria for the experiment 
 - How do you know it worked or didn’t?
@@ -98,11 +104,24 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
+This experiment targets:
+- CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+- CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
+
+
 # Relevant resources and literature 
 
-This section includes resources, literature, and reports relevant to this specific experimental idea.
+The Harvard Implicit Bias test is increasingly used in research institutions and funders to highlight existing biases and raise awareness [https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)
 
-## Templates from funders and institutions 
+"Journals and Funders Confront Implicit Bias in Peer Review" [https://www.aaas.org/news/journals-and-funders-confront-implicit-bias-peer-review](https://www.aaas.org/news/journals-and-funders-confront-implicit-bias-peer-review)
+
+*"Identifying Implicit Bias in Grant Reviews"* [https://iaphs.org/identifying-implicit-bias-grant-reviews/] (https://iaphs.org/identifying-implicit-bias-grant-reviews/)
+
+[PREreview](https://prereview.org/), a peer review platform to support open preprint reviews, made a [video](https://www.youtube.com/watch?v=xS0PCuO75IQ) and [resources](https://zenodo.org/search?q=keywords%3A%22open%20grant%20reviewers%22&l=list&p=1&s=10&sort=bestmatch) on bias which could be useful in creating more awareness and building tools to identify and declare biases in review processes.
+
+Although not specific to a research assessment process, a paper by Hawwash and colleagues (2018) [Perspective: Consideration of Values When Setting Priorities in Nutrition Research: Guidance for Transparency](https://doi.org/10.1093/advances/nmy039) provides a template to make values explicit in priority setting for research funding priorities. The framework proposed in this article could also serve as inspiration for building a table to make bias explicit in assessment processes. 
+
+<!--## Templates from funders and institutions 
 <!--
 PROMPTS:
 - Add templates from funders and institutions if existing
@@ -118,7 +137,7 @@ Any organisation names, links, authors that may be relevant to look into
 <!--
 PROMPTS:
 Include any other resource here
--->
+--> -->
 
 
 # Comments/lived examples
