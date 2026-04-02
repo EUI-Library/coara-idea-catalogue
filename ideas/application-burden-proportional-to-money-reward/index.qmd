@@ -2,8 +2,8 @@
 title: "Application burden proportional to money/reward"
 author: "Experiments in Assessment WG"
 date: last-modified
-categories: [Level 0]
-description: "The length and complexity of the application process should be modified based on the award/result of the process. For larger grants/more senior positions there should be a more intense application process, and vice versa. This will reduce the burden for applicants, evaluators, and the institutions."
+categories: [Level 0, Challenge - Process, Challenge - Different Questions, CoARA Commitment 6, User - Funder, User - Institutes, User - Academies]
+description: "Modifying the length and complexity of the application process based on the funding volume/award/result of the process can help reduce application burden. For larger grants/more senior positions, a more intense application process may be justified, but for small grants/short term applications, a light application process is preferable. This will reduce the burden for applicants, evaluators, and the organisations in charge of the assessment."
 image: false
 ---
 
@@ -52,9 +52,10 @@ PROMPTS:
 - These can be related to the main questions
 - If there are multiple experiments fitting, put them here
 -->
-
-- Objective 1
-- Objective 2
+This idea aims to reduce the application burden that happens for applicants, reviewers, and organisations, wherever possible.
+- **Reduce unnecessary burden** for small application processes
+- **Make more efficient use of research time and resources**
+- Less time/resources spent on small research assessment can increase assessment capacity and indirectly **increase assessment quality** where it is really needed
 
 :::
 
@@ -64,7 +65,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This idea is relevant to research funders in particular, but it may be relevant to any types of assessment and application processes. These may include hiring and promotion processes, awards submission processes, funding or fellowship applications, etc.   
 
 ## Context and considerations
 <!--
@@ -76,7 +77,9 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Application processes take time and resources, regardless of the outcome. In fact, several studies have shown that the costs of application to grant proposal is non negligeable, and that their costs can even exceed the awarded funding that is redistributed in research (see [Herbert et al., 2013](https://doi.org/10.1136/bmjopen-2013-002800); [Gross and Bergstrom (2019)](https://doi.org/10.1371/journal.pbio.3000065); [Schweiger (2025)](https://doi.org/10.1038/d41586-025-04060-x)).   
+  
+While the calculation of funding value is complex and funding investments in research are believed to build value at much higher rates than initial investments (see [Stafford (2026)](https://doi.org/10.1038/d41586-026-00498-9)), building application processes with a burden proportional to the success value would help shape more efficient assessment process, enabling to free up time and resources for high quality assessment processes. 
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +89,6 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Evaluating success
 <!--
@@ -95,7 +97,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
