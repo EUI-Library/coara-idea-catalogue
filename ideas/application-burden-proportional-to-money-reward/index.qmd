@@ -77,7 +77,7 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Application processes take time and resources, regardless of the outcome. In fact, several studies have shown that the costs of application to grant proposal is non negligeable, and that their costs can even exceed the awarded funding that is redistributed in research (see [Herbert et al., 2013](https://doi.org/10.1136/bmjopen-2013-002800); [Gross and Bergstrom (2019)](https://doi.org/10.1371/journal.pbio.3000065); [Schweiger (2025)](https://doi.org/10.1038/d41586-025-04060-x)).   
+Application processes take time and resources, regardless of the outcome. In fact, several studies have shown that the costs of application to grant proposal is non negligeable, and that their costs can even exceed the awarded funding that is redistributed in research (see [Herbert et al., (2013)](https://doi.org/10.1136/bmjopen-2013-002800); [Gross and Bergstrom (2019)](https://doi.org/10.1371/journal.pbio.3000065); [Schweiger (2025)](https://doi.org/10.1038/d41586-025-04060-x)).   
   
 While the calculation of funding value is complex and funding investments in research are believed to build value at much higher rates than initial investments (see [Stafford (2026)](https://doi.org/10.1038/d41586-026-00498-9)), building application processes with a burden proportional to the success value would help shape more efficient assessment process, enabling to free up time and resources for high quality assessment processes. 
 
