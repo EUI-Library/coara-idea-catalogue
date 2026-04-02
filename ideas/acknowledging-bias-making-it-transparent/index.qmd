@@ -121,7 +121,7 @@ The Harvard Implicit Bias test is increasingly used in research institutions and
 
 Although not specific to a research assessment process, a paper by Hawwash and colleagues (2018) [Perspective: Consideration of Values When Setting Priorities in Nutrition Research: Guidance for Transparency](https://doi.org/10.1093/advances/nmy039) provides a template to make values explicit in priority setting for research funding priorities. The framework proposed in this article could also serve as inspiration for building a table to make bias explicit in assessment processes. 
 
-<!--## Templates from funders and institutions 
+## Templates from funders and institutions 
 <!--
 PROMPTS:
 - Add templates from funders and institutions if existing
@@ -137,7 +137,7 @@ Any organisation names, links, authors that may be relevant to look into
 <!--
 PROMPTS:
 Include any other resource here
---> -->
+-->
 
 
 # Comments/lived examples
