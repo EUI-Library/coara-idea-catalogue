@@ -92,6 +92,8 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
+A wildcard or 'golden ticket' could be added to any type of review panels where reviewers assess multiple applications (>2) and where a final decision is based on the joint scoring or decisions of multiple review panel members scoring the same application. This idea is most applicable to research funding assessment where multiple applications may be funded, and would be difficult to implement in a setting where only one application is selected such as in hiring decisions.  
+
 
 ## Challenges and mitigations
 <!--
@@ -101,7 +103,13 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-A strong challenge to the evaluation of the impact of wildcards is numerosity. Few projects will be funded via wildcards that would not be funded otherwise. This means that it will take many years to accumulate sufficient observations to quantitatively evaluate the impact of wildcards. I cannot envision ways of mitigating this challenge.
+**Challenge:** A strong challenge to the evaluation of the impact of wildcards is numerosity. Few projects will be funded via wildcards that would not be funded otherwise. This means that it will take many years to accumulate sufficient observations to quantitatively evaluate the impact of wildcards. It is however difficult to envision ways of mitigating this challenge.  
+  
+**Challenge:** By providing review panels with a wildcard or golden ticket, there is a possibility that biases and personal preferences permeate in such decisions.  
+**Mitigation:** While biases may not be completely cancelled, they could also permeate the way scoring is attributes by the reviewers in a normal decision process. A possible mitigation could be to ask for a justification for the decision, including a justification for why the reviewer anticipated that the proposal may not be funded, and why they believe it should nonetheless be funded.  
+  
+**Challenge:** While wildcards may be implemented to strenghten novelty and risk taking in funded applications, there are discussions suggesting that they may favouring novelty as they may be "[more effective in supporting projects that develop entirely new theories, concepts, methods, or tools (new vintage)](https://www.tickettailor.com/events/universityofsussex8/1467851)".  
+**Mitigation:** Introducing a dedicated novelty panel, or relying on lotteries may be more appropriate if the ultimate objective is to promote high risk, novel research. 
 
 
 ## Evaluating success
@@ -112,11 +120,15 @@ PROMPTS:
 -->
 
 
+
 ## Related CoARA commitments
 <!--
 PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
+
+CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
 
 # Relevant resources and literature 
 
@@ -136,7 +148,7 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
-The funders **Villum Fonded** and **Volkswagen Stiftung** currently implement wildcards in at least some of their calls. The U.S. NSF (see [here](https://doi.org/10.1038/d41586-023-03933-3) ) has also been working towards their implementation, although to date (October 2025) there are no publicly available reports on how this implementation is proceeding.
+The funders **Villum Fonded** and **Volkswagen Stiftung** currently implement wildcards in at least some of their calls. The U.S. NSF (see [https://doi.org/10.1038/d41586-023-03933-3](https://doi.org/10.1038/d41586-023-03933-3)) has also been working towards their implementation, although to date (October 2025) there are no publicly available reports on how this implementation is proceeding.
 
 
 ## Other resources
@@ -144,7 +156,7 @@ The funders **Villum Fonded** and **Volkswagen Stiftung** currently implement wi
 PROMPTS:
 Include any other resource here
 -->
-
+Paula Stephan & Chiara Franzoni (2023) Encouraging high-risk high-reward research at NIH, [https://www.brookings.edu/wp-content/uploads/2023/05/StephanFranzoniFinal-3.pdf](https://www.brookings.edu/wp-content/uploads/2023/05/StephanFranzoniFinal-3.pdf). Associated papers may be found at [https://ifp.org/building-a-better-nih/](https://ifp.org/building-a-better-nih/) 
 
 # Comments/lived examples
 <!--
