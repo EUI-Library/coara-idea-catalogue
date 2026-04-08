@@ -132,6 +132,8 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
+**CoARA Commitment 1** - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+**CoARA Commitment 3** - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
 
 # Relevant resources and literature 
 
