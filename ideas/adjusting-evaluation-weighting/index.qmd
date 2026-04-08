@@ -105,7 +105,7 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Weighting and changing assessmet criteria may have impacts on research practices in the long term. Assessments of success should consider longitudinal studies of impact.
+Weighting and changing assessment criteria may have impacts on research practices in the long term. Assessments of success should consider longitudinal studies of impact.
 
 ## Related CoARA commitments
 <!--
