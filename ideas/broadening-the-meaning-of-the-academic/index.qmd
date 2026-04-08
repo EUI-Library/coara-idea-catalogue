@@ -2,8 +2,8 @@
 title: "Broadening the meaning of ‘the academic’"
 author: "Experiments in Assessment WG"
 date: last-modified
-categories: [Level 0]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: [Level 0, Challenge - Culture, Challenge - Diversity, Challenge - Collaboration, Challenge - Different Questions, Challenge - Bias, Challenge - Recognition, Challenge - Inclusivity, User - Institutions, Users - Funders, Users - Academies, Users - Research Groups, Users - Researchers, CoARA Commitment 1, CoARA Commitment 6]
+description: "In this idea, assessments would broaden what they count as academic research - assessing more and different types of as research. The objective would be to move away from pre-defined, narrow definition of what a researcher is towards a broader and more realistic understanding of the diverse skills, roles, outputs, and processes that are essential for a functional research system."
 image: false
 ---
 
@@ -53,8 +53,10 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
+This idea aims to build a more realistic, all encompassing view of what it means to be a researcher. This will eventually:
+- Build a more realistic overview of the diversity of work, skills, and profiles needed for a healthy research system
+- Promote and justify the value of diversity in research systems
+- Enable researchers and research staff to be recognised for activities that truly advance knowledge and science, rathes than be stuck in a conflict between elements that advance their career and elements that advance knowledge and science.
 
 :::
 
@@ -64,7 +66,8 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This idea mostly applies to individual assessment or achievements assessment (i.e., promotion, hiring, personal profile assessment in grant funding, etc.).
+
 
 ## Context and considerations
 <!--
@@ -76,7 +79,10 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This idea can refer to broader types of research that are valued in assessments, as well as to a broader understanding of the diversity of skills, roles, and achievements necessary for research to advance. This may include valuing practice-based work, arts outputs, community scholarship, logistical and staff work and making clear that these are also essential in contributing to research. 
+
+At an individual level, this could mean redefining the roles and responsibilities and the meaning of what it is to be a researcher or an academic. In practice, this would imply changing criteria, promotion/hiring guidelines, as well as elements, achievements, and 'outputs' submitted to assessments. It may also mean a change of who is on the assessment committee to diversify the types of elements that are recognised and valued.
+
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +92,8 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+**Challenge:** Changing the meaning of 'the researcher' – or of 'good research' – requires a profound cultural change, and is likely to yield resistence among research communities.  
+**Mitigation:** It is crucial to define what a researcher – or what good research – really is **with** research communities, rather than impose a new pre-defined definition. This is a crucial step that will require true immersion, dialogue, and input seeking from the community so that the new models are developed bottom up and not imposed top-town.  
 
 ## Evaluating success
 <!--
@@ -95,13 +102,15 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
 PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
+
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
 
 # Relevant resources and literature 
 
@@ -119,12 +128,17 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
+The Position paper [Room for everyone's talent](https://recognitionrewards.nl/about/position-paper/) from the Dutch Recognition and Reward Programme offers a different way to look at what an academic is, allowning academic staff to decide how they wish to invest their efforts between a number of different elements (Education, Research, Impact, Leadership, and where applicable Patient Care).
+
+The [The Norwegian Career Assessment Matrix (NOR-CAM)](https://www.uhr.no/en/news-from-uhr/nor-cam-a-toolbox-for-recognition-and-rewards-in-academic-careers.5780.aspx) and the [Finnish Career Assessment Matrix (FIN-CAM)](https://vastuullinentiede.fi/sites/default/files/2025-01/Draft%20version%20of%20the%20FIN-CAM%20assessment%20tool.pdf) follow a similar trajectory, aiming to recognise a broader diversity of competencies, results, and achievements as merits.
+
 ## Other resources
 <!--
 PROMPTS:
 Include any other resource here
 -->
 
+Background reading: Aubert Bonn N, Pinxten W (2021) Advancing science or advancing careers? Researchers’ opinions on success indicators. PLOS ONE 16(2): e0243664. DOI: [10.1371/journal.pone.0243664](https://doi.org/10.1371/journal.pone.0243664)
 
 # Comments/lived examples
 <!--
