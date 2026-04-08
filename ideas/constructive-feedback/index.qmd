@@ -97,6 +97,9 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 7 - Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
+
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
