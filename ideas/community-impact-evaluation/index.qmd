@@ -2,8 +2,8 @@
 title: "Community impact evaluation"
 author: "Experiments in Assessment WG"
 date: last-modified
-categories: [Level 0]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: [Level 0, Challenge - Inclusivity, Challenge - Process, Challenge - Collaboration, Challenge - Different Questions, Users - Institutions, Users - Funders, Users - Research Groups, Users - Researchers, CoARA Commitment 1, CoARA Commitment 5, CoARA Commitment 6]
+description: "Asking the communities involved and targeted by the research to be part of the evaluation process can help research funding decisions to better consider the needs of the communities they impact on."
 image: false
 ---
 
@@ -53,8 +53,7 @@ PROMPTS:
 - If there are multiple experiments fitting, put them here
 -->
 
-- Objective 1
-- Objective 2
+- Build more targeted approaches to research which consider the needs of the communities they impact on. 
 
 :::
 
@@ -64,7 +63,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This is especially relevant to research projects that have societal and community impact, with a lesser relevance for completely fundamental research.
 
 ## Context and considerations
 <!--
@@ -76,7 +75,7 @@ PROMPTS:
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+In this context, assessment panels would involve people from impacted, researched, or supported communities and include them in the evaluation of proposals to ensure that the funded projects are aligned with their needs/interests. This may relate to both potential impact and acutal impact.
 
 ## Challenges and mitigations
 <!--
@@ -86,7 +85,6 @@ PROMPTS:
 - Tips and tricks for preparing and running the experiment
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Evaluating success
 <!--
@@ -95,7 +93,6 @@ PROMPTS:
 - How do you know it worked or didn’t?
 -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
 
 ## Related CoARA commitments
 <!--
@@ -104,8 +101,6 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
 # Relevant resources and literature 
-
-This section includes resources, literature, and reports relevant to this specific experimental idea.
 
 ## Templates from funders and institutions 
 <!--
@@ -118,6 +113,8 @@ PROMPTS:
 PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
+
+As part of the [Canadian Institute of Health Research (CIHR) Action Plan: Building a healthier future for First Nations, Inuit, and Métis Peoples](https://cihr-irsc.gc.ca/e/50372.html), a [Reference Group on Indigenous Health Research](https://cihr-irsc.gc.ca/e/52822.html) was established to co-developed a strategic plan addressing different aspects of the research funding agency. Part of this plan includes a set of guiding principles for the appropriate review of Indigenous research and ways to implement iterative peer review processes for applications relevant to Indigenous health. 
 
 ## Other resources
 <!--
