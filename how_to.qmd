@@ -74,7 +74,12 @@ Once you have chosen an idea to implement or test, you are free to apply it in y
 As you proceed with the implementation, please feel free to return to the idea catalogue and add your learnings and evidence to the idea’s page, so that others can learn from your experience, and the catalogue becomes more complete. 
 
 ## How to comment on an idea or add evidence
-**TO BE ADDED**
+
+You can use **Hypothesis** to add comments and feedback to all idea and other pages of the CoARA Assessment Idea Catalogue
+
+> **What is Hypothesis?** [Hypothesis](https://web.hypothes.is/) is an open-source web annotation tool embedded directly in this site. It lets you highlight text, add comments, and share notes — publicly or within a group — without leaving the page. 
+
+[Read the full guide](hypothesis-annotation-guide.qmd)
 
 ## How to develop or add an idea
 If you have an idea that would fit the idea catalogue, we would be happy to hear from you. Please fill out the following template so that we can add the idea in the same format as others on the platform. 

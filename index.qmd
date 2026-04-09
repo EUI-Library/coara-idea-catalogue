@@ -23,8 +23,15 @@ The **CoARA Assessment Idea Catalogue** is designed to be a resource for those d
 
 A collection of different experimental ideas are represented here, that can be used as inspiration for designing experiments that innovate on current assessment practices.
 
-For information on how to use this catalogue, please look at the [Idea Catalogue How-To Guide](/how_to.qmd)
+For information on how to use this catalogue, please look at the [Idea Catalogue How-To Guide](/how_to.qmd) 
 
-We welcome all feedback on the platform! To send us any feedback or ideas, please use the [Idea Catalogue Feedback Form](https://forms.gle/NkiTKMdTfpgzpwki7).  
-  
+::: {.callout-tip}
+## Provide input, comments and feedback
+
 If you would like to **submit a new idea** to the catalogue, or suggest edits and content to existing ideas, please use [the Idea Submission Form](https://forms.gle/6F4mPmHYa8dP9eVg9){target="_blank"}
+
+You can also provide comments and feedback in two ways:
+
+- Directly on each individual idea page using Hypothesis. See [Annotating with Hypothesis](hypothesis-annotation-guide.qmd)
+- Using the [Idea Catalogue Feedback Form](https://forms.gle/NkiTKMdTfpgzpwki7).
+:::
