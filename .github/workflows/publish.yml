@@ -1,26 +1,28 @@
-on:
-  workflow_dispatch:
-  push:
-    branches: main
+name: Publish Quarto Blog
 
-name: Quarto Publish
+on:
+  push:
+    branches: [main]
 
 jobs:
-  build-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # needed for HEAD~1 diff in render_changed.sh
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Fix timestamps
-        run:  bash .github/scripts/fix-timestamps
+      - name: Render changed pages
+        run: bash .github/scripts/render_changed.sh
 
-      - name: Render and Publish
+      - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
