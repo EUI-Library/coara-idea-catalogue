@@ -2,7 +2,7 @@
 title: "Criteria developed by those being assessed"
 author: "Experiments in Assessment WG"
 date: last-modified
-categories: [Level 0]
+categories: [Level 0, Challenge - Inclusivity, Challenge - Collaboration, Challenge - Different Questions, Challenge - Process, Challenge - Bias Mitigation, CoARA Commitment 2, CoARA Commitment 6, CoARA Commitment 8, CoARA Commitment 10, User - Funder, User - Institutes, User - Research Groups, User - Academies]
 description: "Involving the applicant pool in developing the evaluation criteria for an assessment process. This can be done potentially in a phase before the call is launched, and serves to allow the applicant community to choose how they are assessed, but the evaluating body must take final responsibility for the criteria chosen."
 image: false
 ---
@@ -54,6 +54,7 @@ PROMPTS:
 -->
 
 
+
 :::
 
 ## Research domains
@@ -71,6 +72,8 @@ PROMPTS:
 - What are the things that change in the experiment?
 - Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
 -->
+
+Note: This idea is a core concept of the SCOPE framework. See associated idea and [SCOPE website](https://inorms.net/scope-framework-for-research-evaluation/) for more details.
 
 ## Challenges and mitigations
 <!--
@@ -93,9 +96,12 @@ PROMPTS:
 Directly reference as many of the 10 CoARA commitments as are fitting
 -->
 
-# Relevant resources and literature 
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
+CoARA Commitment 8 - Exchange practices and experiences to enable mutual learning within and beyond the Coalition
+CoARA Commitment 10 - Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
 
-This section includes resources, literature, and reports relevant to this specific experimental idea.
+# Relevant resources and literature 
 
 ## Templates from funders and institutions 
 <!--
