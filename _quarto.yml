@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Assessment Idea Catalogue"
+  favicon: images/favicon-180x180-1-150x150.png
   search: 
     location: navbar
     type: textbox
