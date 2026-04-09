@@ -3,7 +3,7 @@ title: "Broadening the meaning of ‘the academic’"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0, Aim: Value process, Aim: Diversity, Aim: Collaboration, Aim: Alternative questions, Aim: Bias mitigation, Aim: Recognition, Aim: Inclusivity, User: Academic institutions, Users: Funders, Users: Scholarly associations, Users: Research groups, Users: Individual scholar, CoARA Commitment 1, CoARA Commitment 6]
+categories: ["Level 0", "Aim: Value process", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Inclusivity", "User: Academic institutions", "Users: Funders", "Users: Scholarly associations", "Users: Research groups", "Users: Individual scholar", "CoARA Commitment 1", "CoARA Commitment 6"]
 description: "In this idea, assessments would broaden what they count as academic research - assessing more and different types of as research. The objective would be to move away from pre-defined, narrow definition of what a researcher is towards a broader and more realistic understanding of the diverse skills, roles, outputs, and processes that are essential for a functional research system."
 image: false
 ---

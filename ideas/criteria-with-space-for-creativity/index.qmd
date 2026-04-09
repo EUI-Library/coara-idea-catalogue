@@ -3,7 +3,7 @@ title: "Criteria with space for creativity"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0, Aim: Alternative questions, CoARA Commitment 6, User: Funders]
+categories: ["Level 0", "Aim: Alternative questions", "CoARA Commitment 6", "User: Funders"]
 description: "Adding an evaluation criteria that is focused on creativity, or adjusting multiple existing criteria to include aspects of creativity in research."
 image: false
 ---

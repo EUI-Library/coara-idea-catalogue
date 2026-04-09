@@ -3,7 +3,7 @@ title: "Value-based assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0]
+categories: ["Level 0"]
 description: "Identifying fundamental values for a research funding or hiring programme, and centering the assessment on those values (e.g. as evaluation criteria)."
 image: false
 ---

@@ -3,7 +3,7 @@ title: "Community impact evaluation"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0, Aim: Inclusivity, Aim: Value process, Aim: Collaboration, Aim: Alternative questions, User: Academic institutions, User: Funders, User: Research Groups, User: Individual scholar, CoARA Commitment 1, CoARA Commitment 5, CoARA Commitment 6]
+categories: ["Level 0", "Aim: Inclusivity", "Aim: Value process", "Aim: Collaboration", "Aim: Alternative questions", "User: Academic institutions", "User: Funders", "User: Research Groups", "User: Individual scholar", "CoARA Commitment 1", "CoARA Commitment 5", "CoARA Commitment 6"]
 description: "Asking the communities involved and targeted by the research to be part of the evaluation process can help research funding decisions to better consider the needs of the communities they impact on."
 image: false
 ---

@@ -3,7 +3,7 @@ title: "Constructive feedback"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0, Aim: Value process, Aim: Collaboration, User: Funders, User: Academic institutions, User: Editors and Publishers, CoARA Commitment 2, CoARA Commitment 7]
+categories: ["Level 0", "Aim: Value process", "Aim: Collaboration", "User: Funders", "User: Academic institutions", "User: Editors and Publishers", "CoARA Commitment 2", "CoARA Commitment 7"]
 description: "Giving constructive feedback from the evaluation back to the applicant can help applicants improve their thinking, future applications, and scientific output."
 image: false
 ---

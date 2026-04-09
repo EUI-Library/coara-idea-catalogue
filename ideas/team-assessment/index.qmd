@@ -3,7 +3,7 @@ title: "Team assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0]
+categories: ["Level 0"]
 description: "Team assessment enables the evaluation of collective research performance, emphasizing shared outputs, interdisciplinary collaboration, and distributed contributions."
 image: false
 ---

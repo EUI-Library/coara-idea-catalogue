@@ -3,7 +3,7 @@ title: "Making all science anonymous"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0]
+categories: ["Level 0"]
 description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
 image: false
 ---

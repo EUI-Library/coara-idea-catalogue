@@ -3,7 +3,7 @@ title: "Valuing unfunded applications"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0]
+categories: ["Level 0"]
 description: "Valuing unfunded applications acknowledges the intellectual merit and innovative potential of research proposals regardless of funding outcome."
 image: false
 ---

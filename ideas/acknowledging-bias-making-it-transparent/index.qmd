@@ -3,7 +3,7 @@ title: "Acknowledging bias, making it transparent"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: [Level 0, Aim: Process, Aim: Bias Mitigation, Aim: Different Questions, CoARA Commitment 2, CoARA Commitment 6, User: Funder, User: Academic Institutions, User: Scholarly associations, User: Research Groups, User: Meta-Researchers, User: Editors and publishers]
+categories: ["Level 0", "Aim: Process", "Aim: Bias Mitigation", "Aim: Different Questions", "CoARA Commitment 2", "CoARA Commitment 6", "User: Funder", "User: Academic Institutions", "User: Scholarly associations", "User: Research Groups", "User: Meta-Researchers", "User: Editors and publishers"]
 description: "Allowing evaluators to declare potential biases to the panel makes bias visible and fosters a fairer evaluation process. It encourages open, transparent discussion, even though unconscious bias is hard to identify. Making bias explicit is essential for trust and integrity in research assessment."
 image: false
 ---
