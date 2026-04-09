@@ -3,7 +3,7 @@ title: "EDI tiebreak"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Diversity; CoARA Commitment 1", "CoARA Commitment 6. User: Funders", "User: Academic institutions", "User: Scholarly associations", "User: Research groups"]
+categories: ["Level 0", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Diversity", "CoARA Commitment 1, "CoARA Commitment 6", "User: Funders", "User: Academic institutions", "User: Scholarly associations", "User: Research groups"]
 description: "An EDI 'tiebreak' is a secondary criteria used in the case of identically ranked or scored proposals/applications, for which an EDI element is used as a tie-breaking measure."
 image: false
 ---
