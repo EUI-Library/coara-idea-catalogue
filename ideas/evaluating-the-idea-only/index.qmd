@@ -1,7 +1,8 @@
 ---
 title: "Evaluating the idea only"
 author: "Experiments in Assessment WG"
-date: last-modified
+date: 2026-04-09
+date-modified: last-modified
 categories: [Level 0, User - Funders, User - Meta-Researchers]
 description: "Focusing the evaluation solely on the research proposal itself to remove the influence of the researcher’s reputation, track record, and institutional affiliation."
 image: false

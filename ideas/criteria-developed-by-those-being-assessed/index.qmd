@@ -1,7 +1,8 @@
 ---
 title: "Criteria developed by those being assessed"
 author: "Experiments in Assessment WG"
-date: last-modified
+date: 2026-04-09
+date-modified: last-modified
 categories: [Level 0, Challenge - Inclusivity, Challenge - Collaboration, Challenge - Different Questions, Challenge - Process, Challenge - Bias Mitigation, CoARA Commitment 2, CoARA Commitment 6, CoARA Commitment 8, CoARA Commitment 10, User - Funder, User - Institutes, User - Research Groups, User - Academies]
 description: "Involving the applicant pool in developing the evaluation criteria for an assessment process. This can be done potentially in a phase before the call is launched, and serves to allow the applicant community to choose how they are assessed, but the evaluating body must take final responsibility for the criteria chosen."
 image: false

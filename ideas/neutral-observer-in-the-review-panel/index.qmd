@@ -1,7 +1,8 @@
 ---
 title: "Neutral observer in the review panel"
 author: "Experiments in Assessment WG"
-date: last-modified
+date: 2026-04-09
+date-modified: last-modified
 categories: [Level 0, Challenge - Bias Mitigation, Challenge - Process Culture, CoARA Commitment 2, CoARA Commitment 6, CoARA Commitment 7, CoARA Commitment 10, User - Funders, User - Institutes]
 description: "The role of a neutral observer in research assessment panels is to monitor fairness, transparency, and adherence to procedures. This role enhances trust, mitigates bias, and promotes integrity without influencing assessment outcomes."
 image: false
