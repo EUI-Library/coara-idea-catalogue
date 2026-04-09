@@ -10,7 +10,8 @@ title-block-banner: true
 # Rename metadata labels
 language: 
   title-block-author-single: "Contributor"
-  title-block-published: "Last updated"
+  title-block-published: "Publication date"
+  title-block-modified: "Updated"
   toc-title-website: "Table of Contents"
 
   # Table of content settings

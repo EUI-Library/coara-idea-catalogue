@@ -24,5 +24,11 @@ format:
     css: styles.css
 execute:
   freeze: auto
+comments:
+  hypothesis: 
+    theme: classic
+    openSidebar: false
+    enableExperimentalNewNoteButton: true
+
 
 
