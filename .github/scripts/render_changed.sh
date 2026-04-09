@@ -34,5 +34,5 @@ else
   done <<< "$CHANGED"
 fi
 
-echo "==> Running full site render (project-level, no re-render of unchanged files)..."
-quarto render --no-execute-cache
+echo "==> Running full site render (project-level)..."
+quarto render
