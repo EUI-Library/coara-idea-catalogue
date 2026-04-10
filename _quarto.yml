@@ -23,6 +23,9 @@ format:
       - cosmo
       - coara.scss
     css: styles.css
+    grid:
+      margin-width: 300px
+      body-width: 900px
 execute:
   freeze: auto
 comments:
