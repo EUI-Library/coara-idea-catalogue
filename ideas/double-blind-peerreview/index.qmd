@@ -3,7 +3,7 @@ title: "Double blind peer-review"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Bias mitigation", "Aim: Inclusivity", "User: Editors and publishers", "User: Funders", "User: Academic institutions", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 10"]
+categories: ["Level 0", "Aim: Bias mitigation", "Aim: Inclusivity", "Target: Editor and publisher", "Target: Funder", "Target: Academic institution", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 10"]
 description: "Double-blind assessment is an assessment in which both applicants and reviewers are anonymous to one another. This type of assessment aims to avoid bias."
 image: false
 ---

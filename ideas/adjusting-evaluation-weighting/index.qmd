@@ -3,7 +3,7 @@ title: "Adjusting evaluation weighting"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "Challenge: Process", "Users: Funders", "Users: Academic institutions", "CoARA Commitment 6"]
+categories: ["Level 1", "Aim: Value process", "Target: Funder", "Target: Academic institution", "CoARA Commitment 6"]
 description: "Adapting the weighting of evaluation criteria in an assessment can be used to better reflect the goals of what should be supported and the priorities of the evaluating body."
 image: false
 ---

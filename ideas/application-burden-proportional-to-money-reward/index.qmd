@@ -3,7 +3,7 @@ title: "Application burden proportional to money/reward"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Alternative Questions", "CoARA Commitment 6", "User: Funder", "User: Academic Institutions", "User: Scholarly associations"]
+categories: ["Level 0", "Aim: Value process", "Aim: Alternative questions", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Scholarly association"]
 description: "Modifying the length and complexity of the application process based on the funding volume/award/result of the process can help reduce application burden. For larger grants/more senior positions, a more intense application process may be justified, but for small grants/short term applications, a light application process is preferable. This will reduce the burden for applicants, evaluators, and the organisations in charge of the assessment."
 image: false
 ---

@@ -3,7 +3,7 @@ title: "Academic support training"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Bias Mitigation", "Aim: Alternative Questions", "CoARA Commitment 2", "CoARA Commitment 6", "User - Funder", "User: Academic Institutions", "User: Scholarly associations", "User: Research Groups", "User: Meta-Researchers", "User: Editors and publishers"]
+categories: ["Level 0", "Aim: Value process", "Aim: Bias mitigation", "Aim: Alternative questions", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Meta-researcher", "Target: Editor and publisher"]
 description: "Academic support training equips staff to guide researchers through assessment processes by providing information, training, and tools to monitor evaluation of their work, units, and careers. This fosters transparency, empowers researchers, and drives culture change towards fairer, more responsible research assessment practices."
 image: false
 ---

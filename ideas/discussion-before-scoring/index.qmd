@@ -3,7 +3,7 @@ title: "Discussion before scoring"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Diversity", "Aim: Inclusion", "Aim: Value process", "Aim: Alternative questions", "User: Funders", "User: Academic institutions", "User: Scholarly associations", "User: Research groups", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6"]
+categories: ["Level 0", "Aim: Diversity", "Aim: Inclusivity", "Aim: Value process", "Aim: Alternative questions", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6"]
 description: "Having interviews as first stage of the assessment process, rather than as a last stage. This could shift the elements that are valued in the assessment process and promote greater diversity."
 image: false
 ---

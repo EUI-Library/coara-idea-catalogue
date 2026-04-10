@@ -3,7 +3,7 @@ title: "Mentee evaluation"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "User - Institutes", "User - Academies", "User - Research Groups", "User - Meta-Researchers"]
+categories: ["Level 1", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Meta-researcher"]
 description: "Evaluating mentorship and making mentorship a part of the assessment. This is especially relevant for PIs, and aims to look at the mentorship and culture created with the applicants."
 image: false
 ---

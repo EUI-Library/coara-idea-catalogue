@@ -3,7 +3,7 @@ title: "Assessment lotteries"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 5", "Aim: Bias Mitigation", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 3", "User: Funders"]
+categories: ["Level 5", "Aim: Bias mitigation", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 3", "Target: Funder"]
 description: "In Assessment lotteries, applications that meet basic criteria (eligibility criteria, quality criteria, ot other) are not further evaluated, ranked etc. by evaluators, but a lottery is organised and the ‘winning’ lots get the funding."
 image: false
 ---

@@ -3,7 +3,7 @@ title: "Co-design of programmes with specific communities"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "User: Funders", "User: Academic institutions", "User: Scholarly associations", "User: Research groups"]
+categories: ["Level 0", "Aim: Value process", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group"]
 description: "Certain funding programmes, research activities or evaluations can be co-designed with communities that are targets of / impacted by the research activities desired to be granted. In this way, the goals and expected outputs/outcomes are aligned with the needs of those communities that are targeted, increasing potential impact."
 image: false
 ---
