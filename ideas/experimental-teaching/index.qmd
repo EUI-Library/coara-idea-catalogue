@@ -1,5 +1,5 @@
 ---
-title: "Experimental teaching"
+title: "Testing new title"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
