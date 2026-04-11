@@ -3,8 +3,8 @@ title: "Fostering co-creation of research programmes"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration”, "Aim: Alternative questions”, "Aim: Value process”, 
-"CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 8", "Target: Funder”, "Target: Academic Institution”, "Target: Scholarly association”, "Target: Research Group”]
+categories: ["Level 1", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions", "Aim: Value process", 
+"CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 8", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group"]
 description: "Engage with community while designing funding programmes to ensure the programmes designed are as diverse and includsive as possible and are relevant and speaking to the challenges faced by underserved communities."
 image: false
 ---
