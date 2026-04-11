@@ -4,7 +4,7 @@ author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
 categories: ["Level 0"]
-description: "Peer review in which revieewers and applicants know each other's identities. This can extend to public sharing of peer review reports."
+description: "Peer review in which reviewers and applicants know each other's identities. This can extend to public sharing of peer review reports."
 image: false
 ---
 
