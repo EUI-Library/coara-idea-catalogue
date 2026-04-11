@@ -124,7 +124,7 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
-The NWO has built dedicated guidance for reviewers to encourage them to keep their focus on the project, away from the individual (e.g., changed the order of the assessment form). See guidance [here](https://www.nwo.nl/en/written-assessment#tip-do-not-let-your-assessment-of-a-research-proposal-be-influenced-by-your-assessment-of-the-applicant-and-vice-versa)"
+The NWO has built dedicated guidance for reviewers to encourage them to keep their focus on the project, away from the individual (e.g., changed the order of the assessment form). See guidance [here](https://www.nwo.nl/en/written-assessment#tip-do-not-let-your-assessment-of-a-research-proposal-be-influenced-by-your-assessment-of-the-applicant-and-vice-versa)
 
 ## Other resources
 <!--
