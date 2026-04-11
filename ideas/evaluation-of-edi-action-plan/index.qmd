@@ -3,7 +3,7 @@ title: "Evaluation of EDI action plan"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0" "Aim: Value process", "Aim: Inclusivity", "Aim: Diversity", "Aim: Recognition", "Target: Funder", "Target: Academic institution", "CoARA Commitment 1", "CoARA Commitment 6"]
+categories: ["Level 0", "Aim: Value process", "Aim: Inclusivity", "Aim: Diversity", "Aim: Recognition", "Target: Funder", "Target: Academic institution", "CoARA Commitment 1", "CoARA Commitment 6"]
 description: "In this idea, an EDI action plan must be submitted with an application, and this action plan is then evaluated as part of the process. This aims to ensure that EDI aspects are an integral part of what is supported in research."
 image: false
 ---
