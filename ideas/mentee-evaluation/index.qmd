@@ -3,7 +3,7 @@ title: "Mentee evaluation"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Meta-researcher"]
+categories: ["Level 3", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Meta-researcher"]
 description: "Evaluating mentorship and making mentorship a part of the assessment. This is especially relevant for PIs, and aims to look at the mentorship and culture created with the applicants."
 image: false
 ---
@@ -104,7 +104,7 @@ Several challenges may impact this idea:
 **Challenge: Resistance from leaders** – Research leaders think they are already great leaders, and this isn’t relevant.   
 **Mitigation:** Make it mandatory for new leaders  
   
-**Challenge: Creating evaluations for all staff (even if it doesn’t exist)**  
+**Challenge: Creating evaluations for all staff (even if it doesn’t exist)**   
 **Mitigation:** Embrace a reduced frequency of assessment (See related [idea](https://eui-library.github.io/coara-idea-catalogue/ideas/reducing-frequency-of-assessment/index.html))
 
 **Challenge: Mitigation:** Monitoring improvement and how effective this is  
@@ -113,7 +113,7 @@ Several challenges may impact this idea:
 **Challenge: Selection bias** – Mentors select people they know will be positive  
 **Mitigation:** Make the template clear enough to allow to 'read between the lines'  
 **Mitigation:** Assessor training (i.e., Qualitative evaluation in Pep-CV could be relevant to this, but not open in itself)  
-  
+
 
 ## Evaluating success
 <!--
