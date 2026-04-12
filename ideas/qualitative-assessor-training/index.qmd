@@ -3,7 +3,7 @@ title: "Qualitative assessor training"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Bias mitigation", "Aim: Diversity", "Aim: Alternative questions", "CoARA Commitment 2", "CoARA Commitment 5", "CoARA Commitment 6", "CoARA Commitment 7", "CoARA Commitment 8", "Target: Funder", "Target: Academic Institution", "Target: Editor and publisher"]
+categories: ["Level 0"]
 description: "Providing dedicated training to support assessors in reviewing and assessing qualitative information."
 image: false
 ---
