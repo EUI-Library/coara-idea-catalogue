@@ -3,7 +3,7 @@ title: "Pick your own reviewers"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Recognition", "CoARA Commitment 1", "CoARA Commitment 2", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Editor and publisher"] 
+categories: ["Level 3", "Aim: Recognition", "CoARA Commitment 1", "CoARA Commitment 2", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Editor and publisher"] 
 description: "Applicants recommend peer reviewers for their projects, who are then included in the evaluation process. This approach reduces the burden on evaluation bodies and potentially allows individuals with deep subject knowledge to participate. It can also bring in users of research and non-traditional peer reviewers, helping to diversify the reviewer pool."
 image: false
 ---
@@ -68,7 +68,7 @@ PROMPTS:
 - Which domain(s) can this experiment be applied in? 
 -->
 
-All domains, not specific for any domain
+All domains, not specific for any domain.
 
 
 ## Context and considerations
