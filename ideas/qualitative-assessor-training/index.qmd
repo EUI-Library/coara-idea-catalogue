@@ -128,7 +128,7 @@ PROMPTS:
 Any organisation names, links, authors that may be relevant to look into
 -->
 
-FNR Luxembourg provides resources to support assessors in the assessment of narrative CVs (see [https://www.fnr.lu/new-video-resource-for-funders/](https://www.fnr.lu/new-video-resource-for-funders/) and associated [vide0](https://www.youtube.com/watch?v=q_NCE80xi_w).
+FNR Luxembourg provides resources to support assessors in the assessment of narrative CVs (see [https://www.fnr.lu/new-video-resource-for-funders/](https://www.fnr.lu/new-video-resource-for-funders/) and associated [video](https://www.youtube.com/watch?v=q_NCE80xi_w)).
 
 The Royal Society resources on [unconscious bias](https://royalsociety.org/news-resources/publications/2015/unconscious-bias/) may also help support assessors in understanding how they can minimise bias in qualitative assessment.
 
