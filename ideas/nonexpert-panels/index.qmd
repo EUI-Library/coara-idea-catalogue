@@ -3,7 +3,7 @@ title: "Non-expert panels"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0""Level 0", "Aim: Inclusivity", "Aim: Value process", "Aim: Collaboration", "Aim: Alternative questions", "Target: Academic institution", "Target: Funder", "Target: Research group", "Target: Individual scholar", "CoARA Commitment 1", "CoARA Commitment 6"]
+categories: ["Level 0", "Aim: Inclusivity", "Aim: Value process", "Aim: Collaboration", "Aim: Alternative questions", "Target: Academic institution", "Target: Funder", "Target: Research group", "Target: Individual scholar", "CoARA Commitment 1", "CoARA Commitment 6"]
 description: "Replacing or supplementing existing panels with non-researchers, to evaluate aspects of the proposal (or the object of the evaluation) that are not directly research related."
 image: false
 ---
