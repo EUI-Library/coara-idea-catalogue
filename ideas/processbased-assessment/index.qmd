@@ -3,7 +3,7 @@ title: "Process-based assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "Aim: Value process”, "Aim: Recognition”, “Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Funder”]
+categories: ["Level 1", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Funder"]
 description: "Assessment that look at methodologies and processes rather than outputs."
 image: false
 ---
