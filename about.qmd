@@ -47,8 +47,6 @@ These principles are shared here, not as a prescriptive “this is the right way
 
 <a href="EiA_WG_Principles.pdf">Click here to see the "Principles of the EiA Working Group"</a>
 
-
-
 ## Development of the platform \- Where did these ideas come from?
 
 Since 2024, the “Experiments in Assessment” Working Group has been collecting ideas and fostering discussion on potential experiments that could be part of the idea catalog. We had three main activities that have contributed to the content of this platform.
@@ -64,7 +62,6 @@ In the second half of 2024, we organized two open workshops to discuss potential
 ### Discussion and development in the Working Group
 
 Over the course of the Working Group’s activities, the members utilized their diverse expertise and experience to develop multiple experimental ideas and populate the idea catalogue with ideas arising through our work. This was an organic process, working through structured discussions on both established experiments as well as novel ones, in an open and collaborative atmosphere to foster creativity in line with our principles. 
-
 
 # Disclaimer
 

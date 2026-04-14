@@ -15,12 +15,10 @@ When you open any page of the [CoARA Assessment Idea Catalogue](https://eui-libr
 | ![Eye icon](images/showIcon.png)  | Show / hide existing annotations on the page                   |
 | ![Note icon](images/noteIcon.png) | Open the full Hypothesis sidebar panel to add a new annotation |
 
-<!-- SCREENSHOT: homepage with the two Hypothesis icons visible in the right margin (collapsed state) -->
 ![Hypothesis icons on the right edge of the page](images/screenshot-01-homepage-icons.png)
 
 Click the **arrow ( › )** at the top of the icon strip, or either icon, to expand the sidebar.
 
-<!-- SCREENSHOT: page with the Hypothesis sidebar open, showing the "Annotations / Page Notes" tabs and "Sign up / Log in" button -->
 ![Hypothesis sidebar open — Annotations and Page Notes tabs visible](images/screenshot-02-sidebar-open.png)
 
 ---
@@ -42,7 +40,6 @@ To annotate you need a (free) Hypothesis account.
 1. **Select** any text on the page by clicking and dragging over it.
 2. A small toolbar appears above the selection with two buttons: **Annotate** and **Highlight**.
 
-<!-- SCREENSHOT: text selected on the page with the Annotate / Highlight popup visible -->
 ![The Annotate and Highlight buttons appear after selecting text](images/screenshot-03-annotate-highlight-popup.png)
 
 3. Click **Annotate** to open the annotation editor in the sidebar.
@@ -67,7 +64,6 @@ A **Page Note** is a comment on the page as a whole, not anchored to specific te
 3. Click the **pencil / new note** button.
 4. Write your note and post it (same visibility options as annotations).
 
-<!-- SCREENSHOT: Page Notes tab selected in the sidebar with the new-note button highlighted -->
 ![Page Notes tab in the Hypothesis sidebar](images/screenshot-04-page-notes-tab.png)
 
 ---

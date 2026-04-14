@@ -8,52 +8,9 @@ description: "Allowing evaluators to declare potential biases to the panel makes
 image: false
 ---
 
-<!--
-GENERAL GUIDELINES:
-- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
-- Tags (apply as relevant):
-Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
-Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
-Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
-Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist.
-Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons.
-Aim: Value process = Create an assessment process based upon what the different players in research value
-Aim: Inclusivity = Make research more inclusive and equitable through assessment
-Aim: Bias mitigation = Mitigate the negative effects of bias on assessment
-Aim: Recognition = Recognize process and culture through assessment
-Aim: Diversity = Foster diversity through assessment
-Aim: Collaboration = Foster collaboration through assessment
-Aim: Alternative questions = Ask assessment questions differently
-CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
-CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
-CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
-CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
-CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
-CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
-CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
-User: Funders = Target user could involve funding agencies and regional authorities
-User: Academic Institutions = Target user could involve research institutions, higher education institutions, and research performing organisations
-User: Scholarly associations = Target user could involve academies, scholarly associations, and learned societies
-User: Research Groups = Target user could involve Research groups
-User: Individual scholar = Target user could involve individual scholars, including researchers, research students, or research staff
-User: Meta-Researchers = Target user could involve Meta-researchers
-User: Editors and publishers = Target user could involve scientific editors and publishers
--->
-
 ::: {.callout-warning icon=false}
 
 ## Objectives and potential outcome
-<!--
-PROMPTS:
-- What happens if this is successful? What changes if this works? 
-- What improvements are we aiming for?
-- These can be related to the main questions
-- If there are multiple experiments fitting, put them here
--->
 
 Providing space in an evaluation for evaluators or panel members to declare any biases they may have to the other evaluators makes bias visible and contributes to a fairer evaluation process. It fosters open and transparent discussion around bias, even though unconscious bias is likely difficult to declare. Making bias transparent is essential for fostering trust and integrity in research assessment.  
 - **Improves the transparency** of the review process  
@@ -63,21 +20,9 @@ Providing space in an evaluation for evaluators or panel members to declare any 
 :::
 
 ## Research domains
-<!--
-PROMPTS:
-- Which domain(s) can this experiment be applied in? 
--->
 This could apply to funders, institutions, or even output assessment. 
 
 ## Context and considerations
-<!--
-PROMPTS:
-- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
-- What type of assessment does this work on (Team/individual/project/institutional);
-- What is the objective of evaluation exercise linked to the type of assessment
-- What are the things that change in the experiment?
-- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
--->
 Biases can take different forms in research assessment. The most commonly known form of bias is that of conflicting interests. Most research funders have a Declarations of Interest which are mandatory for reviewers to complete. These declarations ask reviewers to declare any potential interests they may have towards specific applications so that reviewers do not review  applications for which they may have conflicting interests. The concept is less frequently applied in institutions (e.g., hiring and promotion), but it is just as relevant in these areas. 
 
 Conflict of interests declarations also apply to scientific publications, both for authors to declare any vested interest that could have biased their findings, and from peer-reviewers, whose collaborations could have an impact on their assessment of submitted manuscripts. The International Committee of Medical Journal Editors (ICMJE) [Disclosure of Interest form](https://www.icmje.org/disclosure-of-interest/) and [associated documentation](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/author-responsibilities--conflicts-of-interest.html) is used by many medical and generalist journals as a standard to define what constitutes a conflicting interest.
@@ -85,34 +30,15 @@ Conflict of interests declarations also apply to scientific publications, both f
 Yet, conflicts of interests are generally linked to financial and observable interests such as collaborations, partnership, and personal relationships. Biases can go far beyond these observable elements. Having a process to make biases visible and transparent and to discuss frequent biases in assessment practices could help bring the review process to a deeper, more reflective level. 
 
 ## Challenges and mitigations
-<!--
-PROMPTS:
-- Each challenge and mitigation grouped together
-- If there isn’t mitigation, say so
-- Tips and tricks for preparing and running the experiment
--->
 
 **Challenge:** While some biases may be easy to bring visibility towards (e.g., procedures or methodological preferences, disciplinary biases, theorethical assumption biases, etc.) hidden and unconscious biases are difficult to bring to the surface and they could be challenging to discuss in a review committee.   
 **Mitigation:** Individual work for review committees to identify their biases, for example by doing unconscious biases exercises or by following a short training on biases could help raise awareness without bringing the discomfort and fear of being exposed. Pairing individual exercises with an option for the review committee members to discuss their impressions of these exercises with other reviewers could enable a better understanding and a safe approach to making biases more visible, transparent, and surmountable.  
 
-<!-- ## Evaluating success
-
-PROMPTS:
-- Evaluation criteria for the experiment 
-- How do you know it worked or didn’t?
--->
-
-
 ## Related CoARA commitments
-<!--
-PROMPTS:
-Directly reference as many of the 10 CoARA commitments as are fitting
--->
 
 This experiment targets:
 - CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
 - CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-
 
 # Relevant resources and literature 
 
@@ -127,30 +53,10 @@ The Harvard Implicit Bias test is increasingly used in research institutions and
 Although not specific to a research assessment process, a paper by Hawwash and colleagues (2018) [Perspective: Consideration of Values When Setting Priorities in Nutrition Research: Guidance for Transparency](https://doi.org/10.1093/advances/nmy039) provides a template to make values explicit in priority setting for research funding priorities. The framework proposed in this article could also serve as inspiration for building a table to make bias explicit in assessment processes. 
 
 ## Templates from funders and institutions 
-<!--
-PROMPTS:
-- Add templates from funders and institutions if existing
--->
 
 ## Case examples and literature
-<!--
-PROMPTS:
-Any organisation names, links, authors that may be relevant to look into
--->
 
 ## Other resources
-<!--
-PROMPTS:
-Include any other resource here
--->
-
 
 # Comments/lived examples
-<!--
-PROMPTS:
-Section to be kept blank, for input within the idea catalogue
--->
-
-
-
 

@@ -8,51 +8,9 @@ description: "Reviewers can use their wildcard or golden ticket (one per call) t
 image: false
 ---
 
-<!--
-GENERAL GUIDELINES:  
-- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
-- Tags (apply as relevant):
-Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
-Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
-Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
-Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist. 
-Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons. 
-Challenge - Process = Create an assessment process based upon what the different players in research value
-Challenge - Inclusivity = Make research more inclusive and equitable through assessment
-Challenge - Bias Mitigation = Mitigate the negative effects of bias on assessment
-Challenge - Process Culture = Recognize process and culture through assessment
-Challenge - Diversity = Foster diversity through assessment
-Challenge - Collaboration = Foster collaboration through assessment
-Challenge - Different Questions = Ask assessment questions differently
-CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
-CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
-CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
-CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
-CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
-CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
-CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
-User - Funder = User could involve Funders and regional authorities
-User - Institutes = User could involve Research institutions
-User - Academies = User could involve Academies and learned societies
-User - Research Groups = User could involve Research groups
-User - Meta-Researchers = User could involve Meta-researchers
-User - Scientific editors and publishers = User could involve Scientific editors and publishers
--->
-
 ::: {.callout-warning icon=false}
 
 ## Objectives and potential outcome
-<!--
-PROMPTS:
-- What happens if this is successful? What changes if this works? 
-- What improvements are we aiming for?
-- These can be related to the main questions
-- If there are multiple experiments fitting, put them here
--->
 
 Wildcards, or golden tickets, are the option given to reviewers, once per call, to unilaterally choose a proposal of their liking for direct funding. The idea is that a reviewer would spend their golden ticket on a proposal that they think is particularly promising, but that the reviewer suspects – or knows – may not be reviewed as positively by the rest of the panel, e.g., because of its risky, innovative, or niche nature. Therefore, wildcards can be considered a possible intervention to promote researchers, research topics and research ideas that are traditionally biased against by reviewers, including applicants from disadvantaged demographic groups, interdisciplinary projects, and high-risk high-reward project ideas.
 
@@ -71,38 +29,17 @@ There are two different flavors of wildcard rules that may have distinct advanta
 - “Postal” wildcards. This is when reviewers may use their wildcard in the postal review stage, i.e., prior to knowing what other reviewers think of the proposal. Supposed advantage: reviewers would be even less biased in their choice of project by not being exposed to the opinions of others. Disadvantage: wildcards may be more likely to be spent on projects that would be funded regardless, meaning that the wildcard would be ‘wasted’.
 - “Panel” wildcards. This is when reviewers may use their wildcard during or after the panel discussion, i.e., after having learned what the other panel members think of the proposal. Supposed advantage: the reviewer can use their wildcard more strategically, and not waste it on proposals that would be funded anyway. Disadvantage: reviewer's choice of using the wildcard would be skewed by the information they'd have collected during the panel meeting. For example, a reviewer may shy away from using a wildcard on an excellent, high-risk high-gain project, after learning that all of the other panel members strongly dislike that project.
 
-
 :::
 
 ## Research domains
-<!--
-PROMPTS:
-- Which domain(s) can this experiment be applied in? 
--->
 
 Wildcards can be introduced in any funding call where it is the funder's priority to mitigate bias against some traditionally disadvantaged groups of applicants or proposal characteristics that are not blind to the reviewers.
 
-
 ## Context and considerations
-<!--
-PROMPTS:
-- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
-- What type of assessment does this work on (Team/individual/project/institutional);
-- What is the objective of evaluation exercise linked to the type of assessment
-- What are the things that change in the experiment?
-- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
--->
 
 A wildcard or 'golden ticket' could be added to any type of review panels where reviewers assess multiple applications (>2) and where a final decision is based on the joint scoring or decisions of multiple review panel members scoring the same application. This idea is most applicable to research funding assessment where multiple applications may be funded, and would be difficult to implement in a setting where only one application is selected such as in hiring decisions.  
 
-
 ## Challenges and mitigations
-<!--
-PROMPTS:
-- Each challenge and mitigation grouped together
-- If there isn’t mitigation, say so
-- Tips and tricks for preparing and running the experiment
--->
 
 **Challenge:** A strong challenge to the evaluation of the impact of wildcards is numerosity. Few projects will be funded via wildcards that would not be funded otherwise. This means that it will take many years to accumulate sufficient observations to quantitatively evaluate the impact of wildcards. It is however difficult to envision ways of mitigating this challenge.  
   
@@ -112,21 +49,9 @@ PROMPTS:
 **Challenge:** While wildcards may be implemented to strenghten novelty and risk taking in funded applications, there are discussions suggesting that they may favouring novelty as they may be "[more effective in supporting projects that develop entirely new theories, concepts, methods, or tools (new vintage)](https://www.tickettailor.com/events/universityofsussex8/1467851)".  
 **Mitigation:** Introducing a dedicated novelty panel, or relying on lotteries may be more appropriate if the ultimate objective is to promote high risk, novel research. 
 
-
 ## Evaluating success
-<!--
-PROMPTS:
-- Evaluation criteria for the experiment 
-- How do you know it worked or didn’t?
--->
-
-
 
 ## Related CoARA commitments
-<!--
-PROMPTS:
-Directly reference as many of the 10 CoARA commitments as are fitting
--->
 
 CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
 CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
@@ -138,32 +63,13 @@ This section includes resources, literature, and reports relevant to this specif
 Thomas Feliciani, Junwen Luo, Kalpana Shankar, Funding lotteries for research grant allocation: An extended taxonomy and evaluation of their fairness, Research Evaluation, Volume 33, 2024, rvae025, <https://doi.org/10.1093/reseval/rvae025> describes a wildcard model – also called a bypass model – where favoured proposals bypass a lottery system. The article describes wildcards as "the opportunity given by the funder to individual reviewers to arbitrarily choose one or a few proposals to be funded, even though the rest of the review panel would disagree."
 
 ## Templates from funders and institutions 
-<!--
-PROMPTS:
-- Add templates from funders and institutions if existing
--->
 
 ## Case examples and literature
-<!--
-PROMPTS:
-Any organisation names, links, authors that may be relevant to look into
--->
 
 The funders **Villum Fonded** and **Volkswagen Stiftung** currently implement wildcards in at least some of their calls. The U.S. NSF (see [https://doi.org/10.1038/d41586-023-03933-3](https://doi.org/10.1038/d41586-023-03933-3)) has also been working towards their implementation, although to date (October 2025) there are no publicly available reports on how this implementation is proceeding.
 
-
 ## Other resources
-<!--
-PROMPTS:
-Include any other resource here
--->
 Paula Stephan & Chiara Franzoni (2023) Encouraging high-risk high-reward research at NIH, [https://www.brookings.edu/wp-content/uploads/2023/05/StephanFranzoniFinal-3.pdf](https://www.brookings.edu/wp-content/uploads/2023/05/StephanFranzoniFinal-3.pdf). Associated papers may be found at [https://ifp.org/building-a-better-nih/](https://ifp.org/building-a-better-nih/) 
 
 # Comments/lived examples
-<!--
-PROMPTS:
-Section to be kept blank, for input within the idea catalogue
--->
-
-
 

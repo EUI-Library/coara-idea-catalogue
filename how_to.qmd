@@ -25,7 +25,6 @@ The tags on the right side can be used for filtering ideas by different categori
 
 You can find ideas using the following categories:
 
-
 ### CoARA Commitments aligned with the idea
 - **CoARA Commitment 1** = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
 - **CoARA Commitment 2** = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
@@ -38,7 +37,6 @@ You can find ideas using the following categories:
 - **CoARA Commitment 9** = Communicate progress made on adherence to the Principles and implementation of the Commitments
 - **CoARA Commitment 10** = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
 
-
 ### Which target group should implement the idea
 - **User - Funder** = User could involve Funders and regional authorities
 - **User - Institutes** = User could involve Research institutions
@@ -46,7 +44,6 @@ You can find ideas using the following categories:
 - **User - Research Groups** = User could involve Research groups
 - **User - Meta-Researchers** = User could involve Meta-researchers
 - **User - Scientific editors and publishers** = User could involve Scientific editors and publishers
-
 
 ### Specific challenges in research assessment reform
 - **Challenge - Process** =  How can we create an assessment process based upon what the different players in research value?
@@ -56,7 +53,6 @@ You can find ideas using the following categories:
 - **Challenge - Diversity** = How can we foster diversity through assessment?
 - **Challenge - Collaboration** = How can we foster collaboration through assessment?
 - **Challenge - DifferentQuestions** = How can we ask assessment questions differently?
-
 
 ### Completeness of the idea and status of experimentation
 - **Level 0** = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.

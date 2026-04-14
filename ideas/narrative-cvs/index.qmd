@@ -9,51 +9,9 @@ image: false
 
 ---
 
-<!--
-GENERAL GUIDELINES:
-- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
-- Tags (apply as relevant):
-Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
-Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
-Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
-Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist. 
-Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons. 
-Challenge - Process = Create an assessment process based upon what the different players in research value
-Challenge - Inclusivity = Make research more inclusive and equitable through assessment
-Challenge - Bias Mitigation = Mitigate the negative effects of bias on assessment
-Challenge - Process Culture = Recognize process and culture through assessment
-Challenge - Diversity = Foster diversity through assessment
-Challenge - Collaboration = Foster collaboration through assessment
-Challenge - Different Questions = Ask assessment questions differently
-CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
-CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
-CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
-CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
-CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
-CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
-CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
-User - Funder = User could involve Funders and regional authorities
-User - Institutes = User could involve Research institutions
-User - Academies = User could involve Academies and learned societies
-User - Research Groups = User could involve Research groups
-User - Meta-Researchers = User could involve Meta-researchers
-User - Scientific editors and publishers = User could involve Scientific editors and publishers
--->
-
 ::: {.callout-warning icon=false}
 
 ## Objectives and potential outcome
-<!--
-PROMPTS:
-- What happens if this is successful? What changes if this works? 
-- What improvements are we aiming for?
-- These can be related to the main questions
-- If there are multiple experiments fitting, put them here
--->
 Narrative CVs were created to enable applicants to go beyond closed categories and to express outputs, impacts, activities and skills that would normally be difficult to place in an itemised CV format. Narrative CVs can be implemented for individuals or for teams.
 
 - Objective 1: Diversify what is recognized or used in assessment
@@ -65,22 +23,10 @@ Narrative CVs were created to enable applicants to go beyond closed categories a
 :::
 
 ## Research domains
-<!--
-PROMPTS:
-- Which domain(s) can this experiment be applied in? 
--->
 
 Narrative CVs can be applied to any domains or disciplines. They can be used for individual assessment as well as for team-level assessment. 
 
 ## Context and considerations
-<!--
-PROMPTS:
-- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
-- What type of assessment does this work on (Team/individual/project/institutional);
-- What is the objective of evaluation exercise linked to the type of assessment
-- What are the things that change in the experiment?
-- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
--->
 
 Experimenting with Narrative CVs can be relevant for a broad array of stakeholders. Documented examples and implementation of Narrative CVs have taken place in research funding organisations, research institutions, and research academies, but Narrative CVs could realistically be implemented anywhere a traditional CV is used. Narrative CVs are most often used at an individual level, but they are also starting to be used at a team level for grant funding schemes (e.g., R4RI).
 
@@ -97,14 +43,7 @@ These experiments most often aim to capture perspectives and experiences with Na
 
 Most experiments study the effects and impacts of Narrative CVs as they are implemented, rather than in a controlled trial manner. This is often a needed limitation to ensure that assessment processes remain fair and equal for all applicants. This is not a limitation per se, given that most current assessment methods were implemented without being tried-and-tested, but it opens an opportunity for metaresearch projects experimenting on Narrative CVs outside the a hiring and promotion or funding contingencies to address this gap.
 
-
 ## Challenges and mitigations
-<!--
-PROMPTS:
-- Each challenge and mitigation grouped together
-- If there isn’t mitigation, say so
-- Tips and tricks for preparing and running the experiment
--->
 
 Some challenges in implementing and experimenting with Narrative CVs have been documented in the literature. These include perceived challenges from (potential) users as well as reported challenges from those implementing or piloting with Narrative CVs.
 
@@ -129,19 +68,10 @@ Some challenges in implementing and experimenting with Narrative CVs have been d
 **Mitigation:** Several organisation start implementing narrative CVs on smaller programmes (e.g., early career collaboration funds, travel funds) to pilot their implementation and all the procedures and technical and human efforts needed to embed the change. This can provide an overview of the resources needed, and enable a pave the way to larger-scale implementation.  
 
 ## Evaluating success
-<!--
-PROMPTS:
-- Evaluation criteria for the experiment 
-- How do you know it worked or didn’t?
--->
 
 The successes of implementing narrative CVs should target the reasons for implementation. Were narrative CVs implemented to foster a diversity of successful candidates, to foster a diversity of research achievements, to align with DORA and CoARA? These motives should be explicit and the success of the implementation should be based on such motives. 
 
 ## Related CoARA commitments
-<!--
-PROMPTS:
-Directly reference as many of the 10 CoARA commitments as are fitting
--->
 
 **CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
 **CoARA Commitment 2** – Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
@@ -201,41 +131,13 @@ Government of Canada. (2021, September 6). [Codesigning the TGMS](https://scienc
 
  
 ## Templates from funders and institutions 
-<!--
-PROMPTS:
-- Add templates from funders and institutions if existing
--->
 
 R4RI CV Template and guidance: <https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/>
 Royal Society Résumé for Researchers: <https://royalsociety.org/news-resources/projects/research-culture/tools-for-support/resume-for-researchers/>
 
-
-<!-- ## Case examples and literature
-<!--
-PROMPTS:
-Any organisation names, links, authors that may be relevant to look into
--->
-
 ## Other resources
-<!--
-PROMPTS:
-Include any other resource here
--->
-
 
 # Comments/lived examples
-<!--
-PROMPTS:
-Section to be kept blank, for input within the idea catalogue
--->
 -->
 >
-
-
-
-
-
-
-
-
 

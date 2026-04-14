@@ -8,52 +8,9 @@ description: "Adapting the weighting of evaluation criteria in an assessment can
 image: false
 ---
 
-<!--
-GENERAL GUIDELINES:
-- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
-- Tags (apply as relevant):
-Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
-Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
-Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
-Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist.
-Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons.
-Aim: Value process = Create an assessment process based upon what the different players in research value
-Aim: Inclusivity = Make research more inclusive and equitable through assessment
-Aim: Bias mitigation = Mitigate the negative effects of bias on assessment
-Aim: Recognition = Recognize process and culture through assessment
-Aim: Diversity = Foster diversity through assessment
-Aim: Collaboration = Foster collaboration through assessment
-Aim: Alternative questions = Ask assessment questions differently
-CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
-CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
-CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
-CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
-CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
-CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
-CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
-User: Funders = Target user could involve funding agencies and regional authorities
-User: Academic Institutions = Target user could involve research institutions, higher education institutions, and research performing organisations
-User: Scholarly associations = Target user could involve academies, scholarly associations, and learned societies
-User: Research Groups = Target user could involve Research groups
-User: Individual scholar = Target user could involve individual scholars, including researchers, research students, or research staff
-User: Meta-Researchers = Target user could involve Meta-researchers
-User: Editors and publishers = Target user could involve scientific editors and publishers
--->
-
 ::: {.callout-warning icon=false}
 
 ## Objectives and potential outcome
-<!--
-PROMPTS:
-- What happens if this is successful? What changes if this works? 
-- What improvements are we aiming for?
-- These can be related to the main questions
-- If there are multiple experiments fitting, put them here
--->
 
 Weights of diverse elements may be used to calibrate an assessment towards the elements that are most important. This method can be used to promote specific assets and characteristics of assessments.  
 - More pronounced focus on elements that are agreed to be of importance
@@ -62,22 +19,10 @@ Weights of diverse elements may be used to calibrate an assessment towards the e
 :::
 
 ## Research domains
-<!--
-PROMPTS:
-- Which domain(s) can this experiment be applied in? 
--->
 
 Weightings in assessment models can be applied to any assessments with a comparative aspect. It is easier to implement where a type of scoring is taking place, but it may also be relevant to highlight elements that are most important in a fully qualitative assessment. 
 
 ## Context and considerations
-<!--
-PROMPTS:
-- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
-- What type of assessment does this work on (Team/individual/project/institutional);
-- What is the objective of evaluation exercise linked to the type of assessment
-- What are the things that change in the experiment?
-- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
--->
 
 This process is especially relevant for funding applications. Many funding organisations attribute weightings to specific sections of grant applications, thereby identifying to applicants which sections have more impact on the final scoring of their application. 
 
@@ -86,12 +31,6 @@ Weightings is also used in systems evaluations and scoring, for example the [UK 
 While weightings can also be used at individual evaluation level, for example in hiring and promotion, care must then be taken to consider potential impacts of the weighting processes on the selection process (e.g., does it reduce the diversity of candidates, does it create a uniform view of 'a good researcher', does it influence practices, etc.). 
 
 ## Challenges and mitigations
-<!--
-PROMPTS:
-- Each challenge and mitigation grouped together
-- If there isn’t mitigation, say so
-- Tips and tricks for preparing and running the experiment
--->
 
 **Challenge:** Weightings provide aplicants an indication of what matters most to the evaluatiors. In this regard, they may influence practices, discourage diversity in the pool of applicants, and influence how much worth applicants and researchers place on specific aspects of their work.  
 **Mitigation:** Carefully thinking about the possible influence that weights may have in the long term is crucial for responsible assessment. This may include an Equality Impact Assessment and additional analyses to capture possible unintended consequences and gaming that may be generated by the weigts imposed.  
@@ -99,21 +38,11 @@ PROMPTS:
 **Challenge:** Is weights are only known by a subgroup of applicants (e.g., those with connections as assessors), inequalities and unfairness may ensue.  
 **Mitigation:** Making sure weighting and assessment criteria are transparent and accessible to all applicants may help promote fair assessment processes.
 
-
 ## Evaluating success
-<!--
-PROMPTS:
-- Evaluation criteria for the experiment 
-- How do you know it worked or didn’t?
--->
 
 Weighting and changing assessment criteria may have impacts on research practices in the long term. Assessments of success should consider longitudinal studies of impact.
 
 ## Related CoARA commitments
-<!--
-PROMPTS:
-Directly reference as many of the 10 CoARA commitments as are fitting
--->
 
 CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
 
@@ -122,16 +51,8 @@ CoARA Commitment 6 = Review and develop research assessment criteria, tools and 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
 
 ## Templates from funders and institutions 
-<!--
-PROMPTS:
-- Add templates from funders and institutions if existing
--->
 
 ## Case examples and literature
-<!--
-PROMPTS:
-Any organisation names, links, authors that may be relevant to look into
--->
 
 Many different funding agencies use weighted scoring in their assessment criteria.
 
@@ -140,19 +61,8 @@ An example from the UK Space Agency NSIP programme [here](https://assets.publish
 Similarly, Wellcome UK shows how they use weightings in assessing fellowship proposals, distributing weights between skills and experience (25%), project (50%), and proposed plan to foster a positive and inclusive Research Environment (25%) (see [here](https://wellcome.org/research-funding/guidance/how-wellcome-makes-funding-decisions/how-wellcome-assesses-funding-applications)) At Wellcome, the types of elements included in the weightings and the weighting levels differ between grant programme to take into consideration the ultimate objective of the grant programmes (see for example how different criteria are weighted in the [Mental Health Award](https://wellcome.org/research-funding/schemes/mental-health-award-transforming-early-intervention#how-applications-are-assessed-1b4f)). 
 
 ## Other resources
-<!--
-PROMPTS:
-Include any other resource here
--->
 
 The [Multi Criteria Decision Analysis](https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/) may also provide useful information on different approaches to weighting.
 
 # Comments/lived examples
-<!--
-PROMPTS:
-Section to be kept blank, for input within the idea catalogue
--->
-
-
-
 

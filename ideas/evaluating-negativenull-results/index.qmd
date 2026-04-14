@@ -8,52 +8,9 @@ description: "Evaluating negative and null results is a way to give visibility t
 image: false
 ---
 
-<!--
-GENERAL GUIDELINES:
-- Use this guide to style all text: https://quarto.org/docs/authoring/markdown-basics.html
-- Tags (apply as relevant):
-Level 0 = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-Level 1 = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
-Level 2 = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
-Level 3 = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
-Level 4 = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist.
-Level 5 = Level of completeness: 5 – The experiment contains sufficient details to be implemented, and it has already been experimented in some organisations providing cases, additional suggestions, and often learned lessons.
-Aim: Value process = Create an assessment process based upon what the different players in research value
-Aim: Inclusivity = Make research more inclusive and equitable through assessment
-Aim: Bias mitigation = Mitigate the negative effects of bias on assessment
-Aim: Recognition = Recognize process and culture through assessment
-Aim: Diversity = Foster diversity through assessment
-Aim: Collaboration = Foster collaboration through assessment
-Aim: Alternative questions = Ask assessment questions differently
-CoARA Commitment 1 = Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-CoARA Commitment 3 = Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
-CoARA Commitment 4 = Avoid the use of rankings of research organisations in research assessment
-CoARA Commitment 5 = Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to
-CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
-CoARA Commitment 7 = Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
-CoARA Commitment 8 = Exchange practices and experiences to enable mutual learning within and beyond the Coalition
-CoARA Commitment 9 = Communicate progress made on adherence to the Principles and implementation of the Commitments
-CoARA Commitment 10 = Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
-Target: Funder = Target user could involve funding agencies and regional authorities
-Target: Academic Institution = Target user could involve research institutions, higher education institutions, and research performing organisations
-Target: Scholarly association = Target user could involve academies, scholarly associations, and learned societies
-Target: Research Group = Target user could involve Research groups
-Target: Individual scholar = Target user could involve individual scholars, including researchers, research students, or research staff
-Target: Meta-Researcher = Target user could involve Meta-researchers
-Target: Editor and publisher = Target user could involve scientific editors and publishers
--->
-
 ::: {.callout-warning icon=false}
 
 ## Objectives and potential outcome
-<!--
-PROMPTS:
-- What happens if this is successful? What changes if this works? 
-- What improvements are we aiming for?
-- These can be related to the main questions
-- If there are multiple experiments fitting, put them here
--->
 
 Objectives of evaluating negative and null results include:
 
@@ -66,22 +23,10 @@ Objectives of evaluating negative and null results include:
 :::
 
 ## Research domains
-<!--
-PROMPTS:
-- Which domain(s) can this experiment be applied in? 
--->
 
 This idea is relevant in a variety of contextx (hiring, promotion, funding, etc.) but is mostly applicable for hypothesis-driven research and empirical research (where n > 1).
 
 ## Context and considerations
-<!--
-PROMPTS:
-- Who is carrying out the evaluation? Who is this experiment for? (i.e., Target groups - Funders? Institutions? Individual researchers? Research domains?); 
-- What type of assessment does this work on (Team/individual/project/institutional);
-- What is the objective of evaluation exercise linked to the type of assessment
-- What are the things that change in the experiment?
-- Nature of the organization carrying out evaluation exercise; What type of assessment (Team/individual/project/institutional); Objective of evaluation exercise linked to the type of assessment
--->
 Investing in the importance of negative results in assessments is a cultural change and it will often require a systemic experiment - not just on the evaluation itself, but on the whole practice of research. As such, a holistic approach may be needed, with everyone working together to induce the change.  
 
 It may be important to define the story/strategy/route behind this (and entry point) - what are the steps (and in what order) to push towards this. It may also be important to consider how this is done in practice, and what is considered in the evaluation. For example, should researchers include all null/negative findings or only the most relevant?   
@@ -106,12 +51,6 @@ It may be important to define the story/strategy/route behind this (and entry po
   
 
 ## Challenges and mitigations
-<!--
-PROMPTS:
-- Each challenge and mitigation grouped together
-- If there isn’t mitigation, say so
-- Tips and tricks for preparing and running the experiment
--->
 
 **Challenge: Culture of prestige** – There is a huge culture of recognition around high-impact factor journals. This may be difficult to go around, especially the importance of those outputs in university rankings which bring a higher level of resistance.  
 **Mitigation:** Change the culture at all levels  
@@ -130,17 +69,8 @@ PROMPTS:
 **Mitigation:** Again, bring more recognition by funders/institutions to shift culture to value negative results
   
 ## Evaluating success
-<!--
-PROMPTS:
-- Evaluation criteria for the experiment 
-- How do you know it worked or didn’t?
--->
 
 ## Related CoARA commitments
-<!--
-PROMPTS:
-Directly reference as many of the 10 CoARA commitments as are fitting
--->
 
 **CoARA Commitment 1** – Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
 **CoARA Commitment 3** – Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index  
@@ -151,26 +81,13 @@ Directly reference as many of the 10 CoARA commitments as are fitting
 This section includes resources, literature, and reports relevant to this specific experimental idea.
 
 ## Templates from funders and institutions 
-<!--
-PROMPTS:
-- Add templates from funders and institutions if existing
--->
 
 ## Case examples and literature
-<!--
-PROMPTS:
-Any organisation names, links, authors that may be relevant to look into
--->
 
 A few initiatives for allowing publication of negative results are described in: Brazil, R. (2024). "Illuminating ‘the ugly side of science’: fresh incentives for reporting negative results." *Nature Career*. [https://doi.org/10.1038/d41586-024-01389-7](https://doi.org/10.1038/d41586-024-01389-7)
 	
 
-
 ## Other resources
-<!--
-PROMPTS:
-Include any other resource here
--->
 
 Some background literature include:
 
@@ -188,14 +105,5 @@ Mehta, D. (2019). "Highlight negative results to improve science." *Nature Caree
 
 Tian, D., Hu, X., Qian, Y., & Li, J. (2024). Exploring the scientific impact of negative results. *Journal of Informetrics*, 18(1), 101481. [https://doi.org/https://doi.org/10.1016/j.joi.2023.101481](https://doi.org/https://doi.org/10.1016/j.joi.2023.101481 )
 
-
 # Comments/lived examples
-<!--
-PROMPTS:
-Section to be kept blank, for input within the idea catalogue
--->
-
-
-
-
 
