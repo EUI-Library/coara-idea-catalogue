@@ -54,10 +54,10 @@ PROMPTS:
 - These can be related to the main questions
 - If there are multiple experiments fitting, put them here
 -->
-This idea aims to reduce the application burden that happens for applicants, reviewers, and organisations, wherever possible.
-- **Reduce unnecessary burden** for small application processes
-- **Make more efficient use of research time and resources**
-- Less time/resources spent on small research assessment can increase assessment capacity and indirectly **increase assessment quality** where it is really needed
+This idea aims to reduce the application burden that happens for applicants, reviewers, and organisations, wherever possible.  
+- **Reduce unnecessary burden** for small application processes  
+- **Make more efficient use of research time and resources**  
+- Less time/resources spent on small research assessment can increase assessment capacity and indirectly **increase assessment quality** where it is really needed  
 
 :::
 
