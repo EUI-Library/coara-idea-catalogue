@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 $h2-font-size:          1.6rem !default;
-$headings-font-weight:  500 !default;
+$headings-font-weight:  600 !default;
 $navbar-bg: #0F0F55;
 $navbar-fg: white;
 $navbar-link-hover-fg: #00B8F2;
@@ -14,6 +14,7 @@ $font-family-sans-serif: "poppins", sans-serif;
 /*-- scss:rules --*/
 h1, h2, h3, h4, h5, h6 {
   color: #0f0f55;
+  padding-bottom: 20px;
 }
 
 h1.title {

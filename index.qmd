@@ -1,5 +1,5 @@
 ---
-title: "CoARA Assessment Idea Catalogue"
+title: "Experiments in Assessment Idea Catalogue"
 listing:
   contents: ideas
   sort:
@@ -17,7 +17,7 @@ title-block-banner: true
 language: 
   listing-page-field-categories: "Tags"
 ---
-The **CoARA Assessment Idea Catalogue** is designed to be a resource for those developing and/or implementing assessment processes at a variety of different levels, including:
+The **CoARA Experiments in Assessment Idea Catalogue** is designed to be a resource for those developing and/or implementing assessment processes at a variety of different levels, including:
 
 - hiring and promotion
 - project funding

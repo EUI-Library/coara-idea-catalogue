@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Assessment Idea Catalogue"
+  title: "Experiments in Assessment Idea Catalogue"
   favicon: images/favicon-180x180-1-150x150.png
   search: 
     location: navbar
