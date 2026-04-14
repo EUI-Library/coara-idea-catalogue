@@ -42,7 +42,10 @@ The SCOPE Framework for Research Evaluation mentions how crucial it is to "Evalu
 
 ## Case examples and literature
 
-In their new career and evaluation policy for professional staff, Ghent University mentioned that one of their core achievements was to reduce the frequency of assessment to five years, mentioning that the higher frequency of assessment from the previous evaluation policy "put a high administrative burden on the professors and faculty staff, with a lot of paperwork to fill in, at a high evaluation frequency". More information on their motivation for change is available in the DORA case study they detailed in 2020. <https://sfdora.org/case-study/ghent-university/>
+In their new career and evaluation policy for professional staff, Ghent University mentioned that one of their core achievements was to reduce the frequency of assessment to five years, mentioning that the higher frequency of assessment from the previous evaluation policy "put a high administrative burden on the professors and faculty staff, with a lot of paperwork to fill in, at a high evaluation frequency". More information on their motivation for change is available in the DORA case study they detailed in 2020. [https://sfdora.org/case-study/ghent-university/](https://sfdora.org/case-study/ghent-university/)
+
+At a funders level, offering grants on a longer term can also help reduce the frequency of assessment. Fer example, the Swedish Research Council [offers some grants that work on a 8-year term](https://www.vr.se/english/applying-for-funding/calls/2023-11-15-distinguished-professor-grant-within-natural-and-engineering-sciences.html) to secure funding on a longer term and enable long-term research projects
+
 
 ## Other resources
 
