@@ -44,5 +44,5 @@ Neuroskeptic. (2013). Anonymity in science. *Trends in Cognitive Sciences*, 17(5
 
 Background arguments can also be found in Frazzetto, G. (2004). Who did what? Uneasiness with the current authorship is prompting the scientific community to seek alternatives. *EMBO Reports*, 5(5), 446–448. [https://doi.org/10.1038/sj.embor.7400161](https://doi.org/10.1038/sj.embor.7400161 )
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

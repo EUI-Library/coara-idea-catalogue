@@ -37,5 +37,5 @@ CoARA Commitment 6 = Review and develop research assessment criteria, tools and 
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

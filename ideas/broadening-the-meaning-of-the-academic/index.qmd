@@ -57,5 +57,5 @@ The [The Norwegian Career Assessment Matrix (NOR-CAM)](https://www.uhr.no/en/new
 
 Background reading: Aubert Bonn N, Pinxten W (2021) Advancing science or advancing careers? Researchers’ opinions on success indicators. PLOS ONE 16(2): e0243664. DOI: [10.1371/journal.pone.0243664](https://doi.org/10.1371/journal.pone.0243664)
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

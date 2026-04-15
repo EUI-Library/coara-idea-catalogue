@@ -46,5 +46,5 @@ This section includes resources, literature, and reports relevant to this specif
 
 Fackrell K, Church H, Crane K, et al Online survey exploring researcher experiences of research funding processes in the UK: the effort and burden of applying for funding and fulfilling reporting requirements BMJ Open 2024;14:e079581. doi: [10.1136/bmjopen-2023-079581](https://10.1136/bmjopen-2023-079581)
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

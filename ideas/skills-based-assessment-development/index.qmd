@@ -45,5 +45,5 @@ This section includes resources, literature, and reports relevant to this specif
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

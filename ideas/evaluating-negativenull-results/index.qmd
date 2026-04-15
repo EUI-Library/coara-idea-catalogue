@@ -105,5 +105,5 @@ Mehta, D. (2019). "Highlight negative results to improve science." *Nature Caree
 
 Tian, D., Hu, X., Qian, Y., & Li, J. (2024). Exploring the scientific impact of negative results. *Journal of Informetrics*, 18(1), 101481. [https://doi.org/https://doi.org/10.1016/j.joi.2023.101481](https://doi.org/https://doi.org/10.1016/j.joi.2023.101481 )
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

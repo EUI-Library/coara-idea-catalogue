@@ -71,5 +71,5 @@ The funders **Villum Fonded** and **Volkswagen Stiftung** currently implement wi
 ## Other resources
 Paula Stephan & Chiara Franzoni (2023) Encouraging high-risk high-reward research at NIH, [https://www.brookings.edu/wp-content/uploads/2023/05/StephanFranzoniFinal-3.pdf](https://www.brookings.edu/wp-content/uploads/2023/05/StephanFranzoniFinal-3.pdf). Associated papers may be found at [https://ifp.org/building-a-better-nih/](https://ifp.org/building-a-better-nih/) 
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

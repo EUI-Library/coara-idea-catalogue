@@ -64,5 +64,5 @@ Similarly, Wellcome UK shows how they use weightings in assessing fellowship pro
 
 The [Multi Criteria Decision Analysis](https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/) may also provide useful information on different approaches to weighting.
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

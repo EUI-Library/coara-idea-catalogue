@@ -39,5 +39,5 @@ This section includes resources, literature, and reports relevant to this specif
 
 The Swiss National Science Foundation (SNSF) allows applicants to resubmit an application after receiving feedback. These applications are now treated as new applications. [https://www.snf.ch/en/BKzdS5u83b9pP1QK/news/resubmission-of-applications](https://www.snf.ch/en/BKzdS5u83b9pP1QK/news/resubmission-of-applications )
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

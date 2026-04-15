@@ -82,5 +82,5 @@ FNR Mentee evaluation provides gender balanced list of former mentees, FNR decid
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

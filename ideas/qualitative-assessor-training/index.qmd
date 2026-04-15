@@ -56,4 +56,4 @@ The Royal Society resources on [unconscious bias](https://royalsociety.org/news-
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples

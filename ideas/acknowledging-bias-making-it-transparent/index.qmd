@@ -58,5 +58,5 @@ Although not specific to a research assessment process, a paper by Hawwash and c
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

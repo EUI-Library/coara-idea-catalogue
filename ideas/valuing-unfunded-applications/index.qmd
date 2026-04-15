@@ -42,5 +42,5 @@ Wellcome open proposals project brings visibility and openness towards applicati
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

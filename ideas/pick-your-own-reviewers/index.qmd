@@ -90,5 +90,5 @@ Self-selected reviewers are common practice in journal peer review. Although res
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

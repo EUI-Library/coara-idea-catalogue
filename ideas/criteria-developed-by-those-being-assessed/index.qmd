@@ -39,5 +39,5 @@ CoARA Commitment 10 - Evaluate practices, criteria and tools based on solid evid
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

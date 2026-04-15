@@ -165,7 +165,7 @@ The **University of Antwerp** is working on Comparative judgment (e.g. D-PAC), a
 More experiments about distributed peer review, aplicants for funding review each other's proposals can be found from the **Research on Research Institute (RoRI)** at: 
 [https://researchonresearch.org/volkswagen-distributed-peer-review/](https://researchonresearch.org/volkswagen-distributed-peer-review/) 
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 
 [https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method](https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method) 
 Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time

@@ -137,7 +137,7 @@ Royal Society Résumé for Researchers: <https://royalsociety.org/news-resources
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 -->
 >
 

@@ -34,5 +34,5 @@ This idea is linked to the **[EDI Tiebreak](https://eui-library.github.io/coara-
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

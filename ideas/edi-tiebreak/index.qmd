@@ -43,5 +43,5 @@ This section includes resources, literature, and reports relevant to this specif
 
 Yohanna Juk, Sergio Salles-Filho, Karen E. F. Pinto, Ana Carolina Spatti, Evandro Coggo Cristofoletti, Gabriela Araujo Tetzner, and Emily Campgnolli (2023) Diversity, equity and inclusion: how funding agencies are addressing inequalities in research, *27th International Conference on Science, Technology and Innovation Indicators (STI 2023)*, [doi.org/10.55835/6442ffc28264b1bf681c48ce](doi.org/10.55835/6442ffc28264b1bf681c48ce).
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

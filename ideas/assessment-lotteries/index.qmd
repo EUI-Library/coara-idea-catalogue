@@ -125,5 +125,5 @@ UK Metascience Unit (2025) A Year in Metascience. UK Department for Science, Inn
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 

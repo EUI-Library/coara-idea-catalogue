@@ -45,5 +45,5 @@ The NWO has built dedicated guidance for reviewers to encourage them to keep the
 
 ## Other resources
 
-# Comments/lived examples
+# Case Studies or Implementation Examples
 
