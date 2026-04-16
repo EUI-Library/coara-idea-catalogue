@@ -3,8 +3,8 @@ title: "Skills based assessment/development"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0"]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic Institution", "Target: Research Group", "Target: Meta-researcher"]
+description: "Focusing assessment and/or career development on skills and competencies rather than on outputs and pas achievements."
 image: false
 ---
 
@@ -12,28 +12,30 @@ image: false
 
 ## Objectives and potential outcome
 
-- Objective 1
-- Objective 2
+- Bring the focus of assessments on competencies to undertake the expected work   
+- Reduce the dependency on successful/positive results  
+- Make research careers more transferable to external sectors
+- Enable more permeability between academic and non-academic careers
 
 :::
 
 ## Research domains
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This assessment can fit in any domain where individuals are being assessed.
 
 ## Context and considerations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Unlike most careers where skills and experiences are the core elements necessary for progressing in one's career, academia tends to place greater emphasis on outputs and achievements, rather than skills. 
 
 ## Challenges and mitigations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
-
 ## Evaluating success
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
-
 ## Related CoARA commitments
+
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
 
 # Relevant resources and literature 
 
@@ -43,7 +45,13 @@ This section includes resources, literature, and reports relevant to this specif
 
 ## Case examples and literature
 
+The **[Prosper](https://prosper.liverpool.ac.uk)** platform helps researchers (from postdoc level) to build and identify the skills and competencies they possess, and as such, it could serve as a useful tool to identify the types of competencies that are relevant to include in research assessment.
+
+The **[NOR-CAM](https://www.uhr.no/en/news-from-uhr/nor-cam-a-toolbox-for-recognition-and-rewards-in-academic-careers.5780.aspx)** toolbox recognises several competencies as merits, stressing however that individual academics should not be expected to excel in all areas. 
+
 ## Other resources
+
+Verderame, M. F., Freedman, V. H., Kozlowski, L. M., McCormack, W. T. (2018). Competency-based assessment for the training of PhD students and early-career scientists. Elife. 31(7:e34801) [https://doi.org/10.7554/eLife.34801](https://doi.org/10.7554/eLife.34801).
 
 # Case Studies or Implementation Examples
 
