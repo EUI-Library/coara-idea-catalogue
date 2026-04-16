@@ -3,8 +3,8 @@ title: "Removing assessment in general"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0"]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: ["Level 0", "Aim: Alternative questions", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Editor and publisher"]
+description: "This idea suggests removing the assessment/evaluation from a process where it may not entirely be necessary."
 image: false
 ---
 
@@ -12,26 +12,39 @@ image: false
 
 ## Objectives and potential outcome
 
-- Objective 1
-- Objective 2
+- Reduce resouces required for the assessment process
+- Alleviate the burden on reviewers and applicants
 
 :::
 
 ## Research domains
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This could apply to career assessment, to funding assessment, or to any other types of assessment, including research or journal submissions.
 
 ## Context and considerations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Several elements relevant to this idea may be seen in the idea on **[reducing the frequency of assessment](https://eui-library.github.io/coara-idea-catalogue/ideas/reducing-frequency-of-assessment/index.html)**. A core reasoning behind this idea is the need to reduce application burden. Application processes take time and resources, regardless of the outcome. In fact, several studies have shown that the costs of application to grant proposal is non negligeable, and that these costs can even exceed the awarded funding that is redistributed in research (see [Herbert et al., (2013)](https://doi.org/10.1136/bmjopen-2013-002800); [Gross and Bergstrom (2019)](https://doi.org/10.1371/journal.pbio.3000065); [Schweiger (2025)](https://doi.org/10.1038/d41586-025-04060-x)). Consequently, removing assessments where they are not entirely necessary could support a more efficient research system. 
+
+
+
+Assessments looking at this could, for example study the impact on research and researchers when:  
+- Competitive proposal are replaced with a finite 'First come first serve' system of funding  
+- Competitive assessment is replaced with guaranteed bench funding  
+- Assessments of career/project progression are removed and only added ad-hoc if a problem occurs
+- Publication of research outputs is not dependent on peer-review assessment – these assessments are only added at a later stage in the process (e.g., preprint, specific journals like F1000, eLife, etc.)
 
 ## Challenges and mitigations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+**Challenge:** Removing assessments may raise problems in terms of fairness of resource distribution if the distribution process or approval process are not clearly delineated.  
+**Mitigation:** Providing clear and transparent information on how distribution of resources or on how career progression works is probably one of the most important mitigation to this challenge.
 
 ## Evaluating success
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+Success should keep the core obectives of this change in mind. Depending on the desired objective, success could be linked to a diversity of elements, including:
+- Changes in perceptions of fairness of applicants (and thereafter those impacted by the decision done without an assessment process)  
+- Efficiency of the process  
+- Resources needed for the process  
+- Final results and overall impact of removing the process on the funding attribution/progressing applicants
 
 ## Related CoARA commitments
 
@@ -43,7 +56,14 @@ This section includes resources, literature, and reports relevant to this specif
 
 ## Case examples and literature
 
+**Ghent University** decided to reduce the need for competitive funding in the beginning of researchers' career by providing all starting researchers with **[Starting grant](https://www.ugent.be/en/research/funding/bof/starting-grants.htm)** of basic research funding. 
+
+Several funding calls from **[Open Science NL](https://www.openscience.nl/en)** adopt a non-competitive model, where applications are checked for quality standards but not placed in competition with one another. For instance, the call *Recognising and rewarding Open Science* stated that *"The applications in this round are of a non-competitive nature, and Open Science NL strives to award all applications that meet at least ‘good’ on the conditions and criteria as stated in Section..."*, the *Strengthening Local and Thematic DCCs* states that *"This Call for proposals is not competitive"*, and the calls for *Open Access Books* similarly explains that "Applications within this programme are not in competition with each other, and NWO intends to honour all applications that meet the conditions and criteria as long as the annual budget is sufficient."
+
+
 ## Other resources
+
+**[The SCOPE Framework](https://inorms.net/scope-framework-for-research-evaluation/)** for Research Evaluation mentions how crucial it is to "Evaluate only where necessary", stressing that evaluation is not always the right strategy, especially when the desired outcome is a behaviour change. 
 
 # Case Studies or Implementation Examples
 
