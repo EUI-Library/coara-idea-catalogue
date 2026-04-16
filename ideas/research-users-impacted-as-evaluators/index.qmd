@@ -4,7 +4,7 @@ author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
 categories: ["Level 0", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Funder", "Target: Scholarly association"]
-description: "Individuals or their representatives directly impacted by the research activities can be involved as reviewers, as one specific category of stakeholders. Depending on the group represented, their role in the research assessment process and their requirements in terms of communication have to be carefully considered in the process design."
+description: "Individuals or their representatives directly impacted by the research activities can be involved as reviewers, as one specific category of stakeholders."
 image: false
 ---
 
@@ -12,11 +12,16 @@ image: false
 
 ## Objectives and potential outcome
 
+- Improve the value of research for users
+- Include targeted populations in the decision of resource attribution
+
 :::
 
 ## Research domains
 
 ## Context and considerations
+
+Depending on the group represented, their role in the research assessment process and their requirements in terms of communication have to be carefully considered in the process design.
 
 ## Challenges and mitigations
 
@@ -30,6 +35,10 @@ Mitigation:** assign different elements of the assessment to different assessors
 
 ## Related CoARA commitments
 
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
+
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
@@ -37,6 +46,8 @@ This section includes resources, literature, and reports relevant to this specif
 ## Templates from funders and institutions 
 
 ## Case examples and literature
+
+Pavee Point – an organisation that advocates for the Traveller and Roma communities in Ireland – has published a **[guide for conducting inclusive and ethical research with Traveller and Roma individuals and communities](https://www.paveepoint.ie/wp-content/uploads/2025/12/Pavee-Approach-to-Inclusive-Research-With-Travellers-and-Roma.pdf)
 
 ## Other resources
 
