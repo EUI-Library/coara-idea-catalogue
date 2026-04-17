@@ -70,5 +70,7 @@ The CRediT (Contributor Role Taxonomy) enables visibility of team dynamics and c
 - Allen, L., O’Connell, A., & Kiermer, V. (2019). How can we ensure visibility and diversity in research contributions? How the Contributor Role Taxonomy (CRediT) is helping the shift from authorship to contributorship. *Learned Publishing*, 32(1). [https://doi.org/https://doi.org/10.1002/leap.1210](https://doi.org/https://doi.org/10.1002/leap.1210)  
 - McNutt, M. K., Bradford, M., Drazen, J. M., Hanson, B., Howard, B., Jamieson, K. H., Kiermer, V., Marcus, E., Pope, B. K., Schekman, R., Swaminathan, S., Stang, P. J., & Verma, I. M. (2018). Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication. *Proceedings of the National Academy of Sciences*, 115(11). [https://doi.org/10.1073/pnas.1715374115](https://doi.org/10.1073/pnas.1715374115) 
 
+Mishra, J. (2015). Choosing team over tenure. *Science*. [https://doi.org/10.1126/science.caredit.a1500258)](https://doi.org/10.1126/science.caredit.a1500258)
+
 # Case Studies or Implementation Examples
 
