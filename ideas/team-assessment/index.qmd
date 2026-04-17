@@ -3,7 +3,7 @@ title: "Team assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0"]
+categories: ["Level 2", "Aim: Inclusivity”, "Aim: Recognition”, "Aim: Diversity”, "Aim: Collaboration”, "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder”, "Target: Academic Institution”, "Target: Scholarly association”, "Target: Research Group”, “Target: Meta-Researcher”]
 description: "Team assessment enables the evaluation of collective research performance, emphasizing shared outputs, interdisciplinary collaboration, and distributed contributions."
 image: false
 ---
@@ -12,13 +12,22 @@ image: false
 
 ## Objectives and potential outcome
 
-Team assessment evaluates teams as a unit rather than individuals. It aims to enhance fairness and robustness of evaluation, capture group-level impact more accurately, and support recognition of diverse roles within research teams, aligning assessment frameworks with contemporary collaborative research practices.
+Team assessment evaluates teams as a unit rather than individuals. It aims to:  
+- Enhance fairness and robustness of evaluation  
+- Capture group-level impact more accurately  
+- Support recognition of diverse roles within research teams, aligning assessment frameworks with contemporary collaborative research practices
 
 :::
 
 ## Research domains
 
+Team assessment can be applicable to any domain. They are especially relevant in situations where the work of a team would be assessed, for example in funding applications or in recognition and awards. 
+
 ## Context and considerations
+
+Team assessment could be realised in a number of ways. For example, team assessment could be implemented at funding application by asking applicants to submit a team-CV rather than individual CVs and profiles. This is currently done at UK Research and Innovations (UKRI) where teams are asked to [submit only one Résumé for Research and Innovation (R4RI)](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/) when applying for project funding as a team. In other settings, team assessment could be allowing teams to apply for awards or distinctions.
+
+Experiments looking at team assessment could look at the implications of implementing team-level assessment on the efficiency and outcomes of the assessment process. For instance, they could look at the diversity of teams that are selected as a result, the types of research roles that are being fostered, and any impact these have on complementarity of skills, outputs, or other elements of the research culture.
 
 ## Challenges and mitigations
 
@@ -32,9 +41,29 @@ S., Harrison, T. R., Wang, J., Huang, Q., … Bixby, J. L. (2021). Developing an
 
 ## Templates from funders and institutions 
 
+The **‘Diversity Approach to Research Evaluation’** (DARE) proposes a way to assess how researchers engaged in knowledge creation and application work together as teams. See Bone, F., Hopkins, M. M., Ràfols, I., Molas-Gallart, J., Tang, P., Davey, G., & Carr, A. M. (2020) DARE to be different? A novel approach for analysing diversity in collaborative research projects, *Research Evaluation*, 29(3). [https://doi.org/10.1093/reseval/rvaa006](https://doi.org/10.1093/reseval/rvaa006)
+
+Anothe similar framework meant to capture team dynamics is available in Mazumdar, M., Messinger, S., Finkelstein, D. M., Goldberg, J. D., Lindsell, C. J., Morton, S. C., Pollock, B. H., Rahbar, M. H., Welty, L. J., Parker, R. A., Biostatistics, E., Research Design Key Function Committee of the, C., & Translational Science Awards, C. (2015). Evaluating Academic Scientists Collaborating in Team-Based Research: A Proposed Framework. *Academic Medicine*, 90(10), 1302–1308. [https://doi.org/10.1097/ACM.0000000000000759](https://doi.org/10.1097/ACM.0000000000000759)
+
+The Alliance for Life Sciences (A4L) report **[From Strategies to Actions in Central and Eastern Europe](https://alliance4life.com/media/3772894/d14_reflection-of-evaluation-in-institutional-strategies.pdf) describes in it's Case Study 2 a broad team assessment in which the task of the evaluation was "not only to analyse the scientific quality and the results and contributions of the teams for specific areas of research, but also to evaluate the quality of the management of each research team and its financial sustainability."
+
 ## Case examples and literature
 
+The **NWO [The Team Science Award](https://www.nwo.nl/en/team-science-award) rewards "inspiring and successful team of researchers from various disciplinary fields, who jointly take on a scientific challenge in which their individual strengths and expertise demonstrably reinforce each other".
+
+The **[Spinoza and the Stevin prizes](https://www.cursor.tue.nl/en/news/2019/oktober/week-2/spinoza-prize-to-become-a-team-effort/)** – the highest research recognitions in The Netherlands – are now also open to team applications.
+
+UK Research and Innovations (UKRI) asks applicants to team projects to [submit only one Résumé for Research and Innovation (R4RI)]https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance(https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/) when applying for project. 
+
+The [Collaborative Award for Teaching Excellence (CATE)](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence) from Advance HE is an award scheme meant to recognise collaborative work that has had a demonstrable impact on teaching and learning.
+
 ## Other resources
+
+Bothwell, E. (2019, 14 October). Award Nobels to teams, not individual ‘heroes’, say scientists. *Times Higher Education*. [https://www.timeshighereducation.com/news/award-nobels-teams-not-individual-heroes-say-scientists](https://www.timeshighereducation.com/news/award-nobels-teams-not-individual-heroes-say-scientists)
+
+The CRediT (Contributor Role Taxonomy) enables visibility of team dynamics and contributions and may be useful in recognition of teams. See for example:  
+- Allen, L., O’Connell, A., & Kiermer, V. (2019). How can we ensure visibility and diversity in research contributions? How the Contributor Role Taxonomy (CRediT) is helping the shift from authorship to contributorship. *Learned Publishing*, 32(1). [https://doi.org/https://doi.org/10.1002/leap.1210](https://doi.org/https://doi.org/10.1002/leap.1210)  
+- McNutt, M. K., Bradford, M., Drazen, J. M., Hanson, B., Howard, B., Jamieson, K. H., Kiermer, V., Marcus, E., Pope, B. K., Schekman, R., Swaminathan, S., Stang, P. J., & Verma, I. M. (2018). Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication. *Proceedings of the National Academy of Sciences*, 115(11). [https://doi.org/10.1073/pnas.1715374115](https://doi.org/10.1073/pnas.1715374115) 
 
 # Case Studies or Implementation Examples
 
