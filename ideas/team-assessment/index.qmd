@@ -3,7 +3,7 @@ title: "Team assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 2", "Aim: Inclusivity”, "Aim: Recognition”, "Aim: Diversity”, "Aim: Collaboration”, "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder”, "Target: Academic Institution”, "Target: Scholarly association”, "Target: Research Group”, “Target: Meta-Researcher”]
+categories: ["Level 2", "Aim: Inclusivity", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group", "Target: Meta-Researcher"]
 description: "Team assessment enables the evaluation of collective research performance, emphasizing shared outputs, interdisciplinary collaboration, and distributed contributions."
 image: false
 ---
@@ -34,6 +34,11 @@ Experiments looking at team assessment could look at the implications of impleme
 ## Evaluating success
 
 ## Related CoARA commitments
+
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 4 - Avoid the use of rankings of research organisations in research assessment
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
 
 # Relevant resources and literature 
 
