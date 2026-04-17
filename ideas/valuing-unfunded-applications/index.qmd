@@ -3,7 +3,7 @@ title: "Valuing unfunded applications"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0"]
+categories: ["Level 0", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 3", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Research Group", "Target: Individual scholar", "Target: Meta-Researcher"]
 description: "Valuing unfunded applications acknowledges the intellectual merit and innovative potential of research proposals regardless of funding outcome."
 image: false
 ---
@@ -12,7 +12,10 @@ image: false
 
 ## Objectives and potential outcome
 
-Valuing unfunded applications acknowledges learning from review feedback, recognizes preparatory work as a valuable research output, and supports fairer, more transparent assessment ecosystems by reducing wasted effort and encouraging proposal re-use and improvement.
+Valuing unfunded applications can help:
+- Acknowledge learning from review feedback  
+- Recognise preparatory work as a valuable research output  
+- Support fairer, more transparent assessment ecosystems by reducing wasted effort and encouraging proposal re-use and improvement
 
 :::
 
@@ -30,15 +33,22 @@ Applications processes or CV sections can also directly ask applicants about unf
 
 ## Related CoARA commitments
 
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 3 - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
+
 # Relevant resources and literature 
 
-<https://www.unfundedlist.com/>
+**Unfunded List** ([https://www.unfundedlist.com/](https://www.unfundedlist.com/)) is a platform that provides independent review of unfunded grant proposals to help authors of these proposals by providing feedback. 
 
-Wellcome open proposals project brings visibility and openness towards applications regardless of the funding decision. <https://wellcome.org/research-funding/open-research-fund-project-proposals-submitted-wellcome?>
+**[Wellcome open proposals project](https://wellcome.org/research-funding/open-research-fund-project-proposals-submitted-wellcome)** brings visibility and openness towards applications regardless of the funding decision.
 
 ## Templates from funders and institutions 
 
 ## Case examples and literature
+
+Stefan, M. (2010). A CV of failures. *Nature* 468(467). [https://doi.org/10.1038/nj7322-467a](https://doi.org/10.1038/nj7322-467a)
 
 ## Other resources
 
