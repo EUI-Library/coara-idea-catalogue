@@ -4,7 +4,7 @@ author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
 categories: ["Level 4", "Aim: Inclusivity", "Aim: Recognition", "Aim: Collaboration", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic institution", "Target: Meta-researcher"]
-description: "Distributed peer review is a method in which applicants evaluate each other’s proposals. It promotes equity, transparency, and inclusion, reduces the burden on traditional reviewers, and values the expertise of participants by making them active contributors to the assessment process."
+description: "Distributed peer-review is a method in which applicants evaluate each other’s proposals. It promotes equity, transparency, and inclusion, reduces the burden on traditional reviewers, and values the expertise of participants by making them active contributors to the assessment process."
 image: false
 language: 
   title-block-author-single: "Contributor"
@@ -14,7 +14,7 @@ language:
 
 ## Objectives and potential outcome
 
-This experiment addresses key challenges in research assessment by promoting inclusion and equity through broader participation, mitigating bias by diversifying the reviewer pool, and fostering collaboration as applicants engage directly in the peer review process, gaining insight into evaluation criteria and building mutual understanding within the research community.
+This experiment addresses key challenges in research assessment by promoting inclusion and equity through broader participation, mitigating bias by diversifying the reviewer pool, and fostering collaboration as applicants engage directly in the peer-review process, gaining insight into evaluation criteria and building mutual understanding within the research community.
 
 **Goals (what are we trying to change)**
 
@@ -34,19 +34,19 @@ This experiment addresses key challenges in research assessment by promoting inc
     Sharing review responsibilities among all participants prevents overburdening a small group of traditional reviewers.
 
 - **Ensure domain expertise**
-    In focused calls, the applicant pool is knowledgeable, providing relevant expertise for peer review.
+    In focused calls, the applicant pool is knowledgeable, providing relevant expertise for peer-review.
 
 - **Accelerate the review process**
     Since all participants have a stake and understand the criteria, the process can be completed more rapidly.
 
-How does an experiment with distributed peer review work? 
+How does an experiment with distributed peer-review work? 
 During an application round, applicants review each other’s proposals, giving feedback and recommendations for acceptance/rejection. Quality control based on peer-review is thus restricted to those who have submitted a proposal.
 
 :::
 
 ## Research domains
 
-This experiment can be applied across all research domains, particularly in contexts where applicant expertise aligns with the call topic. It involves a distributed peer review model in which applicants evaluate each other’s proposals, ensuring that quality control remains within a knowledgeable and invested community of peers.
+This experiment can be applied across all research domains, particularly in contexts where applicant expertise aligns with the call topic. It involves a distributed peer-review model in which applicants evaluate each other’s proposals, ensuring that quality control remains within a knowledgeable and invested community of peers.
 
 ## Context and considerations
 
@@ -56,7 +56,7 @@ This experiment can fit any target group where assessment includes several simil
 - **Institutions**: especially those conducting internal or competitive funding calls, or managing doctoral/postdoctoral fellowships.  
 - **Thematic consortia or networks**: where members share disciplinary language and goals, easing implementation.  
 
-Potential variables that may have an influence on the distributed peer review process and may thus be valuable elements to experiment on include the **identity of reviewers** (e.g., anonymity vs. known identities), the **size and diversity of the reviewer pool**, and the **language used in proposals and reviews**, which may affect accessibility, clarity, and fairness across different linguistic or cultural backgrounds.
+Potential variables that may have an influence on the distributed peer-review process and may thus be valuable elements to experiment on include the **identity of reviewers** (e.g., anonymity vs. known identities), the **size and diversity of the reviewer pool**, and the **language used in proposals and reviews**, which may affect accessibility, clarity, and fairness across different linguistic or cultural backgrounds.
   
   
 **Suggestions on how to implement**
@@ -70,22 +70,22 @@ Use **single-discipline** or **well-defined thematic areas** to ensure a more ho
 **Run Shadow Experiments**:  
 Before full implementation, run **parallel (shadow) experiments** alongside traditional reviews. Compare results to evaluate feasibility, reliability, and stakeholder satisfaction.
 
-**Integrate Peer Review Training**:  
+**Integrate peer-review Training**:  
 Provide **training modules** to help applicants understand the evaluation criteria and write constructive feedback. This is particularly useful for **Early Career Researchers**, improving both their evaluative skills and grant writing.
   
   
-**Implementing distributed peer review requires careful planning and resourcing:**  
+**Implementing distributed peer-review requires careful planning and resourcing:**  
   
 * **HR and Coordination Costs**:  
   + *Project Manager*: to coordinate implementation, timeline, logistics.  
   + *Administrative Support*: for applicant communication, managing review assignments.  
   
 - **Legal and Ethical Considerations**:  
-  - *Legal Advisers*: to ensure GDPR compliance, particularly around anonymization and data handling.  
+  - *Legal Advisers*: to ensure GDPR compliance, particularly around anonymisation and data handling.  
   - Develop *terms of participation* and conflict of interest policies.  
   
 - **Technical Infrastructure**:  
-  - *Platform or Tool*: for proposal submission, anonymized review distribution, and scoring.  
+  - *Platform or Tool*: for proposal submission, anonymised review distribution, and scoring.  
   - Ensure *User Experience (UX)* is intuitive and accessible.  
   
 - **Training and Support**:  
@@ -99,8 +99,8 @@ Provide **training modules** to help applicants understand the evaluation criter
 ## Challenges and mitigations
 
 **1. Potential reviewer bias**  
-**Challenge:** Reviewers may consciously or unconsciously favor or penalize proposals.  
-**Mitigation:** Implement a double-blind review process where both reviewer and applicant identities are anonymized. Provide bias-awareness training as part of the review onboarding.
+**Challenge:** Reviewers may consciously or unconsciously favor or penalise proposals.  
+**Mitigation:** Implement a double-blind review process where both reviewer and applicant identities are anonymised. Provide bias-awareness training as part of the review onboarding.
 
 **2. Conflicts of interest in small domains**  
 **Challenge:** In niche fields, applicants may know each other, creating risks of favoritism or retaliation.  
@@ -114,16 +114,16 @@ Provide **training modules** to help applicants understand the evaluation criter
 **Challenge:** Applicants may see the task as a burden or strategic opportunity, leading to superficial reviews.  
 **Mitigation:** Introduce incentives, such as recognition, certificates, or bonus points for quality reviews. Consider meta-reviews or calibration scores to assess and reward reviewer effort and reliability.
 
-**5. Quality control of the peer review**  
-**Challenge:**Ensuring consistency and fairness across multiple reviewers.  
-**Mitigation:** Introduce a review moderation system or involve meta-reviewers who assess the quality of peer reviews. Use rubrics and training materials to standardize expectations.
+**5. Quality control of the peer-review**  
+**Challenge:** Ensuring consistency and fairness across multiple reviewers.  
+**Mitigation:** Introduce a review moderation system or involve meta-reviewers who assess the quality of peer-reviews. Use rubrics and training materials to standardize expectations.
 
 ## Evaluating success
 
 **How to assess effects/outcomes – Data to collect**  
   
 * **Results of Shadow Experiments**  
-  + Compare outcomes of distributed peer review with traditional review within the same call.  
+  + Compare outcomes of distributed peer-review with traditional review within the same call.  
   + Analyze **agreement rates** between the two methods (e.g., overlap in selected proposals).  
   
 * **Review Quality Metrics**  
@@ -152,23 +152,23 @@ Pearson. H. (2025). How to speed up peer review: make applicants mark one anothe
 
 ## Case examples and literature
 
-The **Volkswagen Foundation** has been experimenting with distributed peer review for some time. More information can be found at: [https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method](https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method) 
+The **Volkswagen Foundation** has been experimenting with distributed peer-review for some time. More information can be found at: [https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method](https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method) 
 
 The **Humboldt Foundation** has been experimenting with a linked concept, namely Review Circle. In Review Circles, instead of two separate written reviews per application, a group of six to ten reviewers compare and discuss several applications on a protected digital platform. More information can be found at: [https://www.humboldt-foundation.de/en/explore/figures-and-statistics/evaluation/evaluation-of-the-2022-peer-circle-experiment](https://www.humboldt-foundation.de/en/explore/figures-and-statistics/evaluation/evaluation-of-the-2022-peer-circle-experiment) 
 
-The **Alexander von Humboldt Foundation** in Germany is currently experimenting with combined peer review formats, and has already had positive experiences. Specifically, instead of requesting peer reviews for proposals separately, the review could be done combinedly on a digital, interactive platform where researchers exchange their reviews/comments and get to discuss about the quality and innovativeness of proposals. This way, the reviewers could also directly compare the proposals with each other and rank them. [https://www.humboldt-foundation.de/en/explore/figures-and-statistics/evaluation/evaluation-of-the-2022-peer-circle-experiment](https://www.humboldt-foundation.de/en/explore/figures-and-statistics/evaluation/evaluation-of-the-2022-peer-circle-experiment) 
+The **Alexander von Humboldt Foundation** in Germany is currently experimenting with combined peer-review formats, and has already had positive experiences. Specifically, instead of requesting peer-reviews for proposals separately, the review could be done combinedly on a digital, interactive platform where researchers exchange their reviews/comments and get to discuss about the quality and innovativeness of proposals. This way, the reviewers could also directly compare the proposals with each other and rank them. [https://www.humboldt-foundation.de/en/explore/figures-and-statistics/evaluation/evaluation-of-the-2022-peer-circle-experiment](https://www.humboldt-foundation.de/en/explore/figures-and-statistics/evaluation/evaluation-of-the-2022-peer-circle-experiment) 
 
 Iterative assessments, where proposals are submitted and may be accepted, rejected or provided with feedback for the investigators to respond to, before being re-considered for funding are also being investigated with through the indigenous funding space at the **Canadian Institutes of Health Research**. There was a similar process formerly used in the Randomized Controlled Trials Committees of their old Open Operating Grants Program called UCR (under Continuing Review), where if the committee had simple questions that could make or break a proposal, they could rate the application provisionally based on satisfactory response to the questions. If the application then fell within the funding cut-off, the applicant would receive the question(s) and have 5 business days to respond. If the response was satisfactory they would get funded, if it wasn't they would be deemed unfundable and would need to re-apply in a future competition. 
 
-The **University of Antwerp** is working on Comparative judgment (e.g. D-PAC), a concept that could be relevant when experimenting with distributive peer review. 
+The **University of Antwerp** is working on Comparative judgment (e.g. D-PAC), a concept that could be relevant when experimenting with distributive peer-review. 
 
-More experiments about distributed peer review, aplicants for funding review each other's proposals can be found from the **Research on Research Institute (RoRI)** at: 
+More experiments about distributed peer-review, aplicants for funding review each other's proposals can be found from the **Research on Research Institute (RoRI)** at: 
 [https://researchonresearch.org/volkswagen-distributed-peer-review/](https://researchonresearch.org/volkswagen-distributed-peer-review/) 
 
 # Case Studies or Implementation Examples
 
 [https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method](https://www.volkswagenstiftung.de/en/news/interview/volkswagen-foundation-experiments-new-peer-review-method) 
-Astronomy institutions (e.g. European Southern Observatory) use distributed peer review for awarding telescope observation time
+Astronomy institutions (e.g. European Southern Observatory) use distributed peer-review for awarding telescope observation time
 
 [https://doi.eso.org/10.18727/0722-6691/5147](https://doi.eso.org/10.18727/0722-6691/5147) 
 
