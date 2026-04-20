@@ -24,16 +24,21 @@ This idea is especially relevant to career assessment, either hiring or promotio
 
 ## Context and considerations
 
-This could involve asking candidated to set up a plan for development, activities, and goals, with reflective monitoring and milestone development. It could look similar to a project proposal sent for funding, but aim to propose plans for an applicant's career. Focusing the assessment process on forward and future elements can allow for development of an individual niche and enable them to follow new pathways that could be broader and/or different than traditional ones.  
+This could involve asking candidates to set up a plan for development, activities, and goals, with reflective monitoring and milestone development. It could look similar to a project proposal sent for funding, but aim to propose plans for an applicant's career. Focusing the assessment process on forward and future elements can allow for development of an individual niche and enable them to follow new pathways that could be broader and/or different than traditional ones.  
 
 ## Challenges and mitigations
 
-**Challenge:** The career and aspirations of a candidates may not be realistic or realised.  
-**Mitigation:** Focusing on feasibility of the proposed plan can help assess the possibility of implementing the plans that the assessed would like to pursue. In some cases, having a discussion with the applicant on available resources and infrastructures could help applicants build a more informed and balanced plan before they apply. 
+**Challenge:** The career aspirations of candidates may not be realistic.  
+**Mitigation:** Focusing on feasibility of the proposed plan can help assess the possibility of implementing the plan that the assessed would like to pursue. In some cases, having a discussion with the applicant on available resources and infrastructures could help applicants build a more informed and balanced plan before they apply. 
 
 ## Evaluating success
 
 ## Related CoARA commitments
+
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+CoARA Commitment 3 - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index  
+CoARA Commitment 4 - Avoid the use of rankings of research organisations in research assessment  
+
 
 # Relevant resources and literature 
 
@@ -43,7 +48,7 @@ This section includes resources, literature, and reports relevant to this specif
 
 ## Case examples and literature
 
-Some universities base career promotion on self-determined plans where researchers establish their desired goals and objectives and are assessed on these defined goals later in their career. This is the cade for the Career path and evaluation policy for Professorial Staff (ZAP) at Ghent University, for example (see [here](https://www.ugent.be/plone_portal/en/work/mobility-career/career-aspects/professorial-staff) and [here](https://sfdora.org/resource/ghent-university/)). 
+Some universities base career promotion on self-determined plans where researchers establish their desired goals and objectives and are assessed on these defined goals later in their career. This is the case for the Career path and evaluation policy for Professorial Staff (ZAP) at Ghent University, for example (see [here](https://www.ugent.be/plone_portal/en/work/mobility-career/career-aspects/professorial-staff) and [here](https://sfdora.org/resource/ghent-university/)). 
 
 The Dutch Recognition and Reward programme also supports a similar self-defined career path which could enable forward-looking assessments (see [here](https://recognitionrewards.nl/about/position-paper/)).
 
