@@ -18,7 +18,7 @@ image: false
 
 ## Context and considerations
 
-Users may wish to refer to the idea entitled [Evaluating the idea only](https://eui-library.github.io/coara-idea-catalogue/ideas/evaluating-the-idea-only/index.html).  
+Users may wish to refer to the idea entitled [Evaluating the idea only](../evaluating-the-idea-only/index.qmd).  
 
 ## Challenges and mitigations
 

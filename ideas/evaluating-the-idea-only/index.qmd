@@ -24,7 +24,7 @@ This applies specifically to project funding where research ideas are central to
 
 This idea could be implemented by stressing with reviewers that the evaluation should be performed only on the proposed idea and related elements.
 
-Another possible way to address this idea may be to perform a 'blind' review where the assessors do not know who the applicant is, but the eligibility criteria are assessed initially. In such a blind review, the focus of the evaluation can rest on any decided criteria. See the associated idea on [Double Blind Peer-Review](https://eui-library.github.io/coara-idea-catalogue/ideas/double-blind-peerreview/index.html) for more information.
+Another possible way to address this idea may be to perform a 'blind' review where the assessors do not know who the applicant is, but the eligibility criteria are assessed initially. In such a blind review, the focus of the evaluation can rest on any decided criteria. See the associated idea on [Double Blind Peer-Review](../double-blind-peerreview/index.qmd) for more information.
 
 ## Challenges and mitigations
 

@@ -20,13 +20,13 @@ This idea is especially relevant for career progression assessment, although it 
 
 ## Context and considerations
 
-This idea reflects one of the core element of the SCOPE Framework (see [related idea](https://eui-library.github.io/coara-idea-catalogue/ideas/scope-framework/index.html)). 
+This idea reflects one of the core element of the SCOPE Framework (see [related idea](../scope-framework/index.qmd)). 
 
 ## Challenges and mitigations
 
 **Challenge:** Possibility of bias of the evaluation criteria selected by applicants to favour a positive assessment (i.e., based on current strengths rather than on real values).  
-**Mitigation:** Building an in-depth criteria setting activity that looks at values could help support more deliberate and value-based assessment (see [associated idea](https://eui-library.github.io/coara-idea-catalogue/ideas/valuebased-assessment/index.html)). For shared assessment criteria, involving multiple individuals in deciding assessment processes and criteria can also help circumvent this challenge as it would allow individuals to come to a shared agreement on what the value and what is important to them. Nevertheless, allowing for a plurality of assessment can also have advantages in promoting diversity and meaningfulness.  
-**Mitigation:** Another mitigation may be to get individuals to set assessment criteria as goals, pushing and motivating them towards future skills, achievements, and performances that are valuable to them. The idea on9forward-looking assessment](https://eui-library.github.io/coara-idea-catalogue/ideas/forward-looking-assessment/index.html) contains more details on this, including examples from some organisations who already undertake these self-defined goals in their promotion processes. 
+**Mitigation:** Building an in-depth criteria setting activity that looks at values could help support more deliberate and value-based assessment (see [associated idea](../valuebased-assessment/index.qmd)). For shared assessment criteria, involving multiple individuals in deciding assessment processes and criteria can also help circumvent this challenge as it would allow individuals to come to a shared agreement on what the value and what is important to them. Nevertheless, allowing for a plurality of assessment can also have advantages in promoting diversity and meaningfulness.  
+**Mitigation:** Another mitigation may be to get individuals to set assessment criteria as goals, pushing and motivating them towards future skills, achievements, and performances that are valuable to them. The idea on9forward-looking assessment](../forward-looking-assessment/index.qmd) contains more details on this, including examples from some organisations who already undertake these self-defined goals in their promotion processes. 
 
 ## Evaluating success
 

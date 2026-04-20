@@ -19,7 +19,7 @@ image: false
 
 ## Research domains
 
-This is applicable to any domain where assessors are asked to assess and compare qualitative information, notably relevant in the case of narrative CV assessment (see [associated idea](https://eui-library.github.io/coara-idea-catalogue/ideas/narrative-cvs/index.html)), but it can be relevant to individual and project assessment alike.
+This is applicable to any domain where assessors are asked to assess and compare qualitative information, notably relevant in the case of narrative CV assessment (see [associated idea](../narrative-cvs/index.qmd)), but it can be relevant to individual and project assessment alike.
 
 ## Context and considerations
 

@@ -21,10 +21,10 @@ This is especially relevant for funding evaluation, especially when assessing im
 ## Context and considerations
 
 This idea is connected with the following ideas where further details can be found:
-- [Community impact evaluation](https://eui-library.github.io/coara-idea-catalogue/ideas/community-impact-evaluation/index.html)
-- [Multidimensional “diversity” in evaluation committees](https://eui-library.github.io/coara-idea-catalogue/ideas/multidimensional-diversity-in-evaluation-committees/)
-- [Non-expert panels](https://eui-library.github.io/coara-idea-catalogue/ideas/nonexpert-panels/)
-- [Research users impacted as evaluators](https://eui-library.github.io/coara-idea-catalogue/ideas/research-users-impacted-as-evaluators/)
+- [Community impact evaluation](../community-impact-evaluation/index.qmd)
+- [Multidimensional “diversity” in evaluation committees](../multidimensional-diversity-in-evaluation-committees/index.qmd)
+- [Non-expert panels](../nonexpert-panels/index.qmd)
+- [Research users impacted as evaluators](../research-users-impacted-as-evaluators/index.qmd)
 
 
 ## Challenges and mitigations

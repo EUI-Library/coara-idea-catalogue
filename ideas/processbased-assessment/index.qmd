@@ -26,7 +26,7 @@ In this idea, the details of the methodology and research process take precedenc
 - a statement on open research methodologies and principles followed by the project  
 - a statement on research integrity indicators and elements included to foster integrity (e.g., pre-registration, plan for publication of negative results, etc.)  
 - a data provenance review process  
-- an EDI action plan (see [related idea](https://eui-library.github.io/coara-idea-catalogue/ideas/evaluation-of-edi-action-plan/index.html))
+- an EDI action plan (see [related idea](../evaluation-of-edi-action-plan/index.qmd))
 
 Funders may wish to monitor, for example in mid term review, whether these elements have been followed. The mid-term review process could also include a research culture and integrity discussion with the investigatore. Note: The latter currently happens mostly during the assessment process.  
 

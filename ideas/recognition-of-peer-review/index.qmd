@@ -28,7 +28,7 @@ Recognition of peer review can target journal peer-review, book review, thesis r
 ## Challenges and mitigations
 
 **Challenge:** if peer review is only acknowledged numerically, there is a risk that it becomes a quantitative metric devoid of meaning.  
-**Mitigation:** Finding different ways of making peer review more open (see [related idea](https://eui-library.github.io/coara-idea-catalogue/ideas/fully-open-peerreview/index.html)) would bring more qualitative elements to the peer review recognition, on top of increasing the openness and enabling more learning and research opportunities from the reviews process.
+**Mitigation:** Finding different ways of making peer review more open (see [related idea](../fully-open-peerreview/index.qmd)) would bring more qualitative elements to the peer review recognition, on top of increasing the openness and enabling more learning and research opportunities from the reviews process.
 
 ## Evaluating success
 
