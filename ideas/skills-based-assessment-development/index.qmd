@@ -4,7 +4,7 @@ author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
 categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic Institution", "Target: Research Group", "Target: Meta-researcher"]
-description: "Focusing assessment and/or career development on skills and competencies rather than on outputs and pas achievements."
+description: "Focusing assessment and/or career development on skills and competencies rather than on outputs and past achievements."
 image: false
 ---
 
@@ -33,9 +33,9 @@ Unlike most careers where skills and experiences are the core elements necessary
 
 ## Related CoARA commitments
 
-CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research
-CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes  
 
 # Relevant resources and literature 
 
