@@ -12,14 +12,17 @@ image: false
 
 ## Objectives and potential outcome
 
-- Brings more diversity and plurality in the academic ecosystem and career models
-- Promotes more collaboration between academic and other sectors
-- Makes Universities/institutions “actors of change” through developing people as “actors of change”
-- Makes the academic sector more approachable/attractive for everyone (esp. People that don’t know it)
+Using hiring as a site for experimentation can mean embedding a variety of other experimental ideas in the hiring process. This can be done on various levels and for various objectives. For example, it could aim to: 
+- Bring more diversity and plurality in the academic ecosystem and career models
+- Promote more collaboration between academic and other sectors
+- Make Universities/institutions “actors of change” through developing people as “actors of change”
+- Make the academic sector more approachable/attractive for everyone (esp. People that don’t know it)
 
 :::
 
 ## Research domains
+
+This idea is relevant for a variety of domains.
 
 ## Context and considerations
 
@@ -27,60 +30,53 @@ This idea is especially relevant for **institutional hiring**, and **career deve
 
 Preparation and guidance is key, as well as a clear/transparent process. This is crucial given the implication of hiring decisions on individuals' lives. 
 
-Regulations must be adhered to, but also potentially modified to fit. Yet, fairness needs to remain a crucial element for consideration in any processes, and experimental changes should probably be avoided within a single call to ensure consistent evaluation of candidates within a call.  
+Regulations must be adhered to, but also potentially modified to fit. Yet, fairness needs to remain a crucial element for consideration in any process, and experimental changes should probably be avoided within a single call to ensure consistent evaluation of candidates within a call.  
   
 **Hiring as a site for experimentation could be used in many different ways. For example, this could take the form of:**  
 
-* Developing people more broadly, or mainly evaluating people for a more broad profile  
-* Tandem professorship (exists in Germany) - How to ensure that people aren’t only covering the typical aspects of research (and education to a lesser extent)   
-* Bringing people with different career paths into academia (e.g. industry, public sector, practitioners)  
-* Can also be potentially two people with different expertises collaborating  
+* Developing people more broadly, or evaluating people with broader profile  
+* Tandem professorship (See for example [how this is implemented at Osnabrück UAS](https://www.hs-osnabrueck.de/en/wir/jobs-und-karriere/karriereziel-haw-professur/mein-weg-in-die-haw-professur/gain-professional-experience/tandem-professorship/) in Germany) 
+  + Tandem professorship can help ensure that people aren’t only covering the typical aspects of research (and education to a lesser extent)   
+  + It can also be achieved by bringing people with different career paths into academia (e.g. industry, public sector, practitioners)  
+  + It can also be achieved by joining together people with different expertise  
 * Intersectoral mobility between academia and other domains
 * Look at the overall strategy/needs of the unit rather than at individual level - don’t think individually, more systematically
   + First step: teams/groups need to learn how to think about their development as a group - “what do we need in the system/unit?”
 * Expanding career models  
-  + Start with Junior professorship (academic path) - acquire experience in the next years - either academic or joint between academic/industry - building a more broad set of skills
+  + Start with Junior professorship (academic path) - acquire experience in the next years - either academic or joint between academic/industry - building a broader set of skills
 * Rethinking the hiring requirements  
-  + e.g., Teaching and research are equally important - but education is “forgotten” in hiring - Narrative CV developed to abolish distinction between teaching/research - all professors (even those focusing on research) must teach as part of hiring procedure  
+  + e.g. teaching and research are equally important - but education is “forgotten” in hiring - Narrative CV developed to abolish distinction between teaching/research - all professors (even those focusing on research) must teach as part of hiring procedure  
 
 ## Challenges and mitigations
 
-Entry into an academic career - person hired stays a really long time!
-Career development requirements and incentives - mandatory staying up-to-date
-Careful with quality assurance and career model fitting
-
-* **Challenge:** Regulations around are quite strict, hard to experiment
-* **Mitigation:**
-  + Easier to evaluate “what everyone knows” - people want to be careful  
-
-* **Challenge:** Hiring committee needs to be targeted for guidance/process change
+* **Challenge:** Regulations around hiring practices are quite strict, making it hard to experiment.
+* **Mitigation:** As a first step, it may be easier to evaluate “what everyone knows”, experimenting on knowledge and assumptions about hiring and career. It may then be useful to target hiring committee for guidance/process change.  
+  
+* **Challenge:** 
 * **Mitigation:**
   + Building good guidance and process for assessment should be standard practice even without experimentation. 
 
-* **Challenge:** Hiring committee is very diverse - rules about who is represented are strict
-* **Mitigation:** 
-  + The composition can be modified - e.g. person focusing on EDI, etc.. 
-  + More training for hiring committees - e.g. assessment reform  
+* **Challenge:** Hiring committee is very diverse, with strict rules about who is represented.
+* **Mitigation:** The composition of the committees can be modified while keeping a representation (e.g. adding person focusing on EDI). More training for hiring committees can also be useful if the composition of the committees cannot be changed.
 
-* **How to get more diverse people in the hiring committees?**
-* **Mitigation:**
-  + Depends on institutional regulations - these can potentially be modified. 
-  + Need to have enough diverse people in the institution to make it work (look at the issues getting gender diversity on committees with few women having to do everything)  
+* **Challenge:** It can be difficult to get more diverse people in the hiring committees.
+* **Mitigation:** Depending on institutional regulations, hiring committee composition can potentially be modified. However, the 'burden of inclusion' should also be taken into account. In other words, there needs to be enough diverse people in the institution for them to be included in several committees to avoid imposing an additional burden on them by increasing their representation and work in committees (i.e. asking underrepresented individuals to contribute to committees can create substantial additional work on them, reducing their other capacities and increasing the gap further).  
   
-* **Challenge:** How to reach more diverse people and make them apply?
-* **Mitigation:** 
-  + Using network with other sectors (e.g. industry) - people are usually interested in working part time, or trying an academic career again
-  + Fostering intersectoral mobility
+* **Challenge:** It can be difficult to reach more diverse people and make them apply to committees.
+* **Mitigation:** Increasing networks with other sectors (e.g. industry) and fostering intersectoral mobility can help with this. In fact, some people in non-academic sectors may be interested in working part time, or trying an academic career again by first accessing small work opportunities in committees.
 
-* **Challenge:** Important to be fair and transparent - Lots of rules here
-* **Mitigation:**
-  + Experimental changes should probably be avoided within a single call to ensure consistent evaluation of candidates within a call
+* **Challenge:** Important to ensure fairness and transparency. There are many rules to consider.
+* **Mitigation:** Experimental changes should probably be avoided within a single call to ensure consistent evaluation of candidates within a call
+
+* **Challenge:** Entry into an academic career can mean the person hired may stay in their career for a very long time. 
+* **Mitigation:** Implementing career development requirements and incentives, and making it mandatory to stay up-to-date could support continued career developments. However, implementing institution may need to be careful with quality assurance and career model fitting.
 
 * **Additional challenges:**
-  + There’s a fallback to just “replace what was lost” when professors leave
-  + Shouldn’t hire diverse people just for that sake, it should be towards a bigger strategic target
-  + Competitive to get a professorship - Lots of really good people who don’t fit the more diversity target - it’s tough enough to be a good researcher
-  + System level view - always need people who cover the research part to ensure the experimental elements and conclusions are sound and evidence-based
+  + There is a fallback to just “replace what was lost” when professors leave. This should be questioned further. For instance, the SCOPE framework can help with capturing what are the values and purpose behind the assessment process.  
+  + It is preferable not to hire people just for that sake of experimenting, it should be towards a bigger strategic target.  
+  + There is a competitive element in obtaining a professorship, with many of excellent candidates who do not fit the diversity targets.  
+  + Making sure that some individuals qualified to look at the research elements of the experiment can be necessary to promote conclusions that are sound and evidence-based.  
+
 
 ## Evaluating success
 
@@ -89,12 +85,11 @@ While success will depend on the objective for the experimentation, certain ques
 * Which areas are important to highlight/develop for the institution (e.g. research, teaching, and practice - maybe others) and has the experimental assessment pursued these areas?
 * Are the diverse dimensions assessed and developed in individuals or in the breadth of profiles existing in an institution?
 * Do individuals (and their skills) meet the needs coverage for the unit?
-  + Profile plan/resources plan for teams/institutes/departments/
+  + Profile plan/resources plan for teams/institutes/departments
   + Reflective evaluation on the plan (after a few years) and how the people in the unit are covering everything, and if the goals have been reached, and how the people contributed to this 
-* Do the experimental assessment promote intersectoral mobility and collaboration? (i.e., if promotion of diversity of skills and sector is valued for the assessment)
+* Does the experimental assessment promote intersectoral mobility and collaboration? (i.e., if promotion of diversity of skills and sector is valued for the assessment)
 * Are diversity distributions improved quantitatively?
-  + (e.g. how many people came from other institutions/sectors, what areas/focuses do they cover, experience level mix). 
-  + Note that it is diffcule to have “what is good”/benchmarking - if you see a few areas with high coverage and others with low, then you see the weak spots.
+  + Note that it is difficult to have “what is good” or benchmarking. Identifying areas with high coverage and others with low coverage can help identify the weak spots.
 
 ## Related CoARA commitments
 
