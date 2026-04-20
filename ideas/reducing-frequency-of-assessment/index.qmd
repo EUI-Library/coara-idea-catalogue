@@ -18,11 +18,11 @@ Reducing the frequency of assessment is meant to give room for higher quality as
 
 ## Research domains
 
-This would involve looking at the assessments currently in place and questionning whether they are really needed. This may apply especially in research institutions where repeated assessments for promotion and employment continuation generally take place. This could also relate to streamlining assessments or changing the intensity of assessment.  
+This would involve looking at the assessments currently in place and questioning whether they are really needed. This may apply especially in research institutions where repeated assessments for promotion and employment continuation generally take place. This could also relate to streamlining assessments or changing the intensity of assessment.  
 
 ## Context and considerations
 
-This would generally imply reducing how frequently researchers are assessed either by increasing the funding periods or by increasing employment duration, but it could also imply shifting the focus of intensity (full CV vs focus on one element of the process to provide feedback on selected elements) so the evaluation takes a lighter touch. For funders, this could also be part of lighter audit report requiremewnts and shifting the assessment to provide feedback rather than being based solely as an evaluative exercise.
+This would generally imply reducing how frequently researchers are assessed either by increasing the funding periods or by increasing employment duration, but it could also imply shifting the focus of intensity (full CV vs focus on one element of the process to provide feedback on selected elements) so the evaluation takes a lighter touch. For funders, this could also be part of lighter audit report requirements and shifting the assessment to provide feedback rather than being based solely as an evaluative exercise.
 
 ## Challenges and mitigations
 **Certain challenges include:**  
@@ -44,7 +44,7 @@ The SCOPE Framework for Research Evaluation mentions how crucial it is to "Evalu
 
 In their new career and evaluation policy for professional staff, Ghent University mentioned that one of their core achievements was to reduce the frequency of assessment to five years, mentioning that the higher frequency of assessment from the previous evaluation policy "put a high administrative burden on the professors and faculty staff, with a lot of paperwork to fill in, at a high evaluation frequency". More information on their motivation for change is available in the DORA case study they detailed in 2020. [https://sfdora.org/case-study/ghent-university/](https://sfdora.org/case-study/ghent-university/)
 
-At a funders level, offering grants on a longer term can also help reduce the frequency of assessment. Fer example, the Swedish Research Council [offers some grants that work on a 8-year term](https://www.vr.se/english/applying-for-funding/calls/2023-11-15-distinguished-professor-grant-within-natural-and-engineering-sciences.html) to secure funding on a longer term and enable long-term research projects
+At a funders level, offering grants on a longer term can also help reduce the frequency of assessment. For example, the Swedish Research Council [offers some grants that work on a 8-year term](https://www.vr.se/english/applying-for-funding/calls/2023-11-15-distinguished-professor-grant-within-natural-and-engineering-sciences.html) to secure funding on a longer term and enable long-term research projects
 
 
 ## Other resources
