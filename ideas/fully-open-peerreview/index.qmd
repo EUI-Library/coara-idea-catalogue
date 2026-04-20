@@ -4,7 +4,7 @@ author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
 categories: ["Level 1", "Aim: Value process", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 7", "Target: Editor and publisher", "Target: Academic Institution", "Target: Funder", "Target: Research Group", "Target: Meta-Researcher"]
-description: "Peer review in which reviewers and applicants know each other's identities. This can extend to public sharing of peer review reports."
+description: "Peer review in which reviewers and applicants know each other's identities. This can extend to public sharing of peer-review reports."
 image: false
 ---
 
@@ -12,36 +12,41 @@ image: false
 
 ## Objectives and potential outcome
 
-Some objectives and potential outcomes include:
-- Peer review can be recognised and rewarded
-- Greater responsibility of peer reviewers and accountability for the quality of their review
-- Opportunity to make peer review an educational experience (if reviews are shared publicly)
-- Possibility to monitor and ensure the openness of the diversity of reviewer pools
-- Possibility to reduce language biases by enabling applicants to explain unclear elements of their proposals
-- Potentially reduces number of appeals
-- Reduced competition in the research environment
+- Peer review can be recognised and rewarded  
+- Greater responsibility of peer-reviewers and accountability for the quality of their review  
+- Opportunity to make peer-review an educational experience (if reviews are shared publicly)  
+- Possibility to monitor and ensure the openness of the diversity of reviewer pools  
+- Possibility to reduce language biases by enabling applicants to explain unclear elements of their proposals  
+- Potentially reduces number of appeals  
+- Reduced competition in the research environment  
 
 :::
 
 ## Research domains
 
-Open peer review has been increasingly used by scientific journals. Several journals now provide reviewers' identities and/or publish their full review. While this approach is increasingly common in scientific publishing, it is not yet common practice in research funding application nor in hiring, tenure and promotion assessments. 
+Open peer-review has been increasingly used by scientific journals. Several journals now provide reviewers' identities and/or publish their full review. While this approach is increasingly common in scholarly publishing, it is not yet common practice in research funding application nor in hiring, tenure and promotion assessments. 
 
 ## Context and considerations
-Open peer review can refer to different models that aim to bring greated transparency to the review process. In some cases, the identity of reviewers is disclosed to applicants and/or published publicly. In other cases, the review reports are completely open, shared with applicants or made open publicly, this can be done with or without the reviewers' identities being disclosed. 
+Open peer-review can refer to different models that aim to bring greated transparency to the review process. In some cases, the identity of reviewers is disclosed to applicants and/or published publicly. In other cases, the review reports are completely open, shared with applicants or made open publicly, this can be done with or without the reviewers' identities being disclosed. 
 
-Several opinions and studies have been made on the impacts that such openness may have on the peer review process. In some cases, it is believed that openness prevents "reviewers ‘hiding behind’ anonymity when criticizing the work of others", but other works suggest that "reviewers may shy away from being critical in this context". Gutrie, S. 2019 ['Innovating in the Research Funding Process: Peer Review Alternatives and Adaptations'](https://academyhealth.org/publications/2019-11/innovating-research-funding-process-peer-review-alternatives-and-adaptations)) provides a useful summary of elements to be considered in open peer review, including a list of pros and cons.
+Several opinions and studies have been made on the impacts that such openness may have on the peer-review process. In some cases, it is believed that openness prevents "reviewers ‘hiding behind’ anonymity when criticizing the work of others", but other works suggest that "reviewers may shy away from being critical in this context" ([Gutrie, 2019](https://academyhealth.org/sites/default/files/innovatingresearchfundingnovember2019.pdf). Gutrie's report **[Innovating in the Research Funding Process: Peer Review Alternatives and Adaptations](https://academyhealth.org/publications/2019-11/innovating-research-funding-process-peer-review-alternatives-and-adaptations)** provides a useful summary of elements to be considered in open peer-review, including a list of pros and cons.
 
-UK Research and Innovation (UKRI)'s [Review of Peer Review](https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/) suggests that open peer review "are expected to lead to increased accountability, challenging unjust reviews, giving applicants more voice in the process and increasing overall review quality." They also conclude that since an open peer review system may enable applicants to clarify misunderstandings and some of the application’s content, they may help reduce biases where English (or the local language) is not the applicant's first language.
+UK Research and Innovation (UKRI)'s [Review of Peer Review](https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/) suggests that open peer-reviews "are expected to lead to increased accountability, challenging unjust reviews, giving applicants more voice in the process and increasing overall review quality." They also conclude that since an open peer-review system may enable applicants to clarify misunderstandings and some of the application’s content, they may help reduce biases where English (or the local language) is not the applicant's first language.
 
 ## Challenges and mitigations
 
-**Challenge:** One challenge from open peer review is that it can reduce the honesty of reviewers who have concerns - make reviewers avoid raising issues, especially if the application is from someone renowned in their expertise.  
+**Challenge:** One challenge from open peer-review is that it can reduce the honesty of reviewers who have concerns - make reviewers avoid raising issues, especially if the application is from someone renowned in their expertise.  
 **Mitigation:** A review process that contains more detailed questions may circumvent this problem, encouraging reviewers to be as honest as possible on more specific and direct questions, thereby transposing the personal responsibility to the review process. 
 
 ## Evaluating success
 
 ## Related CoARA commitments
+
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes  
+CoARA Commitment 7 - Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use  
+
 
 # Relevant resources and literature 
 
@@ -57,13 +62,13 @@ Examples of fully open Peer Review exist among scientific journals, for instance
 
 ## Other resources
 
-Ross-Hellauer, T. (2017) What is open peer review? A systematic review *F1000Research* 6:588. [https://doi.org/10.12688/f1000research.11369.2](https://doi.org/10.12688/f1000research.11369.2)
+Ross-Hellauer, T. (2017). What is open peer-review? A systematic review. *F1000Research*, 6:588. [https://doi.org/10.12688/f1000research.11369.2](https://doi.org/10.12688/f1000research.11369.2)
 
 Liu, Y., Li, S. & Rousseau, R. (2026). Peer review for funding decisions. *Journal of Data and Information Science*, 11(1). [https://doi.org/10.2478/jdis-2025-0050](https://doi.org/10.2478/jdis-2025-0050)
 
-Gutrie, S. 2019 ['Innovating in the Research Funding Process: Peer Review Alternatives and Adaptations'](https://academyhealth.org/publications/2019-11/innovating-research-funding-process-peer-review-alternatives-and-adaptations)
+Gutrie, S. (2019). ['Innovating in the Research Funding Process: Peer Review Alternatives and Adaptations'](https://academyhealth.org/publications/2019-11/innovating-research-funding-process-peer-review-alternatives-and-adaptations)
 
-UKRI (2023). Review of peer review. [https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/](https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/)
+UKRI (2023). Review of peer-review. [https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/](https://www.ukri.org/publications/review-of-peer-review/review-of-peer-review-june-2023/)
 
 # Case Studies or Implementation Examples
 
