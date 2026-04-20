@@ -16,7 +16,7 @@ image: false
 - Foster transparency of the evaluation process
 - Add potential benefits to the review process (e.g. building collaborative links between evaluators and applicants)
 - Diversifying the reviewer pool along equity and subject matter grounds 
-- Broaden who is considered an expert reviewer beyond traditional 
+- Broaden who is considered an expert reviewer beyond traditional definitions  
 
 :::
 
@@ -77,6 +77,9 @@ Diverse elements can be considered to evaluate the success of the experiment, in
 - Specific purpose-built (based on objective for the assessment) indicator of the quality of assessment
 
 ## Related CoARA commitments
+
+CoARA Commitment 1 - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
 
 # Relevant resources and literature 
 
