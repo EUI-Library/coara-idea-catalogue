@@ -33,17 +33,17 @@ Such roles exist in several frameworks (e.g. **ERC Independent Observers**, **UK
 
 ## Challenges and mitigations
 
-**Challenge 1: Maintaining neutrality and confidentiality**  
-- *Mitigation:* Observers sign confidentiality agreements and receive brief training on impartiality and ethics. Reports are anonymised and reviewed only by process oversight committees.
+**Challenge:** Maintaining neutrality and confidentiality  
+**Mitigation:** Observers sign confidentiality agreements and receive brief training on impartiality and ethics. Reports are anonymised and reviewed only by process oversight committees.
 
-**Challenge 2: Limited understanding of observer’s role by panel members**  
-- *Mitigation:* Provide short briefing materials clarifying that the observer is non-evaluative and ensures procedural fairness rather than content judgment.
+**Challenge:** Limited understanding of observer’s role by panel members  
+**Mitigation:** Provide short briefing materials clarifying that the observer is non-evaluative and ensures procedural fairness rather than content judgment.
 
-**Challenge 3: Resistance or perception of “control”**  
-- *Mitigation:* Emphasise the observer’s supportive role in improving quality and transparency of the process, not auditing individuals.
+**Challenge:** Resistance or perception of “control”  
+**Mitigation:** Emphasise the observer’s supportive role in improving quality and transparency of the process, not auditing individuals.
 
-**Challenge 4: Resource allocation**  
-- *Mitigation:* Pilot in selected panels; rotate observers among institutions; share training resources and templates as open materials (OER).
+**Challenge 4:** Resource allocation  
+**Mitigation:** Pilot in selected panels; rotate observers among institutions; share training resources and templates as open materials (OER).
 
 ## Evaluating success
 
@@ -54,6 +54,11 @@ Success could manifest through:
 - Adoption of observer reports in institutional quality assurance and CoARA-related assessment reforms.
 
 ## Related CoARA commitments
+
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators   
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes  
+CoARA Commitment 7 - Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use  
+CoARA Commitment 10 - Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research  
 
 # Relevant resources and literature 
 
