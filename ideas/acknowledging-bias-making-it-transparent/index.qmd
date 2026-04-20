@@ -36,9 +36,8 @@ Yet, conflicts of interests are generally linked to financial and observable int
 
 ## Related CoARA commitments
 
-This experiment targets:
-- CoARA Commitment 2 = Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
-- CoARA Commitment 6 = Review and develop research assessment criteria, tools and processes
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes
 
 # Relevant resources and literature 
 
@@ -46,7 +45,7 @@ The Harvard Implicit Bias test is increasingly used in research institutions and
 
 "Journals and Funders Confront Implicit Bias in Peer Review" [https://www.aaas.org/news/journals-and-funders-confront-implicit-bias-peer-review](https://www.aaas.org/news/journals-and-funders-confront-implicit-bias-peer-review)
 
-*"Identifying Implicit Bias in Grant Reviews"* [https://iaphs.org/identifying-implicit-bias-grant-reviews/] (https://iaphs.org/identifying-implicit-bias-grant-reviews/)
+*"Identifying Implicit Bias in Grant Reviews"* [https://iaphs.org/identifying-implicit-bias-grant-reviews/](https://iaphs.org/identifying-implicit-bias-grant-reviews/)
 
 [PREreview](https://prereview.org/), a peer review platform to support open preprint reviews, made a [video](https://www.youtube.com/watch?v=xS0PCuO75IQ) and [resources](https://zenodo.org/search?q=keywords%3A%22open%20grant%20reviewers%22&l=list&p=1&s=10&sort=bestmatch) on bias which could be useful in creating more awareness and building tools to identify and declare biases in review processes.
 
