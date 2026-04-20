@@ -20,6 +20,13 @@ This is especially relevant for funding evaluation, especially when assessing im
 
 ## Context and considerations
 
+This idea is connected with the following ideas where further details can be found:
+- [Community impact evaluation](https://eui-library.github.io/coara-idea-catalogue/ideas/community-impact-evaluation/index.html)
+- [Multidimensional “diversity” in evaluation committees](https://eui-library.github.io/coara-idea-catalogue/ideas/multidimensional-diversity-in-evaluation-committees/)
+- [Non-expert panels](https://eui-library.github.io/coara-idea-catalogue/ideas/nonexpert-panels/)
+- [Research users impacted as evaluators](https://eui-library.github.io/coara-idea-catalogue/ideas/research-users-impacted-as-evaluators/)
+
+
 ## Challenges and mitigations
 
 ## Evaluating success
@@ -30,21 +37,23 @@ This is especially relevant for funding evaluation, especially when assessing im
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
 
-Junwen Luo, Lai Ma, Kalpana Shankar, Does the inclusion of non-academic reviewers make any difference for grant impact panels?, Science and Public Policy, Volume 48, Issue 6, December 2021, Pages 763–775, <https://doi.org/10.1093/scipol/scab046>.
-
-Junwen Luo (2021, 25 August), What role should non-academics have in evaluating the potential impact of new research projects? LSE Impact Blog, Available [here](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/25/what-role-should-non-academics-have-in-evaluating-the-potential-impact-of-new-research-projects/).
-
-Baxter S, Clowes M, Muir D, Baird W, Broadway-Parkinson A, Bennett C. (2016) Supporting public involvement in interview and other panels: a systematic review. Health Expect, 20(5). p. 807-817. <https://doi.org/10.1111/hex.12491>.
-
-A blog post that describes the experience as a public member of a research funding panel: Adam Forristal Golberg (2025, 25 February), A peek inside a research funding panel, *Cash for Questions: Research funding, policy and development*, <https://socialscienceresearchfunding.co.uk/?p=1455>.
-
 ## Templates from funders and institutions 
 
 ## Case examples and literature
 
 Several funders involve members of the public in their review panels, see for example [NIHR](https://www.nihr.ac.uk/get-involved/read-and-review-documentation/public-reviewers) and [Health Research Board Ireland](https://www.hrb.ie/funding/responsible-research-assessment/public-and-patient-involvement-in-research/ppi-information-for-the-public/).
 
+Luo, J., Ma, L., Shankar, K. (2021). **[Does the inclusion of non-academic reviewers make any difference for grant impact panels?](https://doi.org/10.1093/scipol/scab046). *Science and Public Policy*, 48(6), pp. 763–775.
+
+Junwen Luo (2021, 25 August), **[What role should non-academics have in evaluating the potential impact of new research projects?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/25/what-role-should-non-academics-have-in-evaluating-the-potential-impact-of-new-research-projects/)** LSE Impact Blog .
+
+Baxter S, Clowes M, Muir D, Baird W, Broadway-Parkinson A, Bennett C. (2016). **[Supporting public involvement in interview and other panels: a systematic review](https://doi.org/10.1111/hex.12491)**. *Health Expect*, 20(5). p. 807-817.
+
+A blog post that describes the experience as a public member of a research funding panel: Adam Forristal Golberg (2025, 25 February), **[A peek inside a research funding panel](https://socialscienceresearchfunding.co.uk/?p=1455)**. *Cash for Questions: Research funding, policy and development*.
+
+
 ## Other resources
+
 
 # Case Studies or Implementation Examples
 
