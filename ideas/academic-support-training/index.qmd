@@ -110,6 +110,9 @@ If no mitigation: Use qualitative feedback and case studies as alternative metri
 
 ## Related CoARA commitments
 
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes  
+
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
