@@ -3,7 +3,7 @@ title: "Making all science anonymous"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Collaboration", "Aim: Alternative questions", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Individual scholar", "Target: Meta-Researcher", "Target: Editor and publisher"]
+categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Collaboration", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Individual scholar", "Target: Meta-Researcher", "Target: Editor and publisher"]
 description: "Dropping all names from research proposals, research outputs, etc. so that science becomes a common and community-driven initiatve, with no individual reputational goals or gain."
 image: false
 ---
@@ -30,6 +30,11 @@ This idea is probably beyond the possibilities of current research assessment sy
 
 ## Related CoARA commitments
 
+CoARA Commitment 3 - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index  
+CoARA Commitment 4 - Avoid the use of rankings of research organisations in research assessment  
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes  
+
+
 # Relevant resources and literature 
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
@@ -40,7 +45,7 @@ This section includes resources, literature, and reports relevant to this specif
 
 ## Other resources
 
-Neuroskeptic. (2013). Anonymity in science. *Trends in Cognitive Sciences*, 17(5), 195–196.[https://doi.org/https://doi.org/10.1016/j.tics.2013.03.004](https://doi.org/https://doi.org/10.1016/j.tics.2013.03.004)
+Neuroskeptic. (2013). Anonymity in science. *Trends in Cognitive Sciences*, 17(5), 195–196.[https://doi.org/10.1016/j.tics.2013.03.004](https://doi.org/10.1016/j.tics.2013.03.004)
 
 Background arguments can also be found in Frazzetto, G. (2004). Who did what? Uneasiness with the current authorship is prompting the scientific community to seek alternatives. *EMBO Reports*, 5(5), 446–448. [https://doi.org/10.1038/sj.embor.7400161](https://doi.org/10.1038/sj.embor.7400161 )
 
