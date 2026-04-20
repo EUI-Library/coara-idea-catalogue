@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: docs
-
+  resources: 
+    - CNAME
 website:
   title: "Experiments in Assessment Idea Catalogue"
+  site-url: experiments.coara.org
   favicon: images/favicon-180x180-1-150x150.png
   search: 
     location: navbar
