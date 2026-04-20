@@ -41,25 +41,24 @@ Experiments on mentee evaluation can take different forms and target numerous el
 
 Several challenges may impact this idea:
 
-**Challenge: Resistance from leaders** – Research leaders think they are already great leaders, and this isn’t relevant.   
+**Challenge: **Resistance from leaders – Research leaders think they are already great leaders, and this isn’t relevant.   
 **Mitigation:** Make it mandatory for new leaders  
   
-**Challenge: Creating evaluations for all staff (even if it doesn’t exist)**   
+**Challenge: ** Creating evaluations for all staff (even if it doesn’t exist)   
 **Mitigation:** Embrace a reduced frequency of assessment (See related [idea](../reducing-frequency-of-assessment/index.qmd))
 
-**Challenge: Mitigation:** Monitoring improvement and how effective this is  
+**Challenge: ** Monitoring improvement and how effective this is  
 **Mitigation:** Increased importance of HR staff - bring them into the process  
   
-**Challenge: Selection bias** – Mentors select people they know will be positive  
-**Mitigation:** Make the template clear enough to allow to 'read between the lines'  
-**Mitigation:** Assessor training (i.e., Qualitative evaluation in Pep-CV could be relevant to this, but not open in itself)  
+**Challenge:** Selection bias – Mentors select people they know will be positive  
+**Mitigation:** Make the template clear enough to allow to 'read between the lines'. Assessor training can also help with this (i.e., Qualitative evaluation in Pep-CV could be relevant to this, but not open in itself). Se related idea on [qualitative assessment training](/ideas/qualitative-assessor-training/).  
 
 ## Evaluating success
 
-Employment satisfaction surveys will show improvement
-Reduction in people leaving teams/research groups due to poor leadership
-Leaders feel more comfortable in the role
-Evaluations will have more leadership components to them when applicable (e.g. hiring leaders, promotion to leadership, grants around leading groups)
+- Employment satisfaction surveys will show improvement.  
+- Reduction in people leaving teams/research groups due to poor leadership.  
+- Leaders feel more comfortable in the role.  
+- Evaluations will have more leadership components to them when applicable (e.g. hiring leaders, promotion to leadership, grants around leading groups).
 
 ## Related CoARA commitments
 
@@ -71,14 +70,13 @@ Evaluations will have more leadership components to them when applicable (e.g. h
 
 This section includes resources, literature, and reports relevant to this specific experimental idea.
 
-Vitae Reseacher Development Framework - competence framework for researchers
-Competence frameworks for research managers - (https://research-and-innovation.ec.europa.eu/jobs-research/rm-comp-european-competence-framework-research-managers_en#other-eu-competence-frameworks)[https://research-and-innovation.ec.europa.eu/jobs-research/rm-comp-european-competence-framework-research-managers_en#other-eu-competence-frameworks]
+Vitae [Reseacher Development Framework - competence framework for researchers](https://vitae.ac.uk/vitae-researcher-development-framework/) and [Competence frameworks for Research Managers](https://research-and-innovation.ec.europa.eu/jobs-research/rm-comp-european-competence-framework-research-managers_en#other-eu-competence-frameworks)
 
 ## Templates from funders and institutions 
 
 ## Case examples and literature
 
-FNR Mentee evaluation provides gender balanced list of former mentees, FNR decides on two, sends them an evaluation template to them - (https://www.researchluxembourg.org/en/research-landscape/research-culture/mentorship-charter/)[https://www.researchluxembourg.org/en/research-landscape/research-culture/mentorship-charter/]
+[FNR Mentee evaluation](https://www.researchluxembourg.org/en/research-landscape/research-culture/mentorship-charter/) provides gender balanced list of former mentees, FNR decides on two, sends them an evaluation template to them.
 
 ## Other resources
 
