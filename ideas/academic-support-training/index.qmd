@@ -44,31 +44,31 @@ Implications for Training Design:
   
 ## Challenges and mitigations
 
-**Challenge: Resistance to culture change among staff and researchers**   
+**Challenge:** Resistance to culture change among staff and researchers   
 **Mitigation:**   
 - Implement phased, trajectory-based training to gradually build acceptance.  
 - Use champions or early adopters to promote benefits and share success stories.  
 - Provide incentives and recognize participation.  
 
-**Challenge: Diverse baseline knowledge and engagement levels across staff roles (HR, researchers, administrators)**  
+**Challenge:**  Diverse baseline knowledge and engagement levels across staff roles (HR, researchers, administrators)  
 **Mitigation:**  
 - Customize training content by role and career stage.  
 - Use modular and flexible formats (self-paced online, live sessions).   
 If no mitigation: Assess user needs prior to design.  
 
-**Challenge: Lack of time and resources for staff to participate fully**  
+**Challenge: **Lack of time and resources for staff to participate fully  
 **Mitigation:**  
 - Integrate training into existing professional development frameworks.  
 - Provide microlearning options to reduce time burden.  
 If no mitigation: Seek management support for protected training time.  
 
-**Challenge: Measuring effectiveness and impact of interventions meant to change research culture**  
+**Challenge:** Measuring effectiveness and impact of interventions meant to change research culture  
 **Mitigation:**  
 - Define clear KPIs and collect pre/post-training feedback.  
 - Use longitudinal tracking of behavior and assessment outcomes.  
 If no mitigation: Use qualitative feedback and case studies as alternative metrics.  
 
-**Challenge: Ensuring sustained engagement throughout the research lifecycle**  
+**Challenge:** Ensuring sustained engagement throughout the research lifecycle   
 **Mitigation:**  
 - Design ongoing support and refresher training sessions.  
 - Implement mentoring and peer support networks.  
