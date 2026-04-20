@@ -23,7 +23,7 @@ This is applicable to any domain where assessors are asked to assess and compare
 
 ## Context and considerations
 
-Experiments in building and providing training for assessors could look at effectiveness of the training in making mor reliable qualitative assessment (as recommended in [this review](https://f1000research.com/articles/14-1345)). This could investigate assessor confidence in assessing qualitative information, repeated scoring consistency, or any other elements that may impact evaluation reliability after the training has been followed.
+Experiments in building and providing training for assessors could look at effectiveness of the training in making more reliable qualitative assessment (as recommended in [this review](https://f1000research.com/articles/14-1345)). This could investigate assessor confidence in assessing qualitative information, repeated scoring consistency, or any other elements that may impact evaluation reliability after the training has been followed.
 
 While training can be provided by the organisation conducting the assessment, funders also report that allowing assessors to interact with one another (exchange) is useful and valuable in improving the assessment. Exchange discussions could be organised before and during assessment exercises. Assessor-to-assessor (peer-to-peer) training can also help. The peer-to-peer platform PEP-CV could be relevant to look into. [https://pep-cv.mariecuriealumni.eu](https://pep-cv.mariecuriealumni.eu)  
 
