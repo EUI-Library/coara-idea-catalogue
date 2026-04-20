@@ -12,7 +12,7 @@ image: false
 
 ## Objectives and potential outcome
 
-- Create a shared vocabulary and set of principles drawn from the values of the organization or people involved
+- Create a shared vocabulary and set of principles drawn from the values of the organisation or people involved
 - Use that shared vocabulary and set of principles to evaluate research, hiring candidates, and other applications
 
 :::
@@ -23,20 +23,25 @@ A values-enacted approach can be used in any number of places, including the cha
 
 ## Context and considerations
 
-The process of creating values-based assessment begins with a conversation among the relevant parties about their own deeply-held values and the values of any relevant organizations (often found in mission statements or strategic plans). By prioritizing and agreeing upon a smaller subset of these values (usually around 5) that they are choosing to enact in this particular review process, the group can establish
+The process of creating values-based assessment begins with a conversation among the relevant parties about their own deeply-held values and the values of any relevant organisations (often found in mission statements or strategic plans). By prioritising and agreeing upon a smaller subset of these values (usually around 5) that they are choosing to enact in this particular review process, the group can establish what these values mean for them.
 
 Once the initial values are agreed-upon, these can then transform into principles, which are an answer to the question "what does this value mean for how we will undertake this work?" These principles then guide the setting of criteria for the review process.
 
 ## Challenges and mitigations
 
-**Challenge:** Values can be abstract 
-**Mitigation:** Care must be taken to make the milestones and stepping stones created by this process practical, strategic, and concrete. Additionally, sometimes an organization or set of people will value things that might be at odds with one another and/or with the larger goals of higher education; things like competition or exclusivity. 
+**Challenge:** Values can be abstract.  
+**Mitigation:** Care must be taken to make the milestones and stepping stones created by this process practical, strategic, and concrete. Additionally, sometimes an organisation or set of people will value things that might be at odds with one another and/or with the larger goals of higher education (e.g., the value of some academic settings for competition or exclusivity).
 
 ## Evaluating success
 
 In a successful iteration of this idea, the values chosen by the reviewers will be reflected in both the successful applicants to whatever the review process might be and in the process itself. If the reviewers value diversity, that will be reflected in the successful applicants, whether in terms of demographics, areas of research, geography, or otherwise. If they value openness, they may fund open access work, or provide intensive formative feedback on both successful and unsuccessful applications.
 
 ## Related CoARA commitments
+
+CoARA Commitment 2 - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+CoARA Commitment 5 - Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to  
+CoARA Commitment 6 - Review and develop research assessment criteria, tools and processes  
+
 
 # Relevant resources and literature 
 
@@ -45,6 +50,8 @@ This section includes resources, literature, and reports relevant to this specif
 ## Templates from funders and institutions 
 
 ## Case examples and literature
+
+The [SCOPE Framework](https://inorms.net/scope-framework-for-research-evaluation/) is stressing to *start with what you value*. See the related idea and resource for more details.
 
 The [Charting Pathways of Intellectual Leadership framework](https://www.tandfonline.com/doi/full/10.1080/00091383.2022.2054175) from Michigan State University
 
