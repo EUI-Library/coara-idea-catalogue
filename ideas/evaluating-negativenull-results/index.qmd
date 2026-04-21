@@ -4,7 +4,7 @@ author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
 categories: ["Level 2", "CoARA Commitment 1", "CoARA Commitment 3", "CoARA Commitment 6", "Aim: Value process", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Target: Funder", "Target: Academic institution", "Target: Meta-researcher", "Target: Editor and publisher"]
-description: "Evaluating negative and null results is a way to give visibility to the important learnings that come with experiments that did not yiels the expected findings. Allowing researchers to share null and negative results shifts the focus from outcomes to the research process, promoting learning, rigor, and integrity. It highlights skills, collaboration, and data transparency—even with inconclusive findings."
+description: "Evaluating negative and null results is a way to give visibility to the important learnings that come with experiments that did not yield the expected findings. Allowing researchers to share null and negative results shifts the focus from outcomes to the research process, promoting learning, rigor, and integrity. It highlights skills, collaboration, and data transparency—even with inconclusive findings."
 image: false
 ---
 
@@ -16,7 +16,7 @@ Objectives of evaluating negative and null results include:
 
 - Increase the openness and reporting of negative and null results  
 - Reduce publication bias towards positive results  
-- Recognize efforts of researchers beyond just what’s positive/”novel” (and peer reviewers) reduce waste from unnecessary replication  
+- Recognize efforts of researchers beyond just what is positive or "novel” (and peer reviewers) reduce waste from unnecessary replication  
 - Strengthen evidence-based practice (e.g. bad pharma - negative results show dangers and can prevent negative effects) - publication bias  
 - Reduce temptation for questionable/non-ethical practices (removal of outliers, changing data) - Enable research integrity  
 
@@ -24,7 +24,7 @@ Objectives of evaluating negative and null results include:
 
 ## Research domains
 
-This idea is relevant in a variety of contextx (hiring, promotion, funding, etc.) but is mostly applicable for hypothesis-driven research and empirical research (where n > 1).
+This idea is relevant in a variety of contexts (hiring, promotion, funding, etc.) but is mostly applicable for hypothesis-driven research and empirical research (where n > 1).
 
 ## Context and considerations
 Investing in the importance of negative results in assessments is a cultural change and it will often require a systemic experiment - not just on the evaluation itself, but on the whole practice of research. As such, a holistic approach may be needed, with everyone working together to induce the change.  
