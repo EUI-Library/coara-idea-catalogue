@@ -103,7 +103,7 @@ Mlinarić A., Horvat M., & Šupak Smolčić V. (2017) Dealing with the positive 
 
 Mehta, D. (2019). "Highlight negative results to improve science." *Nature Career*. [https://doi.org/10.1038/d41586-019-02960-3](https://doi.org/10.1038/d41586-019-02960-3)
 
-Tian, D., Hu, X., Qian, Y., & Li, J. (2024). Exploring the scientific impact of negative results. *Journal of Informetrics*, 18(1), 101481. [https://doi.org/https://doi.org/10.1016/j.joi.2023.101481](https://doi.org/https://doi.org/10.1016/j.joi.2023.101481 )
+Tian, D., Hu, X., Qian, Y., & Li, J. (2024). Exploring the scientific impact of negative results. *Journal of Infometrics*, 18(1), 101481. [https://doi.org/https://doi.org/10.1016/j.joi.2023.101481](https://doi.org/https://doi.org/10.1016/j.joi.2023.101481 )
 
 # Case Studies or Implementation Examples
 
