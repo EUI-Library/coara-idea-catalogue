@@ -101,6 +101,8 @@ While success will depend on the objective for the experimentation, certain ques
 
 # Relevant resources and literature 
 
+**Reformscape** (<https://sfdora.org/reformscape/>) is a searchable collection of criteria and standards for hiring, review, promotion, and tenure from academic institutions. it offers a broad diversity of examples that can be used as inspiration for experimenting with hiring.
+
 This section includes resources, literature, and reports relevant to this specific experimental idea (where available).
 
 ## Templates from funders and institutions 
