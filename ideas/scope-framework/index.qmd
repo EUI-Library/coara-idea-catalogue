@@ -1,10 +1,10 @@
 ---
-title: "SCOPE framework"
-author: "Experiments in Assessment WG"
+title: "SCOPE Framework"
+author: "Elizabeth Gadd, Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0"]
-description: "This is where the summary of the experiment goes - Describe the experiment in 50 words or less; Focus on why it’s important, what it is, what it does"
+categories: ["Level 0", "Aim: Value process", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions",  "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 3", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group", "Target: Individual scholar", "Target: Meta-Researcher"]
+description: "The SCOPE framework for research evaluation is a five-stage model for evaluating responsibly. It is a practical step-by-step process designed to help research managers, or anyone involved in conducting research evaluations, in planning new evaluations as well as check existing evaluations."
 image: false
 ---
 
@@ -12,38 +12,94 @@ image: false
 
 ## Objectives and potential outcome
 
-- Objective 1
-- Objective 2
+-	Implement responsible research evaluation principles to design robust evaluations  
+-	Design better value-driven research evaluation approaches   
+
+*Note: Several sentences from this idea are taken directly from the SCOPE Framework.*  
+**For full content, details, and cases, refer to the [SCOPE Framework](https://inorms.net/scope-framework-for-research-evaluation/)**  
 
 :::
 
 ## Research domains
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+This assessment can fit in any domain where individuals or research is being assessed.  
 
 ## Context and considerations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+SCOPE is an acronym, where S stands for START with what you value, C for CONTEXT considerations, O for OPTIONS for evaluating, P for PROBE deeply, and E for EVALUATE your evaluation. SCOPE can be used as a guide when changing or introducing assessment processes, or even when assessing whether assessment processes in place are adequate.  
+
+**START with what you value**   
+Begin evaluation by identifying what evaluators, evaluatees, and other stakeholders, truly value about the entity being evaluated, avoiding being driven solely by external influences or relying exclusively on available data sources to prevent the "Streetlight Effect."   
+
+**CONTEXT considerations**    
+Consider the context of your evaluation by focusing on the specifics: identify who you are evaluating (considering entity size and discipline) and why you are conducting the evaluation (i.e., for understanding, benchmarking, monitoring, incentivising behaviours, or rewarding).   
+  
+**OPTIONS for evaluating**     
+When evaluating, explore both quantitative and qualitative options. Exercise caution when using quantities to represent qualities.   
+
+**PROBE deeply**    
+In your evaluation, consider potential discrimination, gaming of the approach, unintended consequences, and weigh the cost-benefit.  
+
+**EVALUATE your evaluation**  
+Evaluate your evaluation by assessing whether it achieved its goals, considering both formative and summative aspects. Use SCOPE as a framework for evaluating your evaluation.  
+
+The five stages of SCOPE operate under three main principles: 
+
+1. **Evaluate only where necessary.** Evaluation is not always the right strategy. When it comes to incentivising behaviours, for example, it may be more fruitful to enable them than to evaluate them.  
+2. **Evaluate with the evaluated.** Any evaluation should be co-designed and co-interpreted by the communities being evaluated.    
+3. **Draw on evaluation expertise.** We should apply the same rigour to our evaluations that we apply to our academic research.   
 
 ## Challenges and mitigations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+**Challenge:** Introducing assessments that recognise (and therefore incitivise) desired behaviours can help increase the occurrence of such behaviours amongst evaluated. However, assessments do not always make these behaviours easy, and as a result the behaviours are not upheld.   
+**Mitigation:** The best incentive is sometimes to make a behaviour easy and normative, rather than to measure and reward behaviours. Consequently, before undertaking an evaluation, it is important to ask ‘Do we need to evaluate at all?’    
+  
+**Challenge:** Even if assessments are built with the best intentions, they can fail to represent the breadth and the values of the evaluated communities.  
+**Mitigation:** Including the evaluated and co-designing assessment with them – in particular being intentional about including a breadth of diverse profiles – can help support a more reflective and adequate assessment process.   
+
+**Challenge:** Assessment processes sometimes follow traditions without aiming to fulfil a specific purpose.   
+**Mitigation:** Producing a simple evaluation statement can be a helpful start, for example "We wish to evaluate X (an entity - e.g., researchers) for Y (a purpose - e.g., recruitment)" or "We wish to Y (a purpose - e.g., monitor) Z (a behaviour or quality - e.g., open research)"  
+
+**Challenge:** Sometimes assessments generate consequences that were not intended and that go against the purpose of the assessment.  
+**Mitigation:** Probing for unintended consequences while designing the assessment can help avoid or predict possible unintended consequences to monitor. The use/misuse/abuse/stress case matrix developed by Eric Meyer and Sarah Wachter-Boechtter in [Meyer, E. & S. Wachter-Boettcher. (2016) *Design for Real Life*. A Book Apart](https://abookapart.com/products/design-for-real-life.html)
 
 ## Evaluating success
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus, massa sed ullamcorper efficitur, odio ante viverra diam, a pretium lorem justo non mi. Nulla dignissim odio quam, nec hendrerit sapien varius volutpat. Pellentesque magna arcu, venenatis vel pretium et, pulvinar in purus. Aenean ornare suscipit blandit. Aliquam semper molestie enim, non molestie libero laoreet ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur libero enim, venenatis non pretium ac, dapibus a ante.
+The final stage of SCOPE is to run the evaluation, and then evaluate your evaluation. This is particularly important as often unintended consequences do not come to light until after the evaluation has been performed. You may wish to ask:
+
+- What VALUE did you get from the evaluation?    
+- In what CONTEXTS might you evaluate your evaluation?   
+- What are your OPTIONS for evaluating your evaluation?    
+- Can you PROBE the evaluation outcomes to identify any unintended consequences or discriminatory effects?   
+
+Further details and guiding questions are available in the full guide to the [SCOPE Framework](https://inorms.net/wp-content/uploads/2022/03/21655-scope-guide-v10.pdf)**
 
 ## Related CoARA commitments
 
-# Relevant resources and literature 
+- **CoARA Commitment 1** - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+- **CoARA Commitment 2** - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+- **CoARA Commitment 3** - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index  
+- **CoARA Commitment 6** - Review and develop research assessment criteria, tools and processes  
+- **CoARA Commitment 10** - Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research  
 
-This section includes resources, literature, and reports relevant to this specific experimental idea.
+# Relevant resources and literature
 
-## Templates from funders and institutions 
+**<https://inorms.net/scope-framework-for-research-evaluation/>**
+
+## Templates from funders and institutions
 
 ## Case examples and literature
 
 ## Other resources
 
+A short video introducing SCOPE can be seen at [https://vimeo.com/397209608/a9bf413c32](https://vimeo.com/397209608/a9bf413c32).
+
+Hogan, S. (2025). **[Assessment reform advocate seeks shift from metrics ‘overuse’](https://www.researchprofessionalnews.com/rr-news-uk-universities-2025-2-assessment-reform-advocate-seeks-shift-from-metrics-overuse/)**, *Research Professional* (20 February). [Discusses the use of SCOPE as a value-led alternative to metrics overuse].
+
+Himanen, L., Conte, E., Gauffriau, M., Strøm, T., Wolf, B., & Gadd, E. (2024). The SCOPE framework – implementing ideals of responsible research assessment. *F1000Research*, 12(1241). [https://doi.org/10.12688/f1000research.140810.2](https://doi.org/10.12688/f1000research.140810.2)
+
+Himanen, L. & Gadd. E. (2019). Introducing SCOPE – a process for evaluating responsibly. *The Bibliomagician*. [https://thebibliomagician.wordpress.com/2019/12/11/introducing-scope-aprocess-for-evaluating-responsibly/](https://thebibliomagician.wordpress.com/2019/12/11/introducing-scope-aprocess-for-evaluating-responsibly/)
+
 # Case Studies or Implementation Examples
 
+Many case studies of organisations and groups that used the SCOPE framework are available at <https://inorms.net/scope-framework-for-research-evaluation/>.

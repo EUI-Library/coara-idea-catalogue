@@ -1,0 +1,60 @@
+---
+title: "Assessing Research Assessment"
+author: "Experiments in Assessment WG"
+date: 2026-04-09
+date-modified: last-modified
+categories: ["Level 1", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 5", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group", "Target: Individual scholar", "Target: Meta-Researcher", "Target: Editor and Publisher"]
+description: "Assessing research assessment means making a careful evaluation to identify whether ongoing assessments are fit for purpose, or whether newly implemented research assessment have the intended impacts."
+image: false
+---
+
+::: {.callout-warning icon=false}
+
+## Objectives and potential outcome
+
+-	Reflect on the impacts that current research assessment may have on researchers and research practices   
+- Adapt assessment processes  
+- Avoid negative unintended consequences   
+
+:::
+
+## Research domains
+
+This assessment can fit in any domain where individuals or research is being assessed.  
+
+## Context and considerations
+
+Assessing and experimenting with research assessment is an important part of the ongoing reform of research assessment. Investigating the shortages and strengths of the assessments that are currently in place is important to identify what needs to change and how changes can be effectively put in place.
+
+## Challenges and mitigations
+
+## Evaluating success
+
+## Related CoARA commitments
+
+- **CoARA Commitment 3** - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index  
+- **CoARA Commitment 5** - Commit resources to reforming research assessment as is needed to achieve the organisational changes committed to  
+- **CoARA Commitment 6** - Review and develop research assessment criteria, tools and processes  
+CoARA Commitment 10 - Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research  
+
+# Relevant resources and literature
+
+## Templates from funders and institutions
+
+## Case examples and literature
+
+DORA's **'[SPACE to evolve academic assessment: A rubric for analyzing institutional conditions and progress indicators](https://sfdora.org/resource/space-to-evolve-academic-assessment-a-rubric-for-analyzing-institutional-conditions-and-progress-indicators/) can help institutions identify where they are in their journey towards responsible research assessment and gauge their ability to support interventions and set them up for success. <https://doi.org/10.5281/zenodo.4927604>
+
+The **[SCOPE Framework](https://inorms.net/scope-framework-for-research-evaluation/)**, which offers a detailed method  supports a need to evaluate your evaluation, particularly as a way to identify unintended consequences that do not come to light until after the evaluation has been performed. You may wish to ask:   
+
+UKRI Joint Funders Group and Alternative Uses Group have developed a **[Shared Evaluation Framework](https://doi.org/10.5281/zenodo.8060614)** for potential use by funders who are considering, piloting or using a narrative CV approach. 
+
+UKRI Joint Funder Group also developed an **[Equality Impact Assessment](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/research-and-innovation-culture/supporting-the-community-adoption-of-r4r-like-narrative-cvs/funding-uses-resume-resources-library/equality-impact-assessments-eias/)** and provide completion guidance on how to use it.  
+
+For universities, DORA's **["A Practical Guide to Implementing Responsible Research Assessment at Research Performing Organizations"](https://sfdora.org/resource/practical-guide/)** can help support a reflective assessment of ongoing and possible changes to research assessment practices. Activity 6 in the guide provides guidance on how one can review current research assessment practices and the following sections explain how changes can be implemented. <https://doi.org/10.5281/zenodo.15000682>
+
+## Other resources
+
+# Case Studies or Implementation Examples
+
+Many case studies of organisations and groups that used the SCOPE framework are available at <https://inorms.net/scope-framework-for-research-evaluation/>.

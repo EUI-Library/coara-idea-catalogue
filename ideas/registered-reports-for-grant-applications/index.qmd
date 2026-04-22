@@ -1,0 +1,75 @@
+---
+title: "Registered Reports for Grant Applications"
+author: "William Cawthorn, Crispin Jordan, Experiments in Assessment WG"
+date: 2026-04-09
+date-modified: last-modified
+categories: ["Level 3", "Aim: Value process", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 6", "CoARA Commitment 7", "CoARA Commitment 10", "Target: Funder", "Target: Academic Institution", "Target: Research Group", "Target: Meta-researcher", "Target: Editor and publisher"]
+description: "Build a new arm / branch through which grant applications can be submitted, in which applicants have already published their study rationale and methodology as a registered report."
+image: false
+---
+
+::: {.callout-warning icon=false}
+
+## Objectives and potential outcome
+
+- Improve quality of research design   
+- Improve research openness   
+- Improve research assessment by giving academics credit for their ideas and the work that they put into funding proposals (regardless of whether these are funded).   
+- Alleviate pressure on grant funding system.   
+
+:::
+
+## Research domains
+
+This assessment can fit in any domain where projects are being assessed.
+
+## Context and considerations
+
+
+There would be many benefits to this, including alleviating pressure on the overloaded funding system (https://www.nature.com/articles/d41586-025-02584-w). If applicants were required to have already published a registered report, this would delegate a big part of the grant review to the journals: it would confirm that the rationale and study design is robust. Funders could then decide if the proposal aligns with their priorities. As a result, registered reports for grant applications would benefit funders, academics, and users of research outcomes (by improving research quality).  
+
+Experiments targeting this idea could look at several aspects of the implementation, including:
+
+- Determining if this is a viable alternative route to assessing grant applications.   
+- Determining if this promotes increased study preregistration and registered reports.   
+- Determining if this improves the quality of the research proposals. For example, experiments could look at whether registered reports for grant applications improved quality and efficiency of assessment of research proposals.  
+- Determining whether registered reports for grant applications enable academics to get visibility and credit for the work they put into proposals, regardless of whether these are funded.  
+- Determining whether registered reports for grant applications change publication process by encouraging preregistration. of research (i.e., cultural change).    
+
+## Challenges and mitigations
+
+**Challenges:** Buy-in from funders and academics, especially if academics worry about disclosing their ideas: what would happen if they published their idea but it wasn't funded? We think this would allow academics to gain credit for their ideas, but they may worry about being 'scooped'.  
+
+**Mitigation and further reading:** Cancer Research UK is piloting a version of this proposal [https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/registered-reports](https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/registered-reports). We can learn from their experience if/when we expand this experiment.
+
+## Evaluating success
+
+Evaluation criteria could relate to:
+
+- Increased number of open research outputs, including registered reports.  
+- Deceased pressure on grant application review systems, including the time taken to reach a decision.  
+- Improved integrity and robustness of research outcomes (because of improved study design).  
+
+
+## Related CoARA commitments
+
+- **CoARA Commitment 3** - Abandon inappropriate uses in research assessment of journal- and publication-based metrics, in particular inappropriate uses of Journal Impact Factor (JIF) and h-index
+- **CoARA Commitment 6** - Review and develop research assessment criteria, tools and processes
+- **CoARA Commitment 7** - Raise awareness of research assessment reform and provide transparent communication, guidance, and training on assessment criteria and processes as well as their use
+- **CoARA Commitment 10** - Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research
+
+
+# Relevant resources and literature
+
+This section includes resources, literature, and reports relevant to this specific experimental idea.
+
+## Templates from funders and institutions
+
+## Case examples and literature
+
+A form of this is being piloted by [Cancer Research UK](https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/registered-reports), with the registered report submitted only for successful applications, before the project begins.
+
+## Other resources
+
+# Case Studies or Implementation Examples
+

@@ -1,0 +1,53 @@
+---
+title: "Reviewers informing review process and criteria"
+author: "Experiments in Assessment WG"
+date: 2026-04-09
+date-modified: last-modified
+categories: ["Level 0", "Aim: Inclusivity", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions", "Aim: Value process", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 8", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group", "Target: Individual scholar", "Target: Meta-Researcher", "Target: Editor and Publisher"]
+description: "Involving reviewers in reviewing assessment processes and criteria can help building assessment processes that target the intended outcomes by keeping realistic and achievable objectives and by giving reviewers – who are often reviewed themselves on other occasions – a voice in the process."
+image: false
+---
+
+::: {.callout-warning icon=false}
+
+## Objectives and potential outcome
+
+-	Reflect on the impacts that current research assessment may have on researchers and research practices.    
+- Adapt assessment processes  
+- Avoid negative unintended consequences   
+
+:::
+
+## Research domains
+
+This assessment can fit in any domain where reviewers are assigned to assess applications or outputs. These could be peer reviewers for scientific outputs and achievements, reviewers for hiring, promotion, and recognition processes, or reviewers for funding applications.    
+
+## Context and considerations
+
+## Challenges and mitigations
+
+## Evaluating success
+
+## Related CoARA commitments
+
+- **CoARA Commitment 1** - Recognise the diversity of contributions to, and careers in, research in accordance with the needs and nature of the research  
+- **CoARA Commitment 2** - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+- **CoARA Commitment 6** - Review and develop research assessment criteria, tools and processes  
+- **CoARA Commitment 8** - Exchange practices and experiences to enable mutual learning within and beyond the Coalition  
+
+# Relevant resources and literature
+
+## Templates from funders and institutions
+
+## Case examples and literature
+
+Health Research Board (Ireland) did a [series of evaluations of the narrative style CV](https://www.hrb.ie/funding/responsible-research-assessment/hrb-narrative-style-cv/) in which they targeted, amongst other things, the perspective and experiences of reviewers in assessing the narrative style CV. These evaluations directly informed the CV's content and deployment in funding programme applications.
+
+
+## Other resources
+
+
+
+# Case Studies or Implementation Examples
+
+Many case studies of organisations and groups that used the SCOPE framework are available at <https://inorms.net/scope-framework-for-research-evaluation/>.
