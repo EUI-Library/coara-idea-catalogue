@@ -72,7 +72,7 @@ The final stage of SCOPE is to run the evaluation, and then evaluate your evalua
 - What are your OPTIONS for evaluating your evaluation?    
 - Can you PROBE the evaluation outcomes to identify any unintended consequences or discriminatory effects?   
 
-Further details and guiding questions are available in the full guide to the [SCOPE Framework](https://inorms.net/wp-content/uploads/2022/03/21655-scope-guide-v10.pdf)**
+Further details and guiding questions are available in the full guide to the **[SCOPE Framework](https://inorms.net/wp-content/uploads/2022/03/21655-scope-guide-v10.pdf)**
 
 ## Related CoARA commitments
 
