@@ -3,7 +3,7 @@ title: "Recognition of peer Review"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "Aim: Recognition", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Value process", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 7", "Target: Editor and publisher", "Target: Academic Institution", "Target: Funder", "Target: Meta-Researcher"]
+categories: ["Level 1", "Aim: Recognition", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Value process", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 7", "Target: Editor and publisher", "Target: Academic institution", "Target: Funder", "Target: Meta-researcher"]
 description: "Recognition of peer review treats reviewing as a measurable scholarly contribution. It enhances transparency and accountability, incentivizes high-quality evaluations, and integrates review activity into research assessment systems—acknowledging its essential role in maintaining research integrity, community service, and the advancement of disciplinary standards."
 image: false
 ---

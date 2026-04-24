@@ -3,7 +3,7 @@ title: "Making all science anonymous"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Collaboration", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Individual scholar", "Target: Meta-Researcher", "Target: Editor and publisher"]
+categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Collaboration", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Individual scholar", "Target: Meta-researcher", "Target: Editor and publisher"]
 description: "Dropping all names from research proposals, research outputs, etc. so that science becomes a common and community-driven initiatve, with no individual reputational goals or gain."
 image: false
 ---

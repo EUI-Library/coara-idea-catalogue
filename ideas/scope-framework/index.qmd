@@ -3,7 +3,7 @@ title: "SCOPE Framework"
 author: "Elizabeth Gadd, Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions",  "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 3", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group", "Target: Individual scholar", "Target: Meta-Researcher"]
+categories: ["Level 0", "Aim: Value process", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "Aim: Alternative questions",  "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 3", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Individual scholar", "Target: Meta-researcher"]
 description: "The SCOPE framework for research evaluation is a five-stage model for evaluating responsibly. It is a practical step-by-step process designed to help research managers, or anyone involved in conducting research evaluations, in planning new evaluations as well as check existing evaluations."
 image: false
 ---

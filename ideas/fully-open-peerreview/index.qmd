@@ -3,7 +3,7 @@ title: "Fully open peer-review"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "Aim: Value process", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 7", "Target: Editor and publisher", "Target: Academic Institution", "Target: Funder", "Target: Research Group", "Target: Meta-Researcher"]
+categories: ["Level 1", "Aim: Value process", "Aim: Inclusivity", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "CoARA Commitment 7", "Target: Editor and publisher", "Target: Academic institution", "Target: Funder", "Target: Research group", "Target: Meta-researcher"]
 description: "Peer review in which reviewers and applicants know each other's identities. This can extend to public sharing of peer-review reports."
 image: false
 ---

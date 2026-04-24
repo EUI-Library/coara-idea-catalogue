@@ -3,7 +3,7 @@ title: "Skills based assessment/development"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic Institution", "Target: Research Group", "Target: Meta-researcher"]
+categories: ["Level 0", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 6", "Target: Academic institution", "Target: Research group", "Target: Meta-researcher"]
 description: "Focusing assessment and/or career development on skills and competencies rather than on outputs and past achievements."
 image: false
 ---

@@ -3,7 +3,7 @@ title: "Forward looking assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 0", "Aim: Value process", "Aim: Alternative questions", "Aim: Recognition", "Aim: Diversity", "Target: Academic Institution", "Target: Research Group", "Target: Funder", "Target: Individual scholar", "CoARA Commitment 1", "CoARA Commitment 3", "CoARA Commitment 4"]
+categories: ["Level 0", "Aim: Value process", "Aim: Alternative questions", "Aim: Recognition", "Aim: Diversity", "Target: Academic institution", "Target: Research group", "Target: Funder", "Target: Individual scholar", "CoARA Commitment 1", "CoARA Commitment 3", "CoARA Commitment 4"]
 description: "Career assessment focusing on future activities and potential rather than track record and what has been done already."
 image: false
 ---

@@ -3,7 +3,7 @@ title: "Registered Reports for Grant Applications"
 author: "William Cawthorn, Crispin Jordan, Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 3", "Aim: Value process", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 6", "CoARA Commitment 7", "CoARA Commitment 10", "Target: Funder", "Target: Academic Institution", "Target: Research Group", "Target: Meta-researcher", "Target: Editor and publisher"]
+categories: ["Level 3", "Aim: Value process", "Aim: Bias mitigation", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 6", "CoARA Commitment 7", "CoARA Commitment 10", "Target: Funder", "Target: Academic institution", "Target: Research group", "Target: Meta-researcher", "Target: Editor and publisher"]
 description: "Build a new arm / branch through which grant applications can be submitted, in which applicants have already published their study rationale and methodology as a registered report."
 image: false
 ---

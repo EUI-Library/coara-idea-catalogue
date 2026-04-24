@@ -3,7 +3,7 @@ title: "Team assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 2", "Aim: Inclusivity", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Scholarly association", "Target: Research Group", "Target: Meta-Researcher"]
+categories: ["Level 2", "Aim: Inclusivity", "Aim: Recognition", "Aim: Diversity", "Aim: Collaboration", "CoARA Commitment 1", "CoARA Commitment 2", "CoARA Commitment 4", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Meta-researcher"]
 description: "Team assessment enables the evaluation of collective research performance, emphasizing shared outputs, interdisciplinary collaboration, and distributed contributions."
 image: false
 ---

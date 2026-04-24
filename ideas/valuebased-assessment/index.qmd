@@ -3,7 +3,7 @@ title: "Value-based assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 4", "Aim: Value process", "Aim: Collaboration", "Aim: Alternative questions", "Aim: Diversity", "CoARA Commitment 2", "CoARA Commitment 5", "CoARA Commitment 6", "Target: Funder", "Target: Academic Institution", "Target: Research Group", "Target: Individual scholar", "Target: Scholarly association"]
+categories: ["Level 4", "Aim: Value process", "Aim: Collaboration", "Aim: Alternative questions", "Aim: Diversity", "CoARA Commitment 2", "CoARA Commitment 5", "CoARA Commitment 6", "Target: Funder", "Target: Academic institution", "Target: Research group", "Target: Individual scholar", "Target: Scholarly association"]
 description: "Identifying fundamental values for a research funding or hiring programme, and centering the assessment on those values (e.g. as evaluation criteria)."
 image: false
 ---

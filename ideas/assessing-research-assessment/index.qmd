@@ -3,7 +3,7 @@ title: "Assessing Research Assessment"
 author: "Experiments in Assessment WG"
 date: 2026-04-09
 date-modified: last-modified
-categories: ["Level 1", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 5", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research Group", "Target: Individual scholar", "Target: Meta-Researcher", "Target: Editor and publisher"]
+categories: ["Level 1", "Aim: Value process", "Aim: Recognition", "Aim: Alternative questions", "CoARA Commitment 3", "CoARA Commitment 5", "CoARA Commitment 6", "CoARA Commitment 10", "Target: Funder", "Target: Academic institution", "Target: Scholarly association", "Target: Research group", "Target: Individual scholar", "Target: Meta-researcher", "Target: Editor and publisher"]
 description: "Assessing research assessment means making a careful evaluation to identify whether ongoing assessments are fit for purpose, or whether newly implemented research assessment have the intended impacts."
 image: false
 ---
