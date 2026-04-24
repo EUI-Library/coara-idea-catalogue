@@ -6,6 +6,14 @@ project:
 website:
   title: "Experiments in Assessment Idea Catalogue"
   site-url: experiments.coara.org
+  google-analytics: 
+    tracking-id: "G-RXM2DQ4EPP"
+    storage: cookies
+  cookie-consent:
+    type: implied
+    style: simple
+    palette: light
+    policy-url: https://www.coara.org/cookies/
   favicon: images/favicon-180x180-1-150x150.png
   search: 
     location: navbar
