@@ -18,7 +18,7 @@ image: false
 
 ## Context and considerations
 
-EDI tiebreaks are often used as secondary criteria in the case of indentically ranked or scored proposals/applications, using EDI as a tie-breaking measure. 
+Equality, Diversity and Inclusion (EDI) tiebreaks are often used as secondary criteria in the case of indentically ranked or scored proposals/applications, using EDI as a tie-breaking measure. 
 
 ## Challenges and mitigations
 
