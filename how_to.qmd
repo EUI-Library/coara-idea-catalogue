@@ -54,9 +54,10 @@ You can find ideas using the following categories:
 - **Challenge - Collaboration** = How can we foster collaboration through assessment?
 - **Challenge - DifferentQuestions** = How can we ask assessment questions differently?
 
-### Completeness of the idea and status of experimentation
+### Completeness of the idea and status of experimentation. 
+*Note that this completeness level refers to how the ideas are developed withint the Catalogue, not to how they are implemented in practice.*
 - **Level 0** = Level of completeness: 0 – The experiment only contains the description and minimal details. This level is meant to provide inspiration for experiments that can be developed further by those experimenting.
-- **Level 1** = Level of completeness: 1 –  The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
+- **Level 1** = Level of completeness: 1 – The experiment contains minimal details. Organisations will need to build the experimentation plan before they can implement the idea.
 - **Level 2** = Level of completeness: 2 – The experiment contains minimal details that may help with the design and implementation, but organisations will need to build most of the experimentation plan before they can fully implement the idea.
 - **Level 3** = Level of completeness: 3 – The experiment contains some details that may help with the design and implementation, but organisations will need to finalise the experimentation plan before they can fully implement the idea.
 - **Level 4** = Level of completeness: 4 – The experiment contains details that can provide useful guidance for implementation, but additional research will need to be done by experimenting organisation. Few real life cases exist.
