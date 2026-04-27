@@ -23,10 +23,10 @@ The main aim of double blind peer review is to avoid biases that may be caused b
 ## Challenges and mitigations
 
 **Challenge:** It might be possible to identify applicants even with the applicants being blinded. It may also happen that the reviewers incorrectly believe they know who the applicant is, and their judgement is biased even if their assumption is proven wrong.  
-**Mitigation:** Having better Bias mitigation training for assessors may be a first step in removing biases and/or desire for assessors to attempt to identify applicants.
+**Mitigation:** Having better bias mitigation training for assessors may be a first step in removing biases and/or desire for assessors to attempt to identify applicants.
 
 **Challenge:** Verifying information and obtaining output details from applicants (e.g., publication titles) may not be possible if a blind peer-review is seeked.  
-**Mitigation: Selecting assessments where little personal details are needed may be preferable for this process. For instance, fellowships, hiring, and promotion procedures may require more personal/applicant details and may not always be possible to implement in a double-blind peer review process. 
+**Mitigation:** Selecting assessments where little personal details are needed may be preferable for this process. For instance, fellowships, hiring, and promotion procedures may require more personal/applicant details and may not always be possible to implement in a double-blind peer review process. 
 
 **Challenge:** In some cases, funding agencies may need to be open about reviewers' identities to control for potential conflicts of interest.
 
