@@ -143,6 +143,11 @@ Provide **training modules** to help applicants understand the evaluation criter
 
 ## Related CoARA commitments
 
+**CoARA Commitment 2** - Base research assessment primarily on qualitative evaluation for which peer review is central, supported by responsible use of quantitative indicators  
+**CoARA Commitment 6** - Review and develop research assessment criteria, tools and processes  
+**CoARA Commitment 10** - Evaluate practices, criteria and tools based on solid evidence and the state-of-the-art in research on research, and make data openly available for evidence gathering and research  
+
+
 # Relevant resources and literature 
   
 Research on Research Institute (RORI), Stafford, T., Pinfield, S., Butters, A., Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review. *Research on Research Institute.* Report. [https://doi.org/10.6084/m9.figshare.29270534.v1](https://doi.org/10.6084/m9.figshare.29270534.v1)  
