@@ -35,6 +35,9 @@ This section includes resources, literature, and reports relevant to this specif
 
 ## Case examples and literature
 
+Iterative assessments, where proposals are submitted and may be accepted, rejected or provided with feedback for the investigators to respond to, before being re-considered for funding are being investigated with some funders. The **Canadian Institutes of Health Research** uses this process for their *[Indigenous Health Research program](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?progCd=11378&language=E&org=CIHR)*. There was a similar process formerly used in the Randomized Controlled Trials Committees of their old Open Operating Grants Program called UCR (under Continuing Review), where if the committee had simple questions that could make or break a proposal, they could rate the application provisionally based on satisfactory response to the questions. If the application then fell within the funding cut-off, the applicant would receive the question(s) and have 5 business days to respond. If the response was satisfactory they would get funded, if it wasn't they would be deemed unfundable and would need to re-apply in a future competition. Further details on CIHR peer review processes can be found [here](https://cihr-irsc.gc.ca/e/49807.html).  
+
+
 ## Other resources
 
 The Swiss National Science Foundation (SNSF) allows applicants to resubmit an application after receiving feedback. These applications are now treated as new applications. [https://www.snf.ch/en/BKzdS5u83b9pP1QK/news/resubmission-of-applications](https://www.snf.ch/en/BKzdS5u83b9pP1QK/news/resubmission-of-applications )
