@@ -29,6 +29,8 @@ A collection of different experimental ideas are represented here, that can be u
 
 For information on how to use this catalogue, please look at the [Idea Catalogue How-To Guide](/how_to.qmd) 
 
+Follow this link to see the [slides from our launch event](https://doi.org/10.5281/zenodo.19855315){target="_blank"}. 
+
 ::: {.callout-tip}
 ## Provide input, comments and feedback
 
