@@ -40,4 +40,6 @@ You can also provide comments and feedback in two ways:
 
 - Directly on each individual idea page using Hypothesis. See [Annotating with Hypothesis](hypothesis-annotation-guide.qmd)
 - Using the [Idea Catalogue Feedback Form](https://forms.gle/NkiTKMdTfpgzpwki7).
+
+NEW - In the coming months, we are planning to start a recurrent, informal meeting to discuss experiments in research assessment. If you are interested, please fill in [this form](https://forms.gle/4tmhVYSNfHpriPRe6) so we can send you more details once we are ready to start! 
 :::
