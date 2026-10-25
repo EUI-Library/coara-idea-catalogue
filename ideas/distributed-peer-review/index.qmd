@@ -150,7 +150,7 @@ Provide **training modules** to help applicants understand the evaluation criter
 
 # Relevant resources and literature 
   
-RoRI undertook a mixed methods evaluation comparing distributed peer review with standard panel review process for the 2024 and 2025 calls at the Volkswagon Foundation (also see Volkswagen Foundation resources in the Case Examples below). Report available at Butters, A., Benson Marshall, M., Pinfield, S., Stafford, T., Bondarenko, A., Nuske, R., et al. (2026). Distributed Peer Review at the Volkswagen Foundation (RoRI Working Paper No. 23). Research on Research Institute. Report. [https://doi.org/10.6084/m9.figshare.34701069.v3](https://doi.org/10.6084/m9.figshare.34701069.v3)
+RoRI undertook a mixed methods evaluation comparing distributed peer review with standard panel review process for the 2024 and 2025 calls at the Volkswagen Foundation (also see Volkswagen Foundation resources in the Case Examples below). Report available at Butters, A., Benson Marshall, M., Pinfield, S., Stafford, T., Bondarenko, A., Nuske, R., et al. (2026). Distributed Peer Review at the Volkswagen Foundation (RoRI Working Paper No. 23). Research on Research Institute. Report. [https://doi.org/10.6084/m9.figshare.34701069.v3](https://doi.org/10.6084/m9.figshare.34701069.v3)
 
 Research on Research Institute (RORI), Stafford, T., Pinfield, S., Butters, A., Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review. *Research on Research Institute.* Report. [https://doi.org/10.6084/m9.figshare.29270534.v1](https://doi.org/10.6084/m9.figshare.29270534.v1)  
   
